@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "/Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/bert_5050_mode11/bertsekas-marl/runAutoOffline_Cross.py", line 268, in <module>
+    env = gym.make(SpiderAndFlyEnv, seed=SEED)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/bertsekas-marl/spider/lib/python3.11/site-packages/gym/envs/registration.py", line 200, in make
+    return registry.make(id, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/bertsekas-marl/spider/lib/python3.11/site-packages/gym/envs/registration.py", line 105, in make
+    env = spec.make(**kwargs)
+          ^^^^^^^^^^^^^^^^^^^
+  File "/Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/bertsekas-marl/spider/lib/python3.11/site-packages/gym/envs/registration.py", line 75, in make
+    env = cls(**_kwargs)
+          ^^^^^^^^^^^^^^
+TypeError: PredatorPrey.__init__() got an unexpected keyword argument 'seed'

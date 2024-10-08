@@ -1,0 +1,1204 @@
+{
+    "0": [
+        {
+            "StepsToSolve": 14,
+            "compute_Time": 0.010876178741455078
+        },
+        {
+            "StepsToSolve": 12,
+            "compute_Time": 0.00852203369140625
+        },
+        {
+            "StepsToSolve": 5,
+            "compute_Time": 0.00458216667175293
+        },
+        {
+            "StepsToSolve": 14,
+            "compute_Time": 0.01038217544555664
+        },
+        {
+            "StepsToSolve": 23,
+            "compute_Time": 0.016230106353759766
+        },
+        {
+            "StepsToSolve": 21,
+            "compute_Time": 0.01581120491027832
+        },
+        {
+            "StepsToSolve": 15,
+            "compute_Time": 0.011559009552001953
+        },
+        {
+            "StepsToSolve": 24,
+            "compute_Time": 0.018378019332885742
+        },
+        {
+            "StepsToSolve": 8,
+            "compute_Time": 0.0063991546630859375
+        },
+        {
+            "StepsToSolve": 6,
+            "compute_Time": 0.004973173141479492
+        },
+        {
+            "StepsToSolve": 21,
+            "compute_Time": 0.01571798324584961
+        },
+        {
+            "StepsToSolve": 20,
+            "compute_Time": 0.015012741088867188
+        },
+        {
+            "StepsToSolve": 25,
+            "compute_Time": 0.01795482635498047
+        },
+        {
+            "StepsToSolve": 13,
+            "compute_Time": 0.009752988815307617
+        },
+        {
+            "StepsToSolve": 21,
+            "compute_Time": 0.017399072647094727
+        },
+        {
+            "StepsToSolve": 18,
+            "compute_Time": 0.014885902404785156
+        },
+        {
+            "StepsToSolve": 4,
+            "compute_Time": 0.0037610530853271484
+        },
+        {
+            "StepsToSolve": 10,
+            "compute_Time": 0.0070037841796875
+        },
+        {
+            "StepsToSolve": 15,
+            "compute_Time": 0.010567188262939453
+        },
+        {
+            "StepsToSolve": 11,
+            "compute_Time": 0.008414983749389648
+        },
+        {
+            "StepsToSolve": 20,
+            "compute_Time": 0.013415813446044922
+        },
+        {
+            "StepsToSolve": 6,
+            "compute_Time": 0.0054168701171875
+        },
+        {
+            "StepsToSolve": 15,
+            "compute_Time": 0.013803958892822266
+        },
+        {
+            "StepsToSolve": 12,
+            "compute_Time": 0.011986970901489258
+        },
+        {
+            "StepsToSolve": 22,
+            "compute_Time": 0.016271114349365234
+        },
+        {
+            "StepsToSolve": 21,
+            "compute_Time": 0.01647496223449707
+        },
+        {
+            "StepsToSolve": 12,
+            "compute_Time": 0.02192401885986328
+        },
+        {
+            "StepsToSolve": 15,
+            "compute_Time": 0.012523174285888672
+        },
+        {
+            "StepsToSolve": 27,
+            "compute_Time": 0.019305944442749023
+        },
+        {
+            "StepsToSolve": 15,
+            "compute_Time": 0.011388778686523438
+        },
+        {
+            "StepsToSolve": 11,
+            "compute_Time": 0.008347272872924805
+        },
+        {
+            "StepsToSolve": 6,
+            "compute_Time": 0.00464177131652832
+        },
+        {
+            "StepsToSolve": 26,
+            "compute_Time": 0.018615007400512695
+        },
+        {
+            "StepsToSolve": 14,
+            "compute_Time": 0.009985923767089844
+        },
+        {
+            "StepsToSolve": 5,
+            "compute_Time": 0.004071950912475586
+        },
+        {
+            "StepsToSolve": 15,
+            "compute_Time": 0.010680913925170898
+        },
+        {
+            "StepsToSolve": 17,
+            "compute_Time": 0.01191401481628418
+        },
+        {
+            "StepsToSolve": 9,
+            "compute_Time": 0.007224082946777344
+        },
+        {
+            "StepsToSolve": 14,
+            "compute_Time": 0.01026010513305664
+        },
+        {
+            "StepsToSolve": 11,
+            "compute_Time": 0.008399009704589844
+        },
+        {
+            "StepsToSolve": 5,
+            "compute_Time": 0.0045549869537353516
+        },
+        {
+            "StepsToSolve": 17,
+            "compute_Time": 0.011942148208618164
+        },
+        {
+            "StepsToSolve": 11,
+            "compute_Time": 0.008601188659667969
+        },
+        {
+            "StepsToSolve": 10,
+            "compute_Time": 0.008301973342895508
+        },
+        {
+            "StepsToSolve": 9,
+            "compute_Time": 0.0067441463470458984
+        },
+        {
+            "StepsToSolve": 6,
+            "compute_Time": 0.0055501461029052734
+        },
+        {
+            "StepsToSolve": 21,
+            "compute_Time": 0.015085935592651367
+        },
+        {
+            "StepsToSolve": 13,
+            "compute_Time": 0.010735750198364258
+        },
+        {
+            "StepsToSolve": 7,
+            "compute_Time": 0.006128787994384766
+        },
+        {
+            "StepsToSolve": 15,
+            "compute_Time": 0.010467052459716797
+        },
+        {
+            "StepsToSolve": 14,
+            "compute_Time": 0.01070094108581543
+        },
+        {
+            "StepsToSolve": 29,
+            "compute_Time": 0.018830060958862305
+        },
+        {
+            "StepsToSolve": 19,
+            "compute_Time": 0.012580156326293945
+        },
+        {
+            "StepsToSolve": 18,
+            "compute_Time": 0.012533187866210938
+        },
+        {
+            "StepsToSolve": 22,
+            "compute_Time": 0.015550851821899414
+        },
+        {
+            "StepsToSolve": 7,
+            "compute_Time": 0.006542205810546875
+        },
+        {
+            "StepsToSolve": 12,
+            "compute_Time": 0.00947713851928711
+        },
+        {
+            "StepsToSolve": 12,
+            "compute_Time": 0.009199857711791992
+        },
+        {
+            "StepsToSolve": 14,
+            "compute_Time": 0.010168075561523438
+        },
+        {
+            "StepsToSolve": 9,
+            "compute_Time": 0.006487131118774414
+        },
+        {
+            "StepsToSolve": 20,
+            "compute_Time": 0.014462947845458984
+        },
+        {
+            "StepsToSolve": 17,
+            "compute_Time": 0.013309001922607422
+        },
+        {
+            "StepsToSolve": 20,
+            "compute_Time": 0.014138936996459961
+        },
+        {
+            "StepsToSolve": 9,
+            "compute_Time": 0.0076100826263427734
+        },
+        {
+            "StepsToSolve": 20,
+            "compute_Time": 0.014868021011352539
+        },
+        {
+            "StepsToSolve": 26,
+            "compute_Time": 0.017338275909423828
+        },
+        {
+            "StepsToSolve": 19,
+            "compute_Time": 0.013230085372924805
+        },
+        {
+            "StepsToSolve": 7,
+            "compute_Time": 0.006203889846801758
+        },
+        {
+            "StepsToSolve": 17,
+            "compute_Time": 0.012422800064086914
+        },
+        {
+            "StepsToSolve": 9,
+            "compute_Time": 0.006874799728393555
+        },
+        {
+            "StepsToSolve": 18,
+            "compute_Time": 0.012989997863769531
+        },
+        {
+            "StepsToSolve": 15,
+            "compute_Time": 0.011935949325561523
+        },
+        {
+            "StepsToSolve": 22,
+            "compute_Time": 0.016076087951660156
+        },
+        {
+            "StepsToSolve": 12,
+            "compute_Time": 0.00868082046508789
+        },
+        {
+            "StepsToSolve": 17,
+            "compute_Time": 0.012410879135131836
+        },
+        {
+            "StepsToSolve": 9,
+            "compute_Time": 0.006563901901245117
+        },
+        {
+            "StepsToSolve": 22,
+            "compute_Time": 0.015757083892822266
+        },
+        {
+            "StepsToSolve": 13,
+            "compute_Time": 0.01007699966430664
+        },
+        {
+            "StepsToSolve": 16,
+            "compute_Time": 0.012063980102539062
+        },
+        {
+            "StepsToSolve": 13,
+            "compute_Time": 0.010043144226074219
+        },
+        {
+            "StepsToSolve": 29,
+            "compute_Time": 0.020624160766601562
+        },
+        {
+            "StepsToSolve": 14,
+            "compute_Time": 0.010469913482666016
+        },
+        {
+            "StepsToSolve": 21,
+            "compute_Time": 0.015810728073120117
+        },
+        {
+            "StepsToSolve": 7,
+            "compute_Time": 0.005831003189086914
+        },
+        {
+            "StepsToSolve": 13,
+            "compute_Time": 0.010328054428100586
+        },
+        {
+            "StepsToSolve": 20,
+            "compute_Time": 0.013281106948852539
+        },
+        {
+            "StepsToSolve": 23,
+            "compute_Time": 0.01624298095703125
+        },
+        {
+            "StepsToSolve": 13,
+            "compute_Time": 0.010474920272827148
+        },
+        {
+            "StepsToSolve": 17,
+            "compute_Time": 0.011748075485229492
+        },
+        {
+            "StepsToSolve": 23,
+            "compute_Time": 0.015526056289672852
+        },
+        {
+            "StepsToSolve": 22,
+            "compute_Time": 0.015229225158691406
+        },
+        {
+            "StepsToSolve": 17,
+            "compute_Time": 0.01242971420288086
+        },
+        {
+            "StepsToSolve": 20,
+            "compute_Time": 0.013691902160644531
+        },
+        {
+            "StepsToSolve": 20,
+            "compute_Time": 0.013965129852294922
+        },
+        {
+            "StepsToSolve": 6,
+            "compute_Time": 0.006284952163696289
+        },
+        {
+            "StepsToSolve": 22,
+            "compute_Time": 0.014616012573242188
+        },
+        {
+            "StepsToSolve": 34,
+            "compute_Time": 0.022149085998535156
+        },
+        {
+            "StepsToSolve": 8,
+            "compute_Time": 0.00693202018737793
+        },
+        {
+            "StepsToSolve": 4,
+            "compute_Time": 0.0034759044647216797
+        },
+        {
+            "StepsToSolve": 14,
+            "compute_Time": 0.01067495346069336
+        },
+        {
+            "StepsToSolve": 14,
+            "compute_Time": 0.01020503044128418
+        },
+        {
+            "StepsToSolve": 32,
+            "compute_Time": 0.022802114486694336
+        },
+        {
+            "StepsToSolve": 18,
+            "compute_Time": 0.012771129608154297
+        },
+        {
+            "StepsToSolve": 16,
+            "compute_Time": 0.010785102844238281
+        },
+        {
+            "StepsToSolve": 14,
+            "compute_Time": 0.011110067367553711
+        },
+        {
+            "StepsToSolve": 21,
+            "compute_Time": 0.015211105346679688
+        },
+        {
+            "StepsToSolve": 5,
+            "compute_Time": 0.004235029220581055
+        },
+        {
+            "StepsToSolve": 18,
+            "compute_Time": 0.013271093368530273
+        },
+        {
+            "StepsToSolve": 12,
+            "compute_Time": 0.008249759674072266
+        },
+        {
+            "StepsToSolve": 10,
+            "compute_Time": 0.0075418949127197266
+        },
+        {
+            "StepsToSolve": 16,
+            "compute_Time": 0.012244939804077148
+        },
+        {
+            "StepsToSolve": 14,
+            "compute_Time": 0.010993003845214844
+        },
+        {
+            "StepsToSolve": 5,
+            "compute_Time": 0.004645824432373047
+        },
+        {
+            "StepsToSolve": 23,
+            "compute_Time": 0.014916181564331055
+        },
+        {
+            "StepsToSolve": 32,
+            "compute_Time": 0.02153301239013672
+        },
+        {
+            "StepsToSolve": 26,
+            "compute_Time": 0.018999099731445312
+        },
+        {
+            "StepsToSolve": 11,
+            "compute_Time": 0.007976770401000977
+        },
+        {
+            "StepsToSolve": 6,
+            "compute_Time": 0.0045299530029296875
+        },
+        {
+            "StepsToSolve": 20,
+            "compute_Time": 0.01606297492980957
+        },
+        {
+            "StepsToSolve": 13,
+            "compute_Time": 0.009871959686279297
+        },
+        {
+            "StepsToSolve": 16,
+            "compute_Time": 0.011297941207885742
+        },
+        {
+            "StepsToSolve": 10,
+            "compute_Time": 0.007317066192626953
+        },
+        {
+            "StepsToSolve": 35,
+            "compute_Time": 0.024535179138183594
+        },
+        {
+            "StepsToSolve": 14,
+            "compute_Time": 0.010217905044555664
+        },
+        {
+            "StepsToSolve": 8,
+            "compute_Time": 0.006499052047729492
+        },
+        {
+            "StepsToSolve": 25,
+            "compute_Time": 0.015128135681152344
+        },
+        {
+            "StepsToSolve": 17,
+            "compute_Time": 0.012069940567016602
+        },
+        {
+            "StepsToSolve": 8,
+            "compute_Time": 0.006216287612915039
+        },
+        {
+            "StepsToSolve": 13,
+            "compute_Time": 0.009454965591430664
+        },
+        {
+            "StepsToSolve": 32,
+            "compute_Time": 0.022172212600708008
+        },
+        {
+            "StepsToSolve": 15,
+            "compute_Time": 0.01108407974243164
+        },
+        {
+            "StepsToSolve": 8,
+            "compute_Time": 0.006829261779785156
+        },
+        {
+            "StepsToSolve": 15,
+            "compute_Time": 0.011543035507202148
+        },
+        {
+            "StepsToSolve": 20,
+            "compute_Time": 0.014048099517822266
+        },
+        {
+            "StepsToSolve": 7,
+            "compute_Time": 0.00512385368347168
+        },
+        {
+            "StepsToSolve": 15,
+            "compute_Time": 0.010455131530761719
+        },
+        {
+            "StepsToSolve": 7,
+            "compute_Time": 0.005871295928955078
+        },
+        {
+            "StepsToSolve": 6,
+            "compute_Time": 0.005097866058349609
+        },
+        {
+            "StepsToSolve": 4,
+            "compute_Time": 0.0041348934173583984
+        },
+        {
+            "StepsToSolve": 14,
+            "compute_Time": 0.011260986328125
+        },
+        {
+            "StepsToSolve": 30,
+            "compute_Time": 0.019702911376953125
+        },
+        {
+            "StepsToSolve": 10,
+            "compute_Time": 0.007224082946777344
+        },
+        {
+            "StepsToSolve": 23,
+            "compute_Time": 0.01618480682373047
+        },
+        {
+            "StepsToSolve": 13,
+            "compute_Time": 0.00960993766784668
+        },
+        {
+            "StepsToSolve": 11,
+            "compute_Time": 0.008969783782958984
+        },
+        {
+            "StepsToSolve": 8,
+            "compute_Time": 0.006450176239013672
+        },
+        {
+            "StepsToSolve": 12,
+            "compute_Time": 0.009598016738891602
+        },
+        {
+            "StepsToSolve": 24,
+            "compute_Time": 0.01651287078857422
+        },
+        {
+            "StepsToSolve": 13,
+            "compute_Time": 0.010615825653076172
+        },
+        {
+            "StepsToSolve": 7,
+            "compute_Time": 0.005713939666748047
+        },
+        {
+            "StepsToSolve": 15,
+            "compute_Time": 0.010671138763427734
+        },
+        {
+            "StepsToSolve": 13,
+            "compute_Time": 0.008779048919677734
+        },
+        {
+            "StepsToSolve": 6,
+            "compute_Time": 0.005674839019775391
+        },
+        {
+            "StepsToSolve": 38,
+            "compute_Time": 0.026746034622192383
+        },
+        {
+            "StepsToSolve": 39,
+            "compute_Time": 0.02790665626525879
+        },
+        {
+            "StepsToSolve": 31,
+            "compute_Time": 0.023608684539794922
+        },
+        {
+            "StepsToSolve": 22,
+            "compute_Time": 0.022230148315429688
+        },
+        {
+            "StepsToSolve": 18,
+            "compute_Time": 0.013642072677612305
+        },
+        {
+            "StepsToSolve": 27,
+            "compute_Time": 0.019876956939697266
+        },
+        {
+            "StepsToSolve": 6,
+            "compute_Time": 0.005385875701904297
+        },
+        {
+            "StepsToSolve": 18,
+            "compute_Time": 0.012932062149047852
+        },
+        {
+            "StepsToSolve": 14,
+            "compute_Time": 0.011127233505249023
+        },
+        {
+            "StepsToSolve": 26,
+            "compute_Time": 0.01788806915283203
+        },
+        {
+            "StepsToSolve": 12,
+            "compute_Time": 0.009591102600097656
+        },
+        {
+            "StepsToSolve": 3,
+            "compute_Time": 0.003216981887817383
+        },
+        {
+            "StepsToSolve": 13,
+            "compute_Time": 0.00935816764831543
+        },
+        {
+            "StepsToSolve": 16,
+            "compute_Time": 0.011755704879760742
+        },
+        {
+            "StepsToSolve": 16,
+            "compute_Time": 0.01102900505065918
+        },
+        {
+            "StepsToSolve": 30,
+            "compute_Time": 0.02176809310913086
+        },
+        {
+            "StepsToSolve": 6,
+            "compute_Time": 0.005190134048461914
+        },
+        {
+            "StepsToSolve": 7,
+            "compute_Time": 0.005810976028442383
+        },
+        {
+            "StepsToSolve": 15,
+            "compute_Time": 0.010911941528320312
+        },
+        {
+            "StepsToSolve": 15,
+            "compute_Time": 0.011960029602050781
+        },
+        {
+            "StepsToSolve": 6,
+            "compute_Time": 0.0051479339599609375
+        },
+        {
+            "StepsToSolve": 6,
+            "compute_Time": 0.005333900451660156
+        },
+        {
+            "StepsToSolve": 13,
+            "compute_Time": 0.009722232818603516
+        },
+        {
+            "StepsToSolve": 13,
+            "compute_Time": 0.009529829025268555
+        },
+        {
+            "StepsToSolve": 14,
+            "compute_Time": 0.010511159896850586
+        },
+        {
+            "StepsToSolve": 9,
+            "compute_Time": 0.006398916244506836
+        },
+        {
+            "StepsToSolve": 13,
+            "compute_Time": 0.009679079055786133
+        },
+        {
+            "StepsToSolve": 36,
+            "compute_Time": 0.024393796920776367
+        },
+        {
+            "StepsToSolve": 11,
+            "compute_Time": 0.008202075958251953
+        },
+        {
+            "StepsToSolve": 23,
+            "compute_Time": 0.014806032180786133
+        },
+        {
+            "StepsToSolve": 19,
+            "compute_Time": 0.012317895889282227
+        },
+        {
+            "StepsToSolve": 9,
+            "compute_Time": 0.008304119110107422
+        },
+        {
+            "StepsToSolve": 15,
+            "compute_Time": 0.01100921630859375
+        },
+        {
+            "StepsToSolve": 22,
+            "compute_Time": 0.01547384262084961
+        },
+        {
+            "StepsToSolve": 8,
+            "compute_Time": 0.006150960922241211
+        },
+        {
+            "StepsToSolve": 16,
+            "compute_Time": 0.012690067291259766
+        },
+        {
+            "StepsToSolve": 11,
+            "compute_Time": 0.008018970489501953
+        },
+        {
+            "StepsToSolve": 17,
+            "compute_Time": 0.011921167373657227
+        },
+        {
+            "StepsToSolve": 23,
+            "compute_Time": 0.016670942306518555
+        },
+        {
+            "StepsToSolve": 15,
+            "compute_Time": 0.011013984680175781
+        },
+        {
+            "StepsToSolve": 20,
+            "compute_Time": 0.01570415496826172
+        },
+        {
+            "StepsToSolve": 10,
+            "compute_Time": 0.007848978042602539
+        },
+        {
+            "StepsToSolve": 14,
+            "compute_Time": 0.010025978088378906
+        },
+        {
+            "StepsToSolve": 6,
+            "compute_Time": 0.0054721832275390625
+        },
+        {
+            "StepsToSolve": 26,
+            "compute_Time": 0.01986098289489746
+        },
+        {
+            "StepsToSolve": 12,
+            "compute_Time": 0.00994110107421875
+        },
+        {
+            "StepsToSolve": 7,
+            "compute_Time": 0.0060999393463134766
+        },
+        {
+            "StepsToSolve": 12,
+            "compute_Time": 0.008440017700195312
+        },
+        {
+            "StepsToSolve": 8,
+            "compute_Time": 0.008054018020629883
+        },
+        {
+            "StepsToSolve": 9,
+            "compute_Time": 0.007555723190307617
+        },
+        {
+            "StepsToSolve": 5,
+            "compute_Time": 0.0041961669921875
+        },
+        {
+            "StepsToSolve": 18,
+            "compute_Time": 0.012866973876953125
+        },
+        {
+            "StepsToSolve": 7,
+            "compute_Time": 0.007568836212158203
+        },
+        {
+            "StepsToSolve": 12,
+            "compute_Time": 0.010408163070678711
+        },
+        {
+            "StepsToSolve": 15,
+            "compute_Time": 0.01182699203491211
+        },
+        {
+            "StepsToSolve": 7,
+            "compute_Time": 0.005265951156616211
+        },
+        {
+            "StepsToSolve": 14,
+            "compute_Time": 0.010396003723144531
+        },
+        {
+            "StepsToSolve": 7,
+            "compute_Time": 0.006685972213745117
+        },
+        {
+            "StepsToSolve": 14,
+            "compute_Time": 0.009712934494018555
+        },
+        {
+            "StepsToSolve": 16,
+            "compute_Time": 0.011695146560668945
+        },
+        {
+            "StepsToSolve": 22,
+            "compute_Time": 0.016590118408203125
+        },
+        {
+            "StepsToSolve": 19,
+            "compute_Time": 0.014539003372192383
+        },
+        {
+            "StepsToSolve": 6,
+            "compute_Time": 0.005171060562133789
+        },
+        {
+            "StepsToSolve": 11,
+            "compute_Time": 0.007888078689575195
+        },
+        {
+            "StepsToSolve": 8,
+            "compute_Time": 0.006658077239990234
+        },
+        {
+            "StepsToSolve": 19,
+            "compute_Time": 0.014982938766479492
+        },
+        {
+            "StepsToSolve": 12,
+            "compute_Time": 0.00847315788269043
+        },
+        {
+            "StepsToSolve": 28,
+            "compute_Time": 0.01848602294921875
+        },
+        {
+            "StepsToSolve": 19,
+            "compute_Time": 0.013325929641723633
+        },
+        {
+            "StepsToSolve": 18,
+            "compute_Time": 0.012254953384399414
+        },
+        {
+            "StepsToSolve": 27,
+            "compute_Time": 0.02052021026611328
+        },
+        {
+            "StepsToSolve": 19,
+            "compute_Time": 0.013715982437133789
+        },
+        {
+            "StepsToSolve": 24,
+            "compute_Time": 0.016984939575195312
+        },
+        {
+            "StepsToSolve": 4,
+            "compute_Time": 0.0041120052337646484
+        },
+        {
+            "StepsToSolve": 24,
+            "compute_Time": 0.01544809341430664
+        },
+        {
+            "StepsToSolve": 8,
+            "compute_Time": 0.0061838626861572266
+        },
+        {
+            "StepsToSolve": 6,
+            "compute_Time": 0.005248069763183594
+        },
+        {
+            "StepsToSolve": 9,
+            "compute_Time": 0.006617069244384766
+        },
+        {
+            "StepsToSolve": 14,
+            "compute_Time": 0.009688854217529297
+        },
+        {
+            "StepsToSolve": 39,
+            "compute_Time": 0.0260622501373291
+        },
+        {
+            "StepsToSolve": 15,
+            "compute_Time": 0.012192010879516602
+        },
+        {
+            "StepsToSolve": 13,
+            "compute_Time": 0.009887933731079102
+        },
+        {
+            "StepsToSolve": 14,
+            "compute_Time": 0.009387969970703125
+        },
+        {
+            "StepsToSolve": 17,
+            "compute_Time": 0.013338088989257812
+        },
+        {
+            "StepsToSolve": 11,
+            "compute_Time": 0.008897066116333008
+        },
+        {
+            "StepsToSolve": 11,
+            "compute_Time": 0.008761882781982422
+        },
+        {
+            "StepsToSolve": 4,
+            "compute_Time": 0.0037097930908203125
+        },
+        {
+            "StepsToSolve": 15,
+            "compute_Time": 0.010778665542602539
+        },
+        {
+            "StepsToSolve": 3,
+            "compute_Time": 0.0030171871185302734
+        },
+        {
+            "StepsToSolve": 18,
+            "compute_Time": 0.013226985931396484
+        },
+        {
+            "StepsToSolve": 13,
+            "compute_Time": 0.00945425033569336
+        },
+        {
+            "StepsToSolve": 7,
+            "compute_Time": 0.005621910095214844
+        },
+        {
+            "StepsToSolve": 24,
+            "compute_Time": 0.01587986946105957
+        },
+        {
+            "StepsToSolve": 21,
+            "compute_Time": 0.014974355697631836
+        },
+        {
+            "StepsToSolve": 21,
+            "compute_Time": 0.01408696174621582
+        },
+        {
+            "StepsToSolve": 5,
+            "compute_Time": 0.004436016082763672
+        },
+        {
+            "StepsToSolve": 13,
+            "compute_Time": 0.00875091552734375
+        },
+        {
+            "StepsToSolve": 22,
+            "compute_Time": 0.01576519012451172
+        },
+        {
+            "StepsToSolve": 24,
+            "compute_Time": 0.016191959381103516
+        },
+        {
+            "StepsToSolve": 14,
+            "compute_Time": 0.00963902473449707
+        },
+        {
+            "StepsToSolve": 11,
+            "compute_Time": 0.00810694694519043
+        },
+        {
+            "StepsToSolve": 27,
+            "compute_Time": 0.01999497413635254
+        },
+        {
+            "StepsToSolve": 20,
+            "compute_Time": 0.01394200325012207
+        },
+        {
+            "StepsToSolve": 32,
+            "compute_Time": 0.024129152297973633
+        },
+        {
+            "StepsToSolve": 8,
+            "compute_Time": 0.006575107574462891
+        },
+        {
+            "StepsToSolve": 16,
+            "compute_Time": 0.011216163635253906
+        },
+        {
+            "StepsToSolve": 7,
+            "compute_Time": 0.005754947662353516
+        },
+        {
+            "StepsToSolve": 8,
+            "compute_Time": 0.005980253219604492
+        },
+        {
+            "StepsToSolve": 14,
+            "compute_Time": 0.010382890701293945
+        },
+        {
+            "StepsToSolve": 35,
+            "compute_Time": 0.025899887084960938
+        },
+        {
+            "StepsToSolve": 15,
+            "compute_Time": 0.010515928268432617
+        },
+        {
+            "StepsToSolve": 30,
+            "compute_Time": 0.02198195457458496
+        },
+        {
+            "StepsToSolve": 29,
+            "compute_Time": 0.02151322364807129
+        },
+        {
+            "StepsToSolve": 19,
+            "compute_Time": 0.01482701301574707
+        },
+        {
+            "StepsToSolve": 10,
+            "compute_Time": 0.0074579715728759766
+        },
+        {
+            "StepsToSolve": 21,
+            "compute_Time": 0.01425480842590332
+        },
+        {
+            "StepsToSolve": 18,
+            "compute_Time": 0.013253927230834961
+        },
+        {
+            "StepsToSolve": 30,
+            "compute_Time": 0.0211489200592041
+        },
+        {
+            "StepsToSolve": 9,
+            "compute_Time": 0.0072460174560546875
+        },
+        {
+            "StepsToSolve": 17,
+            "compute_Time": 0.013273954391479492
+        },
+        {
+            "StepsToSolve": 20,
+            "compute_Time": 0.01505589485168457
+        },
+        {
+            "StepsToSolve": 6,
+            "compute_Time": 0.0053730010986328125
+        },
+        {
+            "StepsToSolve": 8,
+            "compute_Time": 0.0064239501953125
+        },
+        {
+            "StepsToSolve": 7,
+            "compute_Time": 0.006036043167114258
+        },
+        {
+            "StepsToSolve": 11,
+            "compute_Time": 0.008836984634399414
+        },
+        {
+            "StepsToSolve": 9,
+            "compute_Time": 0.0073320865631103516
+        },
+        {
+            "StepsToSolve": 13,
+            "compute_Time": 0.009664058685302734
+        },
+        {
+            "StepsToSolve": 15,
+            "compute_Time": 0.010710954666137695
+        },
+        {
+            "StepsToSolve": 37,
+            "compute_Time": 0.0233309268951416
+        },
+        {
+            "StepsToSolve": 11,
+            "compute_Time": 0.008450984954833984
+        },
+        {
+            "StepsToSolve": 13,
+            "compute_Time": 0.009908437728881836
+        },
+        {
+            "StepsToSolve": 6,
+            "compute_Time": 0.005251646041870117
+        },
+        {
+            "StepsToSolve": 3,
+            "compute_Time": 0.0028641223907470703
+        },
+        {
+            "StepsToSolve": 10,
+            "compute_Time": 0.007253885269165039
+        },
+        {
+            "StepsToSolve": 9,
+            "compute_Time": 0.007834196090698242
+        },
+        {
+            "StepsToSolve": 17,
+            "compute_Time": 0.012784957885742188
+        },
+        {
+            "StepsToSolve": 22,
+            "compute_Time": 0.014274835586547852
+        },
+        {
+            "StepsToSolve": 6,
+            "compute_Time": 0.004543304443359375
+        },
+        {
+            "StepsToSolve": 31,
+            "compute_Time": 0.01957106590270996
+        },
+        {
+            "StepsToSolve": 17,
+            "compute_Time": 0.011626005172729492
+        },
+        {
+            "StepsToSolve": 4,
+            "compute_Time": 0.003922939300537109
+        },
+        {
+            "StepsToSolve": 18,
+            "compute_Time": 0.01208806037902832
+        },
+        {
+            "StepsToSolve": 28,
+            "compute_Time": 0.02049994468688965
+        },
+        {
+            "StepsToSolve": 9,
+            "compute_Time": 0.007467985153198242
+        },
+        {
+            "StepsToSolve": 22,
+            "compute_Time": 0.016515016555786133
+        },
+        {
+            "StepsToSolve": 14,
+            "compute_Time": 0.010222196578979492
+        },
+        {
+            "StepsToSolve": 18,
+            "compute_Time": 0.014158010482788086
+        }
+    ]
+}

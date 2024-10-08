@@ -1,0 +1,189 @@
+2024-09-02 11:59:35,851 INFO    StreamThr :69202 [internal.py:wandb_internal():85] W&B internal server running at pid: 69202, started at: 2024-09-02 11:59:35.851536
+2024-09-02 11:59:35,852 DEBUG   HandlerThread:69202 [handler.py:handle_request():158] handle_request: status
+2024-09-02 11:59:35,855 INFO    WriterThread:69202 [datastore.py:open_for_write():87] open: /Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/bert_50x50 orig/bertsekas-marl/wandb/run-20240902_115935-2jm2fhp9/run-2jm2fhp9.wandb
+2024-09-02 11:59:35,855 DEBUG   SenderThread:69202 [sender.py:send():379] send: header
+2024-09-02 11:59:35,874 DEBUG   SenderThread:69202 [sender.py:send():379] send: run
+2024-09-02 11:59:36,303 INFO    SenderThread:69202 [dir_watcher.py:__init__():211] watching files in: /Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/bert_50x50 orig/bertsekas-marl/wandb/run-20240902_115935-2jm2fhp9/files
+2024-09-02 11:59:36,303 INFO    SenderThread:69202 [sender.py:_start_run_threads():1188] run started: 2jm2fhp9 with start time 1725267575.852876
+2024-09-02 11:59:36,309 DEBUG   HandlerThread:69202 [handler.py:handle_request():158] handle_request: check_version
+2024-09-02 11:59:36,309 DEBUG   SenderThread:69202 [sender.py:send_request():406] send_request: check_version
+2024-09-02 11:59:37,400 DEBUG   HandlerThread:69202 [handler.py:handle_request():158] handle_request: run_start
+2024-09-02 11:59:37,452 DEBUG   HandlerThread:69202 [system_info.py:__init__():26] System info init
+2024-09-02 11:59:37,452 DEBUG   HandlerThread:69202 [system_info.py:__init__():41] System info init done
+2024-09-02 11:59:37,452 INFO    HandlerThread:69202 [system_monitor.py:start():194] Starting system monitor
+2024-09-02 11:59:37,453 INFO    SystemMonitor:69202 [system_monitor.py:_start():158] Starting system asset monitoring threads
+2024-09-02 11:59:37,453 INFO    SystemMonitor:69202 [interfaces.py:start():188] Started cpu monitoring
+2024-09-02 11:59:37,453 INFO    HandlerThread:69202 [system_monitor.py:probe():214] Collecting system info
+2024-09-02 11:59:37,453 INFO    SystemMonitor:69202 [interfaces.py:start():188] Started disk monitoring
+2024-09-02 11:59:37,455 INFO    SystemMonitor:69202 [interfaces.py:start():188] Started gpuapple monitoring
+2024-09-02 11:59:37,458 INFO    SystemMonitor:69202 [interfaces.py:start():188] Started memory monitoring
+2024-09-02 11:59:37,460 INFO    SystemMonitor:69202 [interfaces.py:start():188] Started network monitoring
+2024-09-02 11:59:38,689 DEBUG   HandlerThread:69202 [system_info.py:probe():152] Probing system
+2024-09-02 11:59:38,696 DEBUG   HandlerThread:69202 [system_info.py:_probe_git():137] Probing git
+2024-09-02 11:59:38,757 DEBUG   HandlerThread:69202 [system_info.py:_probe_git():145] Probing git done
+2024-09-02 11:59:38,758 DEBUG   HandlerThread:69202 [system_info.py:probe():200] Probing system done
+2024-09-02 11:59:38,758 DEBUG   HandlerThread:69202 [system_monitor.py:probe():223] {'os': 'macOS-14.5-arm64-arm-64bit', 'python': '3.11.5', 'heartbeatAt': '2024-09-02T08:59:38.689857', 'startedAt': '2024-09-02T08:59:35.848772', 'docker': None, 'cuda': None, 'args': (), 'state': 'running', 'program': '/Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/bert_50x50 orig/bertsekas-marl/runAutoOffline.py', 'codePathLocal': 'runAutoOffline.py', 'codePath': 'runAutoOffline.py', 'git': {'remote': 'git@github.com:Athmajan/bertsekas-marl.git', 'commit': '43fca25efcab912a8448319a3f048ecf62eb2894'}, 'email': 'athmajan92@gmail.com', 'root': '/Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/bert_50x50 orig/bertsekas-marl', 'host': 'Athmajans-MacBook-Pro.local', 'username': 'athmajanvivekananthan', 'executable': '/Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/bertsekas-marl/spider/bin/python', 'cpu_count': 10, 'cpu_count_logical': 10, 'cpu_freq': {'current': 3228, 'min': 600, 'max': 3228}, 'cpu_freq_per_core': [{'current': 3228, 'min': 600, 'max': 3228}], 'disk': {'/': {'total': 926.3517189025879, 'used': 12.423973083496094}}, 'gpuapple': {'type': 'Apple M1 Pro', 'vendor': 'sppci_vendor_Apple'}, 'memory': {'total': 16.0}}
+2024-09-02 11:59:38,758 INFO    HandlerThread:69202 [system_monitor.py:probe():224] Finished collecting system info
+2024-09-02 11:59:38,758 INFO    HandlerThread:69202 [system_monitor.py:probe():227] Publishing system info
+2024-09-02 11:59:38,758 INFO    HandlerThread:69202 [system_monitor.py:probe():229] Finished publishing system info
+2024-09-02 11:59:38,761 DEBUG   SenderThread:69202 [sender.py:send():379] send: files
+2024-09-02 11:59:38,761 INFO    SenderThread:69202 [sender.py:_save_file():1454] saving file wandb-metadata.json with policy now
+2024-09-02 11:59:38,828 DEBUG   HandlerThread:69202 [handler.py:handle_request():158] handle_request: python_packages
+2024-09-02 11:59:38,828 DEBUG   HandlerThread:69202 [handler.py:handle_request():158] handle_request: stop_status
+2024-09-02 11:59:38,828 DEBUG   SenderThread:69202 [sender.py:send_request():406] send_request: python_packages
+2024-09-02 11:59:38,830 DEBUG   HandlerThread:69202 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 11:59:38,830 DEBUG   SenderThread:69202 [sender.py:send_request():406] send_request: stop_status
+2024-09-02 11:59:39,029 DEBUG   SenderThread:69202 [sender.py:send():379] send: telemetry
+2024-09-02 11:59:39,333 INFO    Thread-12 :69202 [dir_watcher.py:_on_file_created():271] file/dir created: /Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/bert_50x50 orig/bertsekas-marl/wandb/run-20240902_115935-2jm2fhp9/files/requirements.txt
+2024-09-02 11:59:39,333 INFO    Thread-12 :69202 [dir_watcher.py:_on_file_created():271] file/dir created: /Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/bert_50x50 orig/bertsekas-marl/wandb/run-20240902_115935-2jm2fhp9/files/wandb-metadata.json
+2024-09-02 11:59:39,407 INFO    wandb-upload_0:69202 [upload_job.py:push():130] Uploaded file /var/folders/4s/b7gb8z5553b490xvx_76pv6m0000gn/T/tmpzg942nw2wandb/s3su99ap-wandb-metadata.json
+2024-09-02 11:59:39,835 DEBUG   HandlerThread:69202 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 11:59:40,880 DEBUG   HandlerThread:69202 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 11:59:41,051 DEBUG   HandlerThread:69202 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 11:59:41,914 DEBUG   HandlerThread:69202 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 11:59:42,899 DEBUG   HandlerThread:69202 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 11:59:43,866 DEBUG   HandlerThread:69202 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 11:59:44,872 DEBUG   HandlerThread:69202 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 11:59:45,852 DEBUG   SenderThread:69202 [sender.py:send():379] send: exit
+2024-09-02 11:59:45,852 INFO    SenderThread:69202 [sender.py:send_exit():586] handling exit code: 255
+2024-09-02 11:59:45,853 INFO    SenderThread:69202 [sender.py:send_exit():588] handling runtime: 8
+2024-09-02 11:59:45,854 INFO    SenderThread:69202 [sender.py:_save_file():1454] saving file wandb-summary.json with policy end
+2024-09-02 11:59:45,854 INFO    SenderThread:69202 [sender.py:send_exit():594] send defer
+2024-09-02 11:59:45,855 DEBUG   HandlerThread:69202 [handler.py:handle_request():158] handle_request: defer
+2024-09-02 11:59:45,855 INFO    HandlerThread:69202 [handler.py:handle_request_defer():184] handle defer: 0
+2024-09-02 11:59:45,855 DEBUG   SenderThread:69202 [sender.py:send_request():406] send_request: defer
+2024-09-02 11:59:45,855 INFO    SenderThread:69202 [sender.py:send_request_defer():610] handle sender defer: 0
+2024-09-02 11:59:45,855 INFO    SenderThread:69202 [sender.py:transition_state():614] send defer: 1
+2024-09-02 11:59:45,855 DEBUG   HandlerThread:69202 [handler.py:handle_request():158] handle_request: defer
+2024-09-02 11:59:45,855 INFO    HandlerThread:69202 [handler.py:handle_request_defer():184] handle defer: 1
+2024-09-02 11:59:45,855 DEBUG   SenderThread:69202 [sender.py:send_request():406] send_request: defer
+2024-09-02 11:59:45,855 INFO    SenderThread:69202 [sender.py:send_request_defer():610] handle sender defer: 1
+2024-09-02 11:59:45,855 INFO    SenderThread:69202 [sender.py:transition_state():614] send defer: 2
+2024-09-02 11:59:45,855 DEBUG   HandlerThread:69202 [handler.py:handle_request():158] handle_request: defer
+2024-09-02 11:59:45,855 INFO    HandlerThread:69202 [handler.py:handle_request_defer():184] handle defer: 2
+2024-09-02 11:59:45,855 INFO    HandlerThread:69202 [system_monitor.py:finish():203] Stopping system monitor
+2024-09-02 11:59:45,856 DEBUG   SystemMonitor:69202 [system_monitor.py:_start():172] Starting system metrics aggregation loop
+2024-09-02 11:59:45,856 DEBUG   SystemMonitor:69202 [system_monitor.py:_start():179] Finished system metrics aggregation loop
+2024-09-02 11:59:45,856 DEBUG   SystemMonitor:69202 [system_monitor.py:_start():183] Publishing last batch of metrics
+2024-09-02 11:59:45,856 INFO    HandlerThread:69202 [interfaces.py:finish():200] Joined cpu monitor
+2024-09-02 11:59:45,856 INFO    HandlerThread:69202 [interfaces.py:finish():200] Joined disk monitor
+2024-09-02 11:59:45,856 INFO    HandlerThread:69202 [interfaces.py:finish():200] Joined gpuapple monitor
+2024-09-02 11:59:45,856 INFO    HandlerThread:69202 [interfaces.py:finish():200] Joined memory monitor
+2024-09-02 11:59:45,857 INFO    HandlerThread:69202 [interfaces.py:finish():200] Joined network monitor
+2024-09-02 11:59:45,857 DEBUG   SenderThread:69202 [sender.py:send_request():406] send_request: defer
+2024-09-02 11:59:45,857 INFO    SenderThread:69202 [sender.py:send_request_defer():610] handle sender defer: 2
+2024-09-02 11:59:45,857 INFO    SenderThread:69202 [sender.py:transition_state():614] send defer: 3
+2024-09-02 11:59:45,857 DEBUG   SenderThread:69202 [sender.py:send():379] send: telemetry
+2024-09-02 11:59:45,857 DEBUG   SenderThread:69202 [sender.py:send():379] send: stats
+2024-09-02 11:59:45,857 DEBUG   HandlerThread:69202 [handler.py:handle_request():158] handle_request: defer
+2024-09-02 11:59:45,857 INFO    HandlerThread:69202 [handler.py:handle_request_defer():184] handle defer: 3
+2024-09-02 11:59:45,857 DEBUG   SenderThread:69202 [sender.py:send_request():406] send_request: defer
+2024-09-02 11:59:45,857 INFO    SenderThread:69202 [sender.py:send_request_defer():610] handle sender defer: 3
+2024-09-02 11:59:45,857 INFO    SenderThread:69202 [sender.py:transition_state():614] send defer: 4
+2024-09-02 11:59:45,857 DEBUG   HandlerThread:69202 [handler.py:handle_request():158] handle_request: defer
+2024-09-02 11:59:45,857 INFO    HandlerThread:69202 [handler.py:handle_request_defer():184] handle defer: 4
+2024-09-02 11:59:45,857 DEBUG   SenderThread:69202 [sender.py:send_request():406] send_request: defer
+2024-09-02 11:59:45,857 INFO    SenderThread:69202 [sender.py:send_request_defer():610] handle sender defer: 4
+2024-09-02 11:59:45,858 INFO    SenderThread:69202 [sender.py:transition_state():614] send defer: 5
+2024-09-02 11:59:45,858 DEBUG   HandlerThread:69202 [handler.py:handle_request():158] handle_request: defer
+2024-09-02 11:59:45,858 INFO    HandlerThread:69202 [handler.py:handle_request_defer():184] handle defer: 5
+2024-09-02 11:59:45,858 DEBUG   SenderThread:69202 [sender.py:send():379] send: summary
+2024-09-02 11:59:45,858 INFO    SenderThread:69202 [sender.py:_save_file():1454] saving file wandb-summary.json with policy end
+2024-09-02 11:59:45,858 DEBUG   SenderThread:69202 [sender.py:send_request():406] send_request: defer
+2024-09-02 11:59:45,858 INFO    SenderThread:69202 [sender.py:send_request_defer():610] handle sender defer: 5
+2024-09-02 11:59:45,858 INFO    SenderThread:69202 [sender.py:transition_state():614] send defer: 6
+2024-09-02 11:59:45,858 DEBUG   HandlerThread:69202 [handler.py:handle_request():158] handle_request: defer
+2024-09-02 11:59:45,858 INFO    HandlerThread:69202 [handler.py:handle_request_defer():184] handle defer: 6
+2024-09-02 11:59:45,858 DEBUG   SenderThread:69202 [sender.py:send_request():406] send_request: defer
+2024-09-02 11:59:45,858 INFO    SenderThread:69202 [sender.py:send_request_defer():610] handle sender defer: 6
+2024-09-02 11:59:45,860 DEBUG   HandlerThread:69202 [handler.py:handle_request():158] handle_request: status_report
+2024-09-02 11:59:46,032 INFO    SenderThread:69202 [sender.py:transition_state():614] send defer: 7
+2024-09-02 11:59:46,032 DEBUG   HandlerThread:69202 [handler.py:handle_request():158] handle_request: defer
+2024-09-02 11:59:46,032 INFO    HandlerThread:69202 [handler.py:handle_request_defer():184] handle defer: 7
+2024-09-02 11:59:46,032 DEBUG   SenderThread:69202 [sender.py:send_request():406] send_request: defer
+2024-09-02 11:59:46,032 INFO    SenderThread:69202 [sender.py:send_request_defer():610] handle sender defer: 7
+2024-09-02 11:59:46,378 INFO    Thread-12 :69202 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/bert_50x50 orig/bertsekas-marl/wandb/run-20240902_115935-2jm2fhp9/files/config.yaml
+2024-09-02 11:59:46,378 INFO    Thread-12 :69202 [dir_watcher.py:_on_file_created():271] file/dir created: /Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/bert_50x50 orig/bertsekas-marl/wandb/run-20240902_115935-2jm2fhp9/files/wandb-summary.json
+2024-09-02 11:59:46,378 INFO    Thread-12 :69202 [dir_watcher.py:_on_file_created():271] file/dir created: /Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/bert_50x50 orig/bertsekas-marl/wandb/run-20240902_115935-2jm2fhp9/files/output.log
+2024-09-02 11:59:46,857 DEBUG   HandlerThread:69202 [handler.py:handle_request():158] handle_request: poll_exit
+2024-09-02 11:59:47,860 INFO    SenderThread:69202 [sender.py:transition_state():614] send defer: 8
+2024-09-02 11:59:47,860 DEBUG   SenderThread:69202 [sender.py:send_request():406] send_request: poll_exit
+2024-09-02 11:59:47,860 DEBUG   HandlerThread:69202 [handler.py:handle_request():158] handle_request: defer
+2024-09-02 11:59:47,861 INFO    HandlerThread:69202 [handler.py:handle_request_defer():184] handle defer: 8
+2024-09-02 11:59:47,861 DEBUG   SenderThread:69202 [sender.py:send_request():406] send_request: defer
+2024-09-02 11:59:47,861 INFO    SenderThread:69202 [sender.py:send_request_defer():610] handle sender defer: 8
+2024-09-02 11:59:47,861 INFO    SenderThread:69202 [job_builder.py:build():440] Attempting to build job artifact
+2024-09-02 11:59:47,861 INFO    SenderThread:69202 [job_builder.py:_get_source_type():569] is repo sourced job
+2024-09-02 11:59:47,949 INFO    SenderThread:69202 [job_builder.py:build():545] adding wandb-job metadata file
+2024-09-02 11:59:47,951 INFO    SenderThread:69202 [sender.py:transition_state():614] send defer: 9
+2024-09-02 11:59:47,958 DEBUG   HandlerThread:69202 [handler.py:handle_request():158] handle_request: defer
+2024-09-02 11:59:47,958 INFO    HandlerThread:69202 [handler.py:handle_request_defer():184] handle defer: 9
+2024-09-02 11:59:47,959 DEBUG   SenderThread:69202 [sender.py:send():379] send: artifact
+2024-09-02 11:59:48,436 INFO    Thread-12 :69202 [dir_watcher.py:_on_file_modified():288] file/dir modified: /Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/bert_50x50 orig/bertsekas-marl/wandb/run-20240902_115935-2jm2fhp9/files/output.log
+2024-09-02 11:59:48,866 DEBUG   HandlerThread:69202 [handler.py:handle_request():158] handle_request: poll_exit
+2024-09-02 11:59:49,017 INFO    SenderThread:69202 [sender.py:send_artifact():1537] sent artifact job-git_github.com_Athmajan_bertsekas-marl.git_runAutoOffline.py - {'id': 'QXJ0aWZhY3Q6MTE3NjQxMzExNg==', 'state': 'COMMITTED', 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjQxODExNzg5Nw==', 'latestArtifact': {'id': 'QXJ0aWZhY3Q6MTE3NjQxMzExNg==', 'versionIndex': 2}}}
+2024-09-02 11:59:49,022 DEBUG   SenderThread:69202 [sender.py:send_request():406] send_request: defer
+2024-09-02 11:59:49,022 INFO    SenderThread:69202 [sender.py:send_request_defer():610] handle sender defer: 9
+2024-09-02 11:59:49,022 INFO    SenderThread:69202 [dir_watcher.py:finish():358] shutting down directory watcher
+2024-09-02 11:59:49,449 INFO    SenderThread:69202 [dir_watcher.py:finish():388] scan: /Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/bert_50x50 orig/bertsekas-marl/wandb/run-20240902_115935-2jm2fhp9/files
+2024-09-02 11:59:49,451 INFO    SenderThread:69202 [dir_watcher.py:finish():402] scan save: /Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/bert_50x50 orig/bertsekas-marl/wandb/run-20240902_115935-2jm2fhp9/files/requirements.txt requirements.txt
+2024-09-02 11:59:49,451 INFO    SenderThread:69202 [dir_watcher.py:finish():402] scan save: /Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/bert_50x50 orig/bertsekas-marl/wandb/run-20240902_115935-2jm2fhp9/files/output.log output.log
+2024-09-02 11:59:49,451 INFO    SenderThread:69202 [dir_watcher.py:finish():402] scan save: /Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/bert_50x50 orig/bertsekas-marl/wandb/run-20240902_115935-2jm2fhp9/files/config.yaml config.yaml
+2024-09-02 11:59:49,451 INFO    SenderThread:69202 [dir_watcher.py:finish():402] scan save: /Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/bert_50x50 orig/bertsekas-marl/wandb/run-20240902_115935-2jm2fhp9/files/wandb-summary.json wandb-summary.json
+2024-09-02 11:59:49,451 INFO    SenderThread:69202 [dir_watcher.py:finish():402] scan save: /Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/bert_50x50 orig/bertsekas-marl/wandb/run-20240902_115935-2jm2fhp9/files/wandb-metadata.json wandb-metadata.json
+2024-09-02 11:59:49,451 INFO    SenderThread:69202 [sender.py:transition_state():614] send defer: 10
+2024-09-02 11:59:49,451 DEBUG   SenderThread:69202 [sender.py:send_request():406] send_request: poll_exit
+2024-09-02 11:59:49,454 DEBUG   HandlerThread:69202 [handler.py:handle_request():158] handle_request: defer
+2024-09-02 11:59:49,455 INFO    HandlerThread:69202 [handler.py:handle_request_defer():184] handle defer: 10
+2024-09-02 11:59:49,455 DEBUG   SenderThread:69202 [sender.py:send_request():406] send_request: defer
+2024-09-02 11:59:49,458 INFO    SenderThread:69202 [sender.py:send_request_defer():610] handle sender defer: 10
+2024-09-02 11:59:49,459 INFO    SenderThread:69202 [file_pusher.py:finish():169] shutting down file pusher
+2024-09-02 11:59:49,881 DEBUG   HandlerThread:69202 [handler.py:handle_request():158] handle_request: poll_exit
+2024-09-02 11:59:49,884 DEBUG   SenderThread:69202 [sender.py:send_request():406] send_request: poll_exit
+2024-09-02 11:59:49,893 INFO    wandb-upload_0:69202 [upload_job.py:push():130] Uploaded file /Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/bert_50x50 orig/bertsekas-marl/wandb/run-20240902_115935-2jm2fhp9/files/output.log
+2024-09-02 11:59:49,965 INFO    wandb-upload_1:69202 [upload_job.py:push():130] Uploaded file /Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/bert_50x50 orig/bertsekas-marl/wandb/run-20240902_115935-2jm2fhp9/files/requirements.txt
+2024-09-02 11:59:49,992 INFO    wandb-upload_3:69202 [upload_job.py:push():130] Uploaded file /Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/bert_50x50 orig/bertsekas-marl/wandb/run-20240902_115935-2jm2fhp9/files/wandb-summary.json
+2024-09-02 11:59:50,023 INFO    wandb-upload_2:69202 [upload_job.py:push():130] Uploaded file /Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/bert_50x50 orig/bertsekas-marl/wandb/run-20240902_115935-2jm2fhp9/files/config.yaml
+2024-09-02 11:59:50,238 INFO    Thread-11 (_thread_body):69202 [sender.py:transition_state():614] send defer: 11
+2024-09-02 11:59:50,244 DEBUG   HandlerThread:69202 [handler.py:handle_request():158] handle_request: defer
+2024-09-02 11:59:50,245 INFO    HandlerThread:69202 [handler.py:handle_request_defer():184] handle defer: 11
+2024-09-02 11:59:50,248 DEBUG   SenderThread:69202 [sender.py:send_request():406] send_request: defer
+2024-09-02 11:59:50,248 INFO    SenderThread:69202 [sender.py:send_request_defer():610] handle sender defer: 11
+2024-09-02 11:59:50,248 INFO    SenderThread:69202 [file_pusher.py:join():175] waiting for file pusher
+2024-09-02 11:59:50,248 INFO    SenderThread:69202 [sender.py:transition_state():614] send defer: 12
+2024-09-02 11:59:50,248 DEBUG   HandlerThread:69202 [handler.py:handle_request():158] handle_request: defer
+2024-09-02 11:59:50,249 INFO    HandlerThread:69202 [handler.py:handle_request_defer():184] handle defer: 12
+2024-09-02 11:59:50,251 DEBUG   SenderThread:69202 [sender.py:send_request():406] send_request: defer
+2024-09-02 11:59:50,251 INFO    SenderThread:69202 [sender.py:send_request_defer():610] handle sender defer: 12
+2024-09-02 11:59:50,251 INFO    SenderThread:69202 [file_stream.py:finish():601] file stream finish called
+2024-09-02 11:59:50,453 INFO    SenderThread:69202 [file_stream.py:finish():605] file stream finish is done
+2024-09-02 11:59:50,453 INFO    SenderThread:69202 [sender.py:transition_state():614] send defer: 13
+2024-09-02 11:59:50,456 DEBUG   HandlerThread:69202 [handler.py:handle_request():158] handle_request: defer
+2024-09-02 11:59:50,456 INFO    HandlerThread:69202 [handler.py:handle_request_defer():184] handle defer: 13
+2024-09-02 11:59:50,460 DEBUG   SenderThread:69202 [sender.py:send_request():406] send_request: defer
+2024-09-02 11:59:50,460 INFO    SenderThread:69202 [sender.py:send_request_defer():610] handle sender defer: 13
+2024-09-02 11:59:50,460 INFO    SenderThread:69202 [sender.py:transition_state():614] send defer: 14
+2024-09-02 11:59:50,464 DEBUG   HandlerThread:69202 [handler.py:handle_request():158] handle_request: defer
+2024-09-02 11:59:50,464 INFO    HandlerThread:69202 [handler.py:handle_request_defer():184] handle defer: 14
+2024-09-02 11:59:50,470 DEBUG   SenderThread:69202 [sender.py:send():379] send: final
+2024-09-02 11:59:50,470 DEBUG   SenderThread:69202 [sender.py:send():379] send: footer
+2024-09-02 11:59:50,470 DEBUG   SenderThread:69202 [sender.py:send_request():406] send_request: defer
+2024-09-02 11:59:50,470 INFO    SenderThread:69202 [sender.py:send_request_defer():610] handle sender defer: 14
+2024-09-02 11:59:50,471 DEBUG   HandlerThread:69202 [handler.py:handle_request():158] handle_request: poll_exit
+2024-09-02 11:59:50,471 DEBUG   HandlerThread:69202 [handler.py:handle_request():158] handle_request: server_info
+2024-09-02 11:59:50,471 DEBUG   HandlerThread:69202 [handler.py:handle_request():158] handle_request: poll_exit
+2024-09-02 11:59:50,471 DEBUG   HandlerThread:69202 [handler.py:handle_request():158] handle_request: get_summary
+2024-09-02 11:59:50,471 DEBUG   HandlerThread:69202 [handler.py:handle_request():158] handle_request: sampled_history
+2024-09-02 11:59:50,471 DEBUG   HandlerThread:69202 [handler.py:handle_request():158] handle_request: internal_messages
+2024-09-02 11:59:50,476 DEBUG   SenderThread:69202 [sender.py:send_request():406] send_request: poll_exit
+2024-09-02 11:59:50,476 DEBUG   SenderThread:69202 [sender.py:send_request():406] send_request: server_info
+2024-09-02 11:59:50,637 DEBUG   SenderThread:69202 [sender.py:send_request():406] send_request: poll_exit
+2024-09-02 11:59:50,638 INFO    MainThread:69202 [wandb_run.py:_footer_history_summary_info():4016] rendering history
+2024-09-02 11:59:50,638 INFO    MainThread:69202 [wandb_run.py:_footer_history_summary_info():4048] rendering summary
+2024-09-02 11:59:50,638 INFO    MainThread:69202 [wandb_run.py:_footer_sync_info():3975] logging synced files
+2024-09-02 11:59:50,639 DEBUG   HandlerThread:69202 [handler.py:handle_request():158] handle_request: shutdown
+2024-09-02 11:59:50,646 INFO    HandlerThread:69202 [handler.py:finish():882] shutting down handler
+2024-09-02 11:59:51,491 INFO    WriterThread:69202 [datastore.py:close():296] close: /Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/bert_50x50 orig/bertsekas-marl/wandb/run-20240902_115935-2jm2fhp9/run-2jm2fhp9.wandb
+2024-09-02 11:59:51,645 INFO    SenderThread:69202 [sender.py:finish():1615] shutting down sender
+2024-09-02 11:59:51,645 INFO    SenderThread:69202 [file_pusher.py:finish():169] shutting down file pusher
+2024-09-02 11:59:51,645 INFO    SenderThread:69202 [file_pusher.py:join():175] waiting for file pusher

@@ -1,0 +1,28 @@
+2024-08-30 19:04:01,445 INFO    MainThread:12141 [wandb_setup.py:_flush():76] Current SDK version is 0.17.5
+2024-08-30 19:04:01,445 INFO    MainThread:12141 [wandb_setup.py:_flush():76] Configure stats pid to 12141
+2024-08-30 19:04:01,445 INFO    MainThread:12141 [wandb_setup.py:_flush():76] Loading settings from /Users/athmajanvivekananthan/.config/wandb/settings
+2024-08-30 19:04:01,445 INFO    MainThread:12141 [wandb_setup.py:_flush():76] Loading settings from /Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/bert_50x50/bertsekas-marl/wandb/settings
+2024-08-30 19:04:01,445 INFO    MainThread:12141 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2024-08-30 19:04:01,446 INFO    MainThread:12141 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2024-08-30 19:04:01,446 INFO    MainThread:12141 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'learnRolloutOffV2.py', 'program_abspath': '/Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/bert_50x50/bertsekas-marl/learnRolloutOffV2.py', 'program': '/Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/bert_50x50/bertsekas-marl/learnRolloutOffV2.py'}
+2024-08-30 19:04:01,446 INFO    MainThread:12141 [wandb_setup.py:_flush():76] Applying login settings: {}
+2024-08-30 19:04:01,446 INFO    MainThread:12141 [wandb_init.py:_log_setup():529] Logging user logs to /Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/bert_50x50/bertsekas-marl/wandb/run-20240830_190401-ur7aefy9/logs/debug.log
+2024-08-30 19:04:01,446 INFO    MainThread:12141 [wandb_init.py:_log_setup():530] Logging internal logs to /Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/bert_50x50/bertsekas-marl/wandb/run-20240830_190401-ur7aefy9/logs/debug-internal.log
+2024-08-30 19:04:01,446 INFO    MainThread:12141 [wandb_init.py:init():569] calling init triggers
+2024-08-30 19:04:01,446 INFO    MainThread:12141 [wandb_init.py:init():576] wandb.init called with sweep_config: {}
+config: {}
+2024-08-30 19:04:01,446 INFO    MainThread:12141 [wandb_init.py:init():619] starting backend
+2024-08-30 19:04:01,446 INFO    MainThread:12141 [wandb_init.py:init():623] setting up manager
+2024-08-30 19:04:01,447 INFO    MainThread:12141 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2024-08-30 19:04:01,449 INFO    MainThread:12141 [wandb_init.py:init():631] backend started and connected
+2024-08-30 19:04:01,453 INFO    MainThread:12141 [wandb_init.py:init():720] updated telemetry
+2024-08-30 19:04:01,484 INFO    MainThread:12141 [wandb_init.py:init():753] communicating run to backend with 90.0 second timeout
+2024-08-30 19:04:01,954 INFO    MainThread:12141 [wandb_run.py:_on_init():2435] communicating current version
+2024-08-30 19:04:03,058 INFO    MainThread:12141 [wandb_run.py:_on_init():2444] got version response upgrade_message: "wandb version 0.17.8 is available!  To upgrade, please run:\n $ pip install wandb --upgrade"
+
+2024-08-30 19:04:03,058 INFO    MainThread:12141 [wandb_init.py:init():804] starting run threads in backend
+2024-08-30 19:04:03,634 INFO    MainThread:12141 [wandb_run.py:_console_start():2413] atexit reg
+2024-08-30 19:04:03,634 INFO    MainThread:12141 [wandb_run.py:_redirect():2255] redirect: wrap_raw
+2024-08-30 19:04:03,634 INFO    MainThread:12141 [wandb_run.py:_redirect():2320] Wrapping output streams.
+2024-08-30 19:04:03,634 INFO    MainThread:12141 [wandb_run.py:_redirect():2345] Redirects installed.
+2024-08-30 19:04:03,635 INFO    MainThread:12141 [wandb_init.py:init():847] run started, returning control to user process

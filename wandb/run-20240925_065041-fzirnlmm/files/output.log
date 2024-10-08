@@ -1,0 +1,719 @@
+Epoch: 0, Batch Gradient Norm: 23.78272420871535
+Epoch: 0, Batch Gradient Norm after: 22.36067857298581
+Epoch 1/10000, Prediction Accuracy = 23.332%, Loss = 62.979191589355466
+Epoch: 1, Batch Gradient Norm: 23.779221579290688
+Epoch: 1, Batch Gradient Norm after: 22.36067742808415
+Epoch 2/10000, Prediction Accuracy = 23.332%, Loss = 62.95241165161133
+Epoch: 2, Batch Gradient Norm: 23.77981667702503
+Epoch: 2, Batch Gradient Norm after: 22.36067760013531
+Epoch 3/10000, Prediction Accuracy = 23.332%, Loss = 62.93452529907226
+Epoch: 3, Batch Gradient Norm: 23.78043597782862
+Epoch: 3, Batch Gradient Norm after: 22.360678746920932
+Epoch 4/10000, Prediction Accuracy = 23.332%, Loss = 62.9198616027832
+Epoch: 4, Batch Gradient Norm: 23.782001459365603
+Epoch: 4, Batch Gradient Norm after: 22.360677494195066
+Epoch 5/10000, Prediction Accuracy = 23.332%, Loss = 62.907040405273435
+Epoch: 5, Batch Gradient Norm: 23.784064102582786
+Epoch: 5, Batch Gradient Norm after: 22.360676482884877
+Epoch 6/10000, Prediction Accuracy = 23.332%, Loss = 62.895440673828126
+Epoch: 6, Batch Gradient Norm: 23.78649770774729
+Epoch: 6, Batch Gradient Norm after: 22.360678554580026
+Epoch 7/10000, Prediction Accuracy = 23.332%, Loss = 62.884725189208986
+Epoch: 7, Batch Gradient Norm: 23.789008079476428
+Epoch: 7, Batch Gradient Norm after: 22.36067753067106
+Epoch 8/10000, Prediction Accuracy = 23.332%, Loss = 62.87468566894531
+Epoch: 8, Batch Gradient Norm: 23.791750343683553
+Epoch: 8, Batch Gradient Norm after: 22.360678596625267
+Epoch 9/10000, Prediction Accuracy = 23.332%, Loss = 62.86517868041992
+Epoch: 9, Batch Gradient Norm: 23.795022240553166
+Epoch: 9, Batch Gradient Norm after: 22.360677917106607
+Epoch 10/10000, Prediction Accuracy = 23.332%, Loss = 62.856101989746094
+Epoch: 10, Batch Gradient Norm: 23.798956782473166
+Epoch: 10, Batch Gradient Norm after: 22.36067724430747
+Epoch 11/10000, Prediction Accuracy = 23.332%, Loss = 62.847388458251956
+Epoch: 11, Batch Gradient Norm: 23.80289449253299
+Epoch: 11, Batch Gradient Norm after: 22.360677299457652
+Epoch 12/10000, Prediction Accuracy = 23.332%, Loss = 62.83897933959961
+Epoch: 12, Batch Gradient Norm: 23.806648529305182
+Epoch: 12, Batch Gradient Norm after: 22.3606790550108
+Epoch 13/10000, Prediction Accuracy = 23.332%, Loss = 62.83082962036133
+Epoch: 13, Batch Gradient Norm: 23.810788694643485
+Epoch: 13, Batch Gradient Norm after: 22.360678319732788
+Epoch 14/10000, Prediction Accuracy = 23.332%, Loss = 62.82290420532227
+Epoch: 14, Batch Gradient Norm: 23.81431745005783
+Epoch: 14, Batch Gradient Norm after: 22.360679455013905
+Epoch 15/10000, Prediction Accuracy = 23.332%, Loss = 62.81517791748047
+Epoch: 15, Batch Gradient Norm: 23.818099786976298
+Epoch: 15, Batch Gradient Norm after: 22.36067808503219
+Epoch 16/10000, Prediction Accuracy = 23.332%, Loss = 62.807621765136716
+Epoch: 16, Batch Gradient Norm: 23.822483776232843
+Epoch: 16, Batch Gradient Norm after: 22.360679993644883
+Epoch 17/10000, Prediction Accuracy = 23.332%, Loss = 62.80022201538086
+Epoch: 17, Batch Gradient Norm: 23.82726681711116
+Epoch: 17, Batch Gradient Norm after: 22.360679118168964
+Epoch 18/10000, Prediction Accuracy = 23.332%, Loss = 62.79295959472656
+Epoch: 18, Batch Gradient Norm: 23.8321423519878
+Epoch: 18, Batch Gradient Norm after: 22.360676183606174
+Epoch 19/10000, Prediction Accuracy = 23.332%, Loss = 62.78582000732422
+Epoch: 19, Batch Gradient Norm: 23.837201909816972
+Epoch: 19, Batch Gradient Norm after: 22.360676939900134
+Epoch 20/10000, Prediction Accuracy = 23.332%, Loss = 62.77879104614258
+Epoch: 20, Batch Gradient Norm: 23.842144991245863
+Epoch: 20, Batch Gradient Norm after: 22.360677351057443
+Epoch 21/10000, Prediction Accuracy = 23.332%, Loss = 62.77185974121094
+Epoch: 21, Batch Gradient Norm: 23.84684496564583
+Epoch: 21, Batch Gradient Norm after: 22.360677605053283
+Epoch 22/10000, Prediction Accuracy = 23.332%, Loss = 62.765020751953124
+Epoch: 22, Batch Gradient Norm: 23.851962908035404
+Epoch: 22, Batch Gradient Norm after: 22.360677430335592
+Epoch 23/10000, Prediction Accuracy = 23.332%, Loss = 62.758263397216794
+Epoch: 23, Batch Gradient Norm: 23.85706301452297
+Epoch: 23, Batch Gradient Norm after: 22.360677164350605
+Epoch 24/10000, Prediction Accuracy = 23.332%, Loss = 62.75158157348633
+Epoch: 24, Batch Gradient Norm: 23.86290611555965
+Epoch: 24, Batch Gradient Norm after: 22.360678532940337
+Epoch 25/10000, Prediction Accuracy = 23.332%, Loss = 62.74496994018555
+Epoch: 25, Batch Gradient Norm: 23.868393557968353
+Epoch: 25, Batch Gradient Norm after: 22.360677993992706
+Epoch 26/10000, Prediction Accuracy = 23.332%, Loss = 62.73841781616211
+Epoch: 26, Batch Gradient Norm: 23.873883264109807
+Epoch: 26, Batch Gradient Norm after: 22.36067734692985
+Epoch 27/10000, Prediction Accuracy = 23.332%, Loss = 62.73192367553711
+Epoch: 27, Batch Gradient Norm: 23.879438151294377
+Epoch: 27, Batch Gradient Norm after: 22.36067799922997
+Epoch 28/10000, Prediction Accuracy = 23.332%, Loss = 62.72548294067383
+Epoch: 28, Batch Gradient Norm: 23.88521977374843
+Epoch: 28, Batch Gradient Norm after: 22.360678814974868
+Epoch 29/10000, Prediction Accuracy = 23.332%, Loss = 62.719094848632814
+Epoch: 29, Batch Gradient Norm: 23.89116842453511
+Epoch: 29, Batch Gradient Norm after: 22.360676158535096
+Epoch 30/10000, Prediction Accuracy = 23.332%, Loss = 62.712744903564456
+Epoch: 30, Batch Gradient Norm: 23.897089336663132
+Epoch: 30, Batch Gradient Norm after: 22.360677598363115
+Epoch 31/10000, Prediction Accuracy = 23.332%, Loss = 62.706444549560544
+Epoch: 31, Batch Gradient Norm: 23.90353095843878
+Epoch: 31, Batch Gradient Norm after: 22.36067832793566
+Epoch 32/10000, Prediction Accuracy = 23.332%, Loss = 62.70017852783203
+Epoch: 32, Batch Gradient Norm: 23.90966036484279
+Epoch: 32, Batch Gradient Norm after: 22.36067715494288
+Epoch 33/10000, Prediction Accuracy = 23.332%, Loss = 62.693949127197264
+Epoch: 33, Batch Gradient Norm: 23.916280443886848
+Epoch: 33, Batch Gradient Norm after: 22.360677734412974
+Epoch 34/10000, Prediction Accuracy = 23.332%, Loss = 62.687750244140624
+Epoch: 34, Batch Gradient Norm: 23.922825568085557
+Epoch: 34, Batch Gradient Norm after: 22.36067720732389
+Epoch 35/10000, Prediction Accuracy = 23.332%, Loss = 62.68157958984375
+Epoch: 35, Batch Gradient Norm: 23.929982334665127
+Epoch: 35, Batch Gradient Norm after: 22.36067778946997
+Epoch 36/10000, Prediction Accuracy = 23.332%, Loss = 62.67544097900391
+Epoch: 36, Batch Gradient Norm: 23.93689805089063
+Epoch: 36, Batch Gradient Norm after: 22.360679343929572
+Epoch 37/10000, Prediction Accuracy = 23.332%, Loss = 62.66932601928711
+Epoch: 37, Batch Gradient Norm: 23.94380053125807
+Epoch: 37, Batch Gradient Norm after: 22.36067720902013
+Epoch 38/10000, Prediction Accuracy = 23.332%, Loss = 62.66323318481445
+Epoch: 38, Batch Gradient Norm: 23.951362132983512
+Epoch: 38, Batch Gradient Norm after: 22.36067942960468
+Epoch 39/10000, Prediction Accuracy = 23.332%, Loss = 62.6571662902832
+Epoch: 39, Batch Gradient Norm: 23.95821266316722
+Epoch: 39, Batch Gradient Norm after: 22.360678055682083
+Epoch 40/10000, Prediction Accuracy = 23.332%, Loss = 62.65111770629883
+Epoch: 40, Batch Gradient Norm: 23.965993061962102
+Epoch: 40, Batch Gradient Norm after: 22.36067747521199
+Epoch 41/10000, Prediction Accuracy = 23.332%, Loss = 62.645086669921874
+Epoch: 41, Batch Gradient Norm: 23.973671188619843
+Epoch: 41, Batch Gradient Norm after: 22.36067684099873
+Epoch 42/10000, Prediction Accuracy = 23.332%, Loss = 62.63907089233398
+Epoch: 42, Batch Gradient Norm: 23.981768099479186
+Epoch: 42, Batch Gradient Norm after: 22.360678159079676
+Epoch 43/10000, Prediction Accuracy = 23.332%, Loss = 62.63307647705078
+Epoch: 43, Batch Gradient Norm: 23.989600992447404
+Epoch: 43, Batch Gradient Norm after: 22.360678046128815
+Epoch 44/10000, Prediction Accuracy = 23.332%, Loss = 62.62709503173828
+Epoch: 44, Batch Gradient Norm: 23.997815520494797
+Epoch: 44, Batch Gradient Norm after: 22.360677921680175
+Epoch 45/10000, Prediction Accuracy = 23.332%, Loss = 62.62112197875977
+Epoch: 45, Batch Gradient Norm: 24.005717490773613
+Epoch: 45, Batch Gradient Norm after: 22.360678349125173
+Epoch 46/10000, Prediction Accuracy = 23.332%, Loss = 62.61516571044922
+Epoch: 46, Batch Gradient Norm: 24.014095077923052
+Epoch: 46, Batch Gradient Norm after: 22.360677695621696
+Epoch 47/10000, Prediction Accuracy = 23.332%, Loss = 62.60922012329102
+Epoch: 47, Batch Gradient Norm: 24.022998565406738
+Epoch: 47, Batch Gradient Norm after: 22.360678171769084
+Epoch 48/10000, Prediction Accuracy = 23.332%, Loss = 62.603284454345705
+Epoch: 48, Batch Gradient Norm: 24.031310302035134
+Epoch: 48, Batch Gradient Norm after: 22.360677802476502
+Epoch 49/10000, Prediction Accuracy = 23.332%, Loss = 62.59735794067383
+Epoch: 49, Batch Gradient Norm: 24.04025594531174
+Epoch: 49, Batch Gradient Norm after: 22.360678654643696
+Epoch 50/10000, Prediction Accuracy = 23.332%, Loss = 62.59144134521485
+Epoch: 50, Batch Gradient Norm: 24.04903850224685
+Epoch: 50, Batch Gradient Norm after: 22.360678328638958
+Epoch 51/10000, Prediction Accuracy = 23.332%, Loss = 62.58553237915039
+Epoch: 51, Batch Gradient Norm: 24.05837704135376
+Epoch: 51, Batch Gradient Norm after: 22.36067724995943
+Epoch 52/10000, Prediction Accuracy = 23.332%, Loss = 62.579630279541014
+Epoch: 52, Batch Gradient Norm: 24.06762600672757
+Epoch: 52, Batch Gradient Norm after: 22.3606782215088
+Epoch 53/10000, Prediction Accuracy = 23.332%, Loss = 62.57373275756836
+Epoch: 53, Batch Gradient Norm: 24.07685215313733
+Epoch: 53, Batch Gradient Norm after: 22.360678019114665
+Epoch 54/10000, Prediction Accuracy = 23.332%, Loss = 62.56784362792969
+Epoch: 54, Batch Gradient Norm: 24.086472656018707
+Epoch: 54, Batch Gradient Norm after: 22.360678482188806
+Epoch 55/10000, Prediction Accuracy = 23.332%, Loss = 62.561956787109374
+Epoch: 55, Batch Gradient Norm: 24.095939035957553
+Epoch: 55, Batch Gradient Norm after: 22.360677044770686
+Epoch 56/10000, Prediction Accuracy = 23.332%, Loss = 62.55607223510742
+Epoch: 56, Batch Gradient Norm: 24.10575617540401
+Epoch: 56, Batch Gradient Norm after: 22.360679149142236
+Epoch 57/10000, Prediction Accuracy = 23.332%, Loss = 62.550194549560544
+Epoch: 57, Batch Gradient Norm: 24.116148151375082
+Epoch: 57, Batch Gradient Norm after: 22.360679022055763
+Epoch 58/10000, Prediction Accuracy = 23.332%, Loss = 62.54431915283203
+Epoch: 58, Batch Gradient Norm: 24.12603388806615
+Epoch: 58, Batch Gradient Norm after: 22.360678961149294
+Epoch 59/10000, Prediction Accuracy = 23.332%, Loss = 62.53844375610352
+Epoch: 59, Batch Gradient Norm: 24.13614081581992
+Epoch: 59, Batch Gradient Norm after: 22.36067864633102
+Epoch 60/10000, Prediction Accuracy = 23.332%, Loss = 62.53257369995117
+Epoch: 60, Batch Gradient Norm: 24.146300906903246
+Epoch: 60, Batch Gradient Norm after: 22.360677622759923
+Epoch 61/10000, Prediction Accuracy = 23.332%, Loss = 62.52670669555664
+Epoch: 61, Batch Gradient Norm: 24.156387822888135
+Epoch: 61, Batch Gradient Norm after: 22.36067858445126
+Epoch 62/10000, Prediction Accuracy = 23.332%, Loss = 62.5208381652832
+Epoch: 62, Batch Gradient Norm: 24.166851963226122
+Epoch: 62, Batch Gradient Norm after: 22.360678972236474
+Epoch 63/10000, Prediction Accuracy = 23.332%, Loss = 62.51497268676758
+Epoch: 63, Batch Gradient Norm: 24.17831666412362
+Epoch: 63, Batch Gradient Norm after: 22.360678661753067
+Epoch 64/10000, Prediction Accuracy = 23.332%, Loss = 62.5091064453125
+Epoch: 64, Batch Gradient Norm: 24.189528985643136
+Epoch: 64, Batch Gradient Norm after: 22.36067975992826
+Epoch 65/10000, Prediction Accuracy = 23.332%, Loss = 62.50324020385742
+Epoch: 65, Batch Gradient Norm: 24.20138531993949
+Epoch: 65, Batch Gradient Norm after: 22.360678634828826
+Epoch 66/10000, Prediction Accuracy = 23.332%, Loss = 62.497371673583984
+Epoch: 66, Batch Gradient Norm: 24.212938858071613
+Epoch: 66, Batch Gradient Norm after: 22.36068018440475
+Epoch 67/10000, Prediction Accuracy = 23.332%, Loss = 62.49150390625
+Epoch: 67, Batch Gradient Norm: 24.224463458452004
+Epoch: 67, Batch Gradient Norm after: 22.36067879856805
+Epoch 68/10000, Prediction Accuracy = 23.332%, Loss = 62.48563079833984
+Epoch: 68, Batch Gradient Norm: 24.236379538929434
+Epoch: 68, Batch Gradient Norm after: 22.36067819886275
+Epoch 69/10000, Prediction Accuracy = 23.332%, Loss = 62.47976455688477
+Epoch: 69, Batch Gradient Norm: 24.24876291428345
+Epoch: 69, Batch Gradient Norm after: 22.360679663187472
+Epoch 70/10000, Prediction Accuracy = 23.332%, Loss = 62.47388916015625
+Epoch: 70, Batch Gradient Norm: 24.261433686423175
+Epoch: 70, Batch Gradient Norm after: 22.36067808065286
+Epoch 71/10000, Prediction Accuracy = 23.332%, Loss = 62.468013763427734
+Epoch: 71, Batch Gradient Norm: 24.273039559058336
+Epoch: 71, Batch Gradient Norm after: 22.360679332375277
+Epoch 72/10000, Prediction Accuracy = 23.332%, Loss = 62.462135314941406
+Epoch: 72, Batch Gradient Norm: 24.285193277097502
+Epoch: 72, Batch Gradient Norm after: 22.360678130476398
+Epoch 73/10000, Prediction Accuracy = 23.332%, Loss = 62.45625305175781
+Epoch: 73, Batch Gradient Norm: 24.29852104118715
+Epoch: 73, Batch Gradient Norm after: 22.36067802996795
+Epoch 74/10000, Prediction Accuracy = 23.332%, Loss = 62.450372314453126
+Epoch: 74, Batch Gradient Norm: 24.31137859901295
+Epoch: 74, Batch Gradient Norm after: 22.36067808713113
+Epoch 75/10000, Prediction Accuracy = 23.332%, Loss = 62.44448471069336
+Epoch: 75, Batch Gradient Norm: 24.324770126843255
+Epoch: 75, Batch Gradient Norm after: 22.360677424604326
+Epoch 76/10000, Prediction Accuracy = 23.332%, Loss = 62.43859176635742
+Epoch: 76, Batch Gradient Norm: 24.337438602369016
+Epoch: 76, Batch Gradient Norm after: 22.360678885902487
+Epoch 77/10000, Prediction Accuracy = 23.332%, Loss = 62.43269729614258
+Epoch: 77, Batch Gradient Norm: 24.35125642115917
+Epoch: 77, Batch Gradient Norm after: 22.36067897703962
+Epoch 78/10000, Prediction Accuracy = 23.332%, Loss = 62.42679977416992
+Epoch: 78, Batch Gradient Norm: 24.3649791840289
+Epoch: 78, Batch Gradient Norm after: 22.360677454715354
+Epoch 79/10000, Prediction Accuracy = 23.332%, Loss = 62.420895385742185
+Epoch: 79, Batch Gradient Norm: 24.378073737452596
+Epoch: 79, Batch Gradient Norm after: 22.360677472181862
+Epoch 80/10000, Prediction Accuracy = 23.332%, Loss = 62.414990234375
+Epoch: 80, Batch Gradient Norm: 24.391683729994927
+Epoch: 80, Batch Gradient Norm after: 22.36067873504077
+Epoch 81/10000, Prediction Accuracy = 23.332%, Loss = 62.409078216552736
+Epoch: 81, Batch Gradient Norm: 24.405737517699993
+Epoch: 81, Batch Gradient Norm after: 22.360678064158577
+Epoch 82/10000, Prediction Accuracy = 23.332%, Loss = 62.403160858154294
+Epoch: 82, Batch Gradient Norm: 24.41923795908298
+Epoch: 82, Batch Gradient Norm after: 22.36067840900006
+Epoch 83/10000, Prediction Accuracy = 23.332%, Loss = 62.397238159179686
+Epoch: 83, Batch Gradient Norm: 24.43352717206534
+Epoch: 83, Batch Gradient Norm after: 22.360676317398045
+Epoch 84/10000, Prediction Accuracy = 23.332%, Loss = 62.39131393432617
+Epoch: 84, Batch Gradient Norm: 24.448039520737666
+Epoch: 84, Batch Gradient Norm after: 22.360678772478973
+Epoch 85/10000, Prediction Accuracy = 23.332%, Loss = 62.385382080078124
+Epoch: 85, Batch Gradient Norm: 24.462469284643433
+Epoch: 85, Batch Gradient Norm after: 22.360677572840157
+Epoch 86/10000, Prediction Accuracy = 23.332%, Loss = 62.37944412231445
+Epoch: 86, Batch Gradient Norm: 24.47689990712984
+Epoch: 86, Batch Gradient Norm after: 22.36067652001579
+Epoch 87/10000, Prediction Accuracy = 23.332%, Loss = 62.373503875732425
+Epoch: 87, Batch Gradient Norm: 24.492025118670377
+Epoch: 87, Batch Gradient Norm after: 22.360678629863045
+Epoch 88/10000, Prediction Accuracy = 23.332%, Loss = 62.36755523681641
+Epoch: 88, Batch Gradient Norm: 24.50663782416805
+Epoch: 88, Batch Gradient Norm after: 22.360677761983816
+Epoch 89/10000, Prediction Accuracy = 23.332%, Loss = 62.36160049438477
+Epoch: 89, Batch Gradient Norm: 24.520847059187936
+Epoch: 89, Batch Gradient Norm after: 22.36067840644346
+Epoch 90/10000, Prediction Accuracy = 23.332%, Loss = 62.35564422607422
+Epoch: 90, Batch Gradient Norm: 24.536505345744715
+Epoch: 90, Batch Gradient Norm after: 22.360678280687072
+Epoch 91/10000, Prediction Accuracy = 23.332%, Loss = 62.34967803955078
+Epoch: 91, Batch Gradient Norm: 24.55109144540149
+Epoch: 91, Batch Gradient Norm after: 22.36067748537077
+Epoch 92/10000, Prediction Accuracy = 23.332%, Loss = 62.34370651245117
+Epoch: 92, Batch Gradient Norm: 24.56611977966885
+Epoch: 92, Batch Gradient Norm after: 22.36067803812074
+Epoch 93/10000, Prediction Accuracy = 23.332%, Loss = 62.337730407714844
+Epoch: 93, Batch Gradient Norm: 24.581751822719948
+Epoch: 93, Batch Gradient Norm after: 22.360678587067092
+Epoch 94/10000, Prediction Accuracy = 23.332%, Loss = 62.33174514770508
+Epoch: 94, Batch Gradient Norm: 24.596922783440338
+Epoch: 94, Batch Gradient Norm after: 22.360679113643208
+Epoch 95/10000, Prediction Accuracy = 23.332%, Loss = 62.325757598876955
+Epoch: 95, Batch Gradient Norm: 24.612349763457658
+Epoch: 95, Batch Gradient Norm after: 22.360678712907536
+Epoch 96/10000, Prediction Accuracy = 23.332%, Loss = 62.31976318359375
+Epoch: 96, Batch Gradient Norm: 24.627922363668247
+Epoch: 96, Batch Gradient Norm after: 22.360678657545524
+Epoch 97/10000, Prediction Accuracy = 23.332%, Loss = 62.31375961303711
+Epoch: 97, Batch Gradient Norm: 24.643628937669778
+Epoch: 97, Batch Gradient Norm after: 22.360677758154917
+Epoch 98/10000, Prediction Accuracy = 23.332%, Loss = 62.307752990722655
+Epoch: 98, Batch Gradient Norm: 24.659868578191624
+Epoch: 98, Batch Gradient Norm after: 22.360679410940683
+Epoch 99/10000, Prediction Accuracy = 23.332%, Loss = 62.30173873901367
+Epoch: 99, Batch Gradient Norm: 24.67632467966307
+Epoch: 99, Batch Gradient Norm after: 22.36067821933757
+Epoch 100/10000, Prediction Accuracy = 23.332%, Loss = 62.29572219848633
+Epoch: 100, Batch Gradient Norm: 24.692711528143068
+Epoch: 100, Batch Gradient Norm after: 22.36067792889968
+Epoch 101/10000, Prediction Accuracy = 23.332%, Loss = 62.289697265625
+Epoch: 101, Batch Gradient Norm: 24.708901870939343
+Epoch: 101, Batch Gradient Norm after: 22.360677869810466
+Epoch 102/10000, Prediction Accuracy = 23.332%, Loss = 62.28366241455078
+Epoch: 102, Batch Gradient Norm: 24.72513135919302
+Epoch: 102, Batch Gradient Norm after: 22.360677034046482
+Epoch 103/10000, Prediction Accuracy = 23.332%, Loss = 62.27762222290039
+Epoch: 103, Batch Gradient Norm: 24.741457991479976
+Epoch: 103, Batch Gradient Norm after: 22.360678976940225
+Epoch 104/10000, Prediction Accuracy = 23.332%, Loss = 62.27158050537109
+Epoch: 104, Batch Gradient Norm: 24.75778368720316
+Epoch: 104, Batch Gradient Norm after: 22.36067792001915
+Epoch 105/10000, Prediction Accuracy = 23.332%, Loss = 62.26552963256836
+Epoch: 105, Batch Gradient Norm: 24.774165961569093
+Epoch: 105, Batch Gradient Norm after: 22.3606791056182
+Epoch 106/10000, Prediction Accuracy = 23.332%, Loss = 62.25947189331055
+Epoch: 106, Batch Gradient Norm: 24.78999050794624
+Epoch: 106, Batch Gradient Norm after: 22.360676683733608
+Epoch 107/10000, Prediction Accuracy = 23.332%, Loss = 62.25340957641602
+Epoch: 107, Batch Gradient Norm: 24.806123237822316
+Epoch: 107, Batch Gradient Norm after: 22.360677966306525
+Epoch 108/10000, Prediction Accuracy = 23.332%, Loss = 62.24734039306641
+Epoch: 108, Batch Gradient Norm: 24.822105224224995
+Epoch: 108, Batch Gradient Norm after: 22.360676946513415
+Epoch 109/10000, Prediction Accuracy = 23.332%, Loss = 62.241265869140626
+Epoch: 109, Batch Gradient Norm: 24.837975842103937
+Epoch: 109, Batch Gradient Norm after: 22.36067776113687
+Epoch 110/10000, Prediction Accuracy = 23.332%, Loss = 62.23518676757813
+Epoch: 110, Batch Gradient Norm: 24.853531204381994
+Epoch: 110, Batch Gradient Norm after: 22.36067773568617
+Epoch 111/10000, Prediction Accuracy = 23.332%, Loss = 62.229105377197264
+Epoch: 111, Batch Gradient Norm: 24.86998384605302
+Epoch: 111, Batch Gradient Norm after: 22.360677238733103
+Epoch 112/10000, Prediction Accuracy = 23.332%, Loss = 62.22301025390625
+Epoch: 112, Batch Gradient Norm: 24.885746530070726
+Epoch: 112, Batch Gradient Norm after: 22.360678136196746
+Epoch 113/10000, Prediction Accuracy = 23.332%, Loss = 62.216915130615234
+Epoch: 113, Batch Gradient Norm: 24.901834488419524
+Epoch: 113, Batch Gradient Norm after: 22.360678946593175
+Epoch 114/10000, Prediction Accuracy = 23.332%, Loss = 62.21081619262695
+Epoch: 114, Batch Gradient Norm: 24.918511586665787
+Epoch: 114, Batch Gradient Norm after: 22.360679234338594
+Epoch 115/10000, Prediction Accuracy = 23.332%, Loss = 62.204708099365234
+Epoch: 115, Batch Gradient Norm: 24.934789899754783
+Epoch: 115, Batch Gradient Norm after: 22.360679987971334
+Epoch 116/10000, Prediction Accuracy = 23.332%, Loss = 62.1985969543457
+Epoch: 116, Batch Gradient Norm: 24.951347430509273
+Epoch: 116, Batch Gradient Norm after: 22.360679519169118
+Epoch 117/10000, Prediction Accuracy = 23.332%, Loss = 62.19247894287109
+Epoch: 117, Batch Gradient Norm: 24.96768258978497
+Epoch: 117, Batch Gradient Norm after: 22.36067696571675
+Epoch 118/10000, Prediction Accuracy = 23.332%, Loss = 62.186354064941405
+Epoch: 118, Batch Gradient Norm: 24.98455879915624
+Epoch: 118, Batch Gradient Norm after: 22.36067694706198
+Epoch 119/10000, Prediction Accuracy = 23.332%, Loss = 62.18022537231445
+Epoch: 119, Batch Gradient Norm: 25.001165863053405
+Epoch: 119, Batch Gradient Norm after: 22.360677802652084
+Epoch 120/10000, Prediction Accuracy = 23.332%, Loss = 62.17409057617188
+Epoch: 120, Batch Gradient Norm: 25.017051385682
+Epoch: 120, Batch Gradient Norm after: 22.36067842817185
+Epoch 121/10000, Prediction Accuracy = 23.332%, Loss = 62.16795196533203
+Epoch: 121, Batch Gradient Norm: 25.03283984431528
+Epoch: 121, Batch Gradient Norm after: 22.36067885015454
+Epoch 122/10000, Prediction Accuracy = 23.332%, Loss = 62.16180953979492
+Epoch: 122, Batch Gradient Norm: 25.04894390991514
+Epoch: 122, Batch Gradient Norm after: 22.360677809864484
+Epoch 123/10000, Prediction Accuracy = 23.332%, Loss = 62.15565795898438
+Epoch: 123, Batch Gradient Norm: 25.065058053164304
+Epoch: 123, Batch Gradient Norm after: 22.360678716513277
+Epoch 124/10000, Prediction Accuracy = 23.332%, Loss = 62.149505615234375
+Epoch: 124, Batch Gradient Norm: 25.08139194861797
+Epoch: 124, Batch Gradient Norm after: 22.36067768081663
+Epoch 125/10000, Prediction Accuracy = 23.332%, Loss = 62.14334564208984
+Epoch: 125, Batch Gradient Norm: 25.097590369389696
+Epoch: 125, Batch Gradient Norm after: 22.360678948777846
+Epoch 126/10000, Prediction Accuracy = 23.332%, Loss = 62.1371826171875
+Epoch: 126, Batch Gradient Norm: 25.11403855232323
+Epoch: 126, Batch Gradient Norm after: 22.36068063896261
+Epoch 127/10000, Prediction Accuracy = 23.332%, Loss = 62.131012725830075
+Epoch: 127, Batch Gradient Norm: 25.130954884724524
+Epoch: 127, Batch Gradient Norm after: 22.36067872553661
+Epoch 128/10000, Prediction Accuracy = 23.332%, Loss = 62.12484130859375
+Epoch: 128, Batch Gradient Norm: 25.146014132718832
+Epoch: 128, Batch Gradient Norm after: 22.360678936534107
+Epoch 129/10000, Prediction Accuracy = 23.332%, Loss = 62.11865997314453
+Epoch: 129, Batch Gradient Norm: 25.162511951598667
+Epoch: 129, Batch Gradient Norm after: 22.360676713791758
+Epoch 130/10000, Prediction Accuracy = 23.332%, Loss = 62.1124771118164
+Epoch: 130, Batch Gradient Norm: 25.178546919701322
+Epoch: 130, Batch Gradient Norm after: 22.36067883216154
+Epoch 131/10000, Prediction Accuracy = 23.332%, Loss = 62.10628662109375
+Epoch: 131, Batch Gradient Norm: 25.194620433124527
+Epoch: 131, Batch Gradient Norm after: 22.36067755633672
+Epoch 132/10000, Prediction Accuracy = 23.332%, Loss = 62.10009613037109
+Epoch: 132, Batch Gradient Norm: 25.211311167843686
+Epoch: 132, Batch Gradient Norm after: 22.360679237335514
+Epoch 133/10000, Prediction Accuracy = 23.332%, Loss = 62.093895721435544
+Epoch: 133, Batch Gradient Norm: 25.226582012686684
+Epoch: 133, Batch Gradient Norm after: 22.360679006902377
+Epoch 134/10000, Prediction Accuracy = 23.332%, Loss = 62.08769607543945
+Epoch: 134, Batch Gradient Norm: 25.242709800394774
+Epoch: 134, Batch Gradient Norm after: 22.360678541150715
+Epoch 135/10000, Prediction Accuracy = 23.332%, Loss = 62.08148422241211
+Epoch: 135, Batch Gradient Norm: 25.259121630588314
+Epoch: 135, Batch Gradient Norm after: 22.36067987256836
+Epoch 136/10000, Prediction Accuracy = 23.332%, Loss = 62.07527313232422
+Epoch: 136, Batch Gradient Norm: 25.27462205275153
+Epoch: 136, Batch Gradient Norm after: 22.36067646648402
+Epoch 137/10000, Prediction Accuracy = 23.332%, Loss = 62.06905746459961
+Epoch: 137, Batch Gradient Norm: 25.290102408325186
+Epoch: 137, Batch Gradient Norm after: 22.360678248410686
+Epoch 138/10000, Prediction Accuracy = 23.332%, Loss = 62.062836456298825
+Epoch: 138, Batch Gradient Norm: 25.30524656710072
+Epoch: 138, Batch Gradient Norm after: 22.36067705698803
+Epoch 139/10000, Prediction Accuracy = 23.332%, Loss = 62.056610870361325
+Epoch: 139, Batch Gradient Norm: 25.320730561064934
+Epoch: 139, Batch Gradient Norm after: 22.360677728158457
+Epoch 140/10000, Prediction Accuracy = 23.332%, Loss = 62.050383758544925
+Epoch: 140, Batch Gradient Norm: 25.33609314065759
+Epoch: 140, Batch Gradient Norm after: 22.360678295446412
+Epoch 141/10000, Prediction Accuracy = 23.332%, Loss = 62.044149780273436
+Epoch: 141, Batch Gradient Norm: 25.351651905056585
+Epoch: 141, Batch Gradient Norm after: 22.36067923793564
+Epoch 142/10000, Prediction Accuracy = 23.332%, Loss = 62.03790969848633
+Epoch: 142, Batch Gradient Norm: 25.367009339287893
+Epoch: 142, Batch Gradient Norm after: 22.360679123209426
+Epoch 143/10000, Prediction Accuracy = 23.332%, Loss = 62.03166961669922
+Epoch: 143, Batch Gradient Norm: 25.383168585912035
+Epoch: 143, Batch Gradient Norm after: 22.360679515914892
+Epoch 144/10000, Prediction Accuracy = 23.332%, Loss = 62.025420379638675
+Epoch: 144, Batch Gradient Norm: 25.399299810950183
+Epoch: 144, Batch Gradient Norm after: 22.36068039051809
+Epoch 145/10000, Prediction Accuracy = 23.332%, Loss = 62.019171142578124
+Epoch: 145, Batch Gradient Norm: 25.41560810495947
+Epoch: 145, Batch Gradient Norm after: 22.360679082218628
+Epoch 146/10000, Prediction Accuracy = 23.332%, Loss = 62.01291351318359
+Epoch: 146, Batch Gradient Norm: 25.43111591979089
+Epoch: 146, Batch Gradient Norm after: 22.360679816718637
+Epoch 147/10000, Prediction Accuracy = 23.332%, Loss = 62.0066520690918
+Epoch: 147, Batch Gradient Norm: 25.447458332197286
+Epoch: 147, Batch Gradient Norm after: 22.360679869988076
+Epoch 148/10000, Prediction Accuracy = 23.332%, Loss = 62.00038833618164
+Epoch: 148, Batch Gradient Norm: 25.463207756758976
+Epoch: 148, Batch Gradient Norm after: 22.36068001684286
+Epoch 149/10000, Prediction Accuracy = 23.332%, Loss = 61.99412155151367
+Epoch: 149, Batch Gradient Norm: 25.478605372139093
+Epoch: 149, Batch Gradient Norm after: 22.36067928999506
+Epoch 150/10000, Prediction Accuracy = 23.332%, Loss = 61.98784484863281
+Epoch: 150, Batch Gradient Norm: 25.494801705308916
+Epoch: 150, Batch Gradient Norm after: 22.36067882991652
+Epoch 151/10000, Prediction Accuracy = 23.332%, Loss = 61.981564331054685
+Epoch: 151, Batch Gradient Norm: 25.510441228109794
+Epoch: 151, Batch Gradient Norm after: 22.360678390764257
+Epoch 152/10000, Prediction Accuracy = 23.332%, Loss = 61.9752815246582
+Epoch: 152, Batch Gradient Norm: 25.52660918908167
+Epoch: 152, Batch Gradient Norm after: 22.36067917583695
+Epoch 153/10000, Prediction Accuracy = 23.332%, Loss = 61.96899337768555
+Epoch: 153, Batch Gradient Norm: 25.542510273314377
+Epoch: 153, Batch Gradient Norm after: 22.360677366116587
+Epoch 154/10000, Prediction Accuracy = 23.332%, Loss = 61.96269989013672
+Epoch: 154, Batch Gradient Norm: 25.558050175787326
+Epoch: 154, Batch Gradient Norm after: 22.360680212216735
+Epoch 155/10000, Prediction Accuracy = 23.332%, Loss = 61.95640258789062
+Epoch: 155, Batch Gradient Norm: 25.573634822574796
+Epoch: 155, Batch Gradient Norm after: 22.360679814894375
+Epoch 156/10000, Prediction Accuracy = 23.332%, Loss = 61.95009841918945
+Epoch: 156, Batch Gradient Norm: 25.589646950996606
+Epoch: 156, Batch Gradient Norm after: 22.360679703549568
+Epoch 157/10000, Prediction Accuracy = 23.332%, Loss = 61.94379425048828
+Epoch: 157, Batch Gradient Norm: 25.605244945076436
+Epoch: 157, Batch Gradient Norm after: 22.36067740170552
+Epoch 158/10000, Prediction Accuracy = 23.332%, Loss = 61.93748016357422
+Epoch: 158, Batch Gradient Norm: 25.6209780218107
+Epoch: 158, Batch Gradient Norm after: 22.360679431967988
+Epoch 159/10000, Prediction Accuracy = 23.332%, Loss = 61.93116760253906
+Epoch: 159, Batch Gradient Norm: 25.63724790415603
+Epoch: 159, Batch Gradient Norm after: 22.36067779921968
+Epoch 160/10000, Prediction Accuracy = 23.332%, Loss = 61.92484359741211
+Epoch: 160, Batch Gradient Norm: 25.653230488319995
+Epoch: 160, Batch Gradient Norm after: 22.360679675717638
+Epoch 161/10000, Prediction Accuracy = 23.332%, Loss = 61.9185188293457
+Epoch: 161, Batch Gradient Norm: 25.669563262693558
+Epoch: 161, Batch Gradient Norm after: 22.36067794330547
+Epoch 162/10000, Prediction Accuracy = 23.332%, Loss = 61.91218948364258
+Epoch: 162, Batch Gradient Norm: 25.685699397319247
+Epoch: 162, Batch Gradient Norm after: 22.36067812669415
+Epoch 163/10000, Prediction Accuracy = 23.332%, Loss = 61.905852508544925
+Epoch: 163, Batch Gradient Norm: 25.701845635949088
+Epoch: 163, Batch Gradient Norm after: 22.360678088226095
+Epoch 164/10000, Prediction Accuracy = 23.332%, Loss = 61.89951171875
+Epoch: 164, Batch Gradient Norm: 25.71856486533439
+Epoch: 164, Batch Gradient Norm after: 22.36067762422146
+Epoch 165/10000, Prediction Accuracy = 23.332%, Loss = 61.89316635131836
+Epoch: 165, Batch Gradient Norm: 25.734147828849657
+Epoch: 165, Batch Gradient Norm after: 22.360678257784425
+Epoch 166/10000, Prediction Accuracy = 23.332%, Loss = 61.88681869506836
+Epoch: 166, Batch Gradient Norm: 25.75078423322474
+Epoch: 166, Batch Gradient Norm after: 22.360679477300035
+Epoch 167/10000, Prediction Accuracy = 23.332%, Loss = 61.880461883544925
+Epoch: 167, Batch Gradient Norm: 25.767635156003557
+Epoch: 167, Batch Gradient Norm after: 22.360677360205788
+Epoch 168/10000, Prediction Accuracy = 23.332%, Loss = 61.87410202026367
+Epoch: 168, Batch Gradient Norm: 25.784070407762194
+Epoch: 168, Batch Gradient Norm after: 22.360678621766482
+Epoch 169/10000, Prediction Accuracy = 23.332%, Loss = 61.86773529052734
+Epoch: 169, Batch Gradient Norm: 25.8005142130174
+Epoch: 169, Batch Gradient Norm after: 22.360677975103304
+Epoch 170/10000, Prediction Accuracy = 23.332%, Loss = 61.86136322021484
+Epoch: 170, Batch Gradient Norm: 25.81687057549463
+Epoch: 170, Batch Gradient Norm after: 22.36067898080838
+Epoch 171/10000, Prediction Accuracy = 23.332%, Loss = 61.85498886108398
+Epoch: 171, Batch Gradient Norm: 25.833382026551703
+Epoch: 171, Batch Gradient Norm after: 22.36067716942456
+Epoch 172/10000, Prediction Accuracy = 23.332%, Loss = 61.84860687255859
+Epoch: 172, Batch Gradient Norm: 25.850386556556188
+Epoch: 172, Batch Gradient Norm after: 22.36067843970371
+Epoch 173/10000, Prediction Accuracy = 23.332%, Loss = 61.842219543457034
+Epoch: 173, Batch Gradient Norm: 25.86707578028012
+Epoch: 173, Batch Gradient Norm after: 22.360677693807244
+Epoch 174/10000, Prediction Accuracy = 23.332%, Loss = 61.835829162597655
+Epoch: 174, Batch Gradient Norm: 25.883215944728715
+Epoch: 174, Batch Gradient Norm after: 22.360677984903596
+Epoch 175/10000, Prediction Accuracy = 23.332%, Loss = 61.82943420410156
+Epoch: 175, Batch Gradient Norm: 25.900524465885592
+Epoch: 175, Batch Gradient Norm after: 22.360676701257574
+Epoch 176/10000, Prediction Accuracy = 23.332%, Loss = 61.82303085327148
+Epoch: 176, Batch Gradient Norm: 25.917496474024073
+Epoch: 176, Batch Gradient Norm after: 22.360677449080516
+Epoch 177/10000, Prediction Accuracy = 23.332%, Loss = 61.81662216186523
+Epoch: 177, Batch Gradient Norm: 25.934315212774095
+Epoch: 177, Batch Gradient Norm after: 22.360678500592638
+Epoch 178/10000, Prediction Accuracy = 23.332%, Loss = 61.81020965576172
+Epoch: 178, Batch Gradient Norm: 25.951104224973527
+Epoch: 178, Batch Gradient Norm after: 22.360677922925113
+Epoch 179/10000, Prediction Accuracy = 23.332%, Loss = 61.80379104614258
+Epoch: 179, Batch Gradient Norm: 25.967747905627032
+Epoch: 179, Batch Gradient Norm after: 22.360678948637137
+Epoch 180/10000, Prediction Accuracy = 23.332%, Loss = 61.797367858886716
+Epoch: 180, Batch Gradient Norm: 25.984754689824737
+Epoch: 180, Batch Gradient Norm after: 22.36067830855759
+Epoch 181/10000, Prediction Accuracy = 23.332%, Loss = 61.79093856811524
+Epoch: 181, Batch Gradient Norm: 26.00201533025826
+Epoch: 181, Batch Gradient Norm after: 22.360677036235423
+Epoch 182/10000, Prediction Accuracy = 23.332%, Loss = 61.78450317382813
+Epoch: 182, Batch Gradient Norm: 26.01950964285752
+Epoch: 182, Batch Gradient Norm after: 22.360677722633852
+Epoch 183/10000, Prediction Accuracy = 23.332%, Loss = 61.778062438964845
+Epoch: 183, Batch Gradient Norm: 26.036552616997085
+Epoch: 183, Batch Gradient Norm after: 22.36067882774665
+Epoch 184/10000, Prediction Accuracy = 23.332%, Loss = 61.77161865234375
+Epoch: 184, Batch Gradient Norm: 26.053937356346598
+Epoch: 184, Batch Gradient Norm after: 22.360678089826877
+Epoch 185/10000, Prediction Accuracy = 23.332%, Loss = 61.76516571044922
+Epoch: 185, Batch Gradient Norm: 26.07109128824551
+Epoch: 185, Batch Gradient Norm after: 22.36067936849036
+Epoch 186/10000, Prediction Accuracy = 23.332%, Loss = 61.75870819091797
+Epoch: 186, Batch Gradient Norm: 26.088243321826525
+Epoch: 186, Batch Gradient Norm after: 22.360678118558063
+Epoch 187/10000, Prediction Accuracy = 23.332%, Loss = 61.752245330810545
+Epoch: 187, Batch Gradient Norm: 26.105244516489304
+Epoch: 187, Batch Gradient Norm after: 22.360677419841924
+Epoch 188/10000, Prediction Accuracy = 23.332%, Loss = 61.745774841308595
+Epoch: 188, Batch Gradient Norm: 26.12201222382457
+Epoch: 188, Batch Gradient Norm after: 22.360678999154256
+Epoch 189/10000, Prediction Accuracy = 23.332%, Loss = 61.73930358886719
+Epoch: 189, Batch Gradient Norm: 26.139624632489202
+Epoch: 189, Batch Gradient Norm after: 22.360678509902538
+Epoch 190/10000, Prediction Accuracy = 23.332%, Loss = 61.73282318115234
+Epoch: 190, Batch Gradient Norm: 26.156816176458246
+Epoch: 190, Batch Gradient Norm after: 22.36067642163921
+Epoch 191/10000, Prediction Accuracy = 23.332%, Loss = 61.72634048461914
+Epoch: 191, Batch Gradient Norm: 26.174452709390664
+Epoch: 191, Batch Gradient Norm after: 22.360677188537963
+Epoch 192/10000, Prediction Accuracy = 23.332%, Loss = 61.71985015869141
+Epoch: 192, Batch Gradient Norm: 26.192068421053033
+Epoch: 192, Batch Gradient Norm after: 22.36067662371238
+Epoch 193/10000, Prediction Accuracy = 23.332%, Loss = 61.71335220336914
+Epoch: 193, Batch Gradient Norm: 26.20954980648706
+Epoch: 193, Batch Gradient Norm after: 22.36067833220975
+Epoch 194/10000, Prediction Accuracy = 23.332%, Loss = 61.70685348510742
+Epoch: 194, Batch Gradient Norm: 26.226727527290578
+Epoch: 194, Batch Gradient Norm after: 22.36067858734059
+Epoch 195/10000, Prediction Accuracy = 23.332%, Loss = 61.700348663330075
+Epoch: 195, Batch Gradient Norm: 26.244403128369484
+Epoch: 195, Batch Gradient Norm after: 22.360677397099675
+Epoch 196/10000, Prediction Accuracy = 23.332%, Loss = 61.693834686279295
+Epoch: 196, Batch Gradient Norm: 26.26212302223116
+Epoch: 196, Batch Gradient Norm after: 22.36067647071975
+Epoch 197/10000, Prediction Accuracy = 23.332%, Loss = 61.6873176574707
+Epoch: 197, Batch Gradient Norm: 26.279599182192413
+Epoch: 197, Batch Gradient Norm after: 22.36067758482436
+Epoch 198/10000, Prediction Accuracy = 23.332%, Loss = 61.68079528808594
+Epoch: 198, Batch Gradient Norm: 26.296939145831693
+Epoch: 198, Batch Gradient Norm after: 22.360676586113996
+Epoch 199/10000, Prediction Accuracy = 23.332%, Loss = 61.67426528930664
+Epoch: 199, Batch Gradient Norm: 26.314290906860663
+Epoch: 199, Batch Gradient Norm after: 22.360678925551653
+Epoch 200/10000, Prediction Accuracy = 23.332%, Loss = 61.66773452758789
+Epoch: 200, Batch Gradient Norm: 26.33129491615449
+Epoch: 200, Batch Gradient Norm after: 22.360676759902773
+Epoch 201/10000, Prediction Accuracy = 23.332%, Loss = 61.66119155883789
+Epoch: 201, Batch Gradient Norm: 26.348940753881728
+Epoch: 201, Batch Gradient Norm after: 22.360677494139182
+Epoch 202/10000, Prediction Accuracy = 23.332%, Loss = 61.654649353027345
+Epoch: 202, Batch Gradient Norm: 26.366766909636944
+Epoch: 202, Batch Gradient Norm after: 22.360677898300658
+Epoch 203/10000, Prediction Accuracy = 23.332%, Loss = 61.64809951782227
+Epoch: 203, Batch Gradient Norm: 26.384409836884814
+Epoch: 203, Batch Gradient Norm after: 22.360677844235205
+Epoch 204/10000, Prediction Accuracy = 23.332%, Loss = 61.641543579101565
+Epoch: 204, Batch Gradient Norm: 26.40217387024571
+Epoch: 204, Batch Gradient Norm after: 22.36067790541847
+Epoch 205/10000, Prediction Accuracy = 23.332%, Loss = 61.63498382568359
+Epoch: 205, Batch Gradient Norm: 26.41965740651821
+Epoch: 205, Batch Gradient Norm after: 22.360678658378536
+Epoch 206/10000, Prediction Accuracy = 23.332%, Loss = 61.62841720581055
+Epoch: 206, Batch Gradient Norm: 26.4369758941635
+Epoch: 206, Batch Gradient Norm after: 22.360678079105355
+Epoch 207/10000, Prediction Accuracy = 23.332%, Loss = 61.62184829711914
+Epoch: 207, Batch Gradient Norm: 26.454693802282563
+Epoch: 207, Batch Gradient Norm after: 22.36067690319224
+Epoch 208/10000, Prediction Accuracy = 23.332%, Loss = 61.61526870727539
+Epoch: 208, Batch Gradient Norm: 26.47248977282447
+Epoch: 208, Batch Gradient Norm after: 22.360678494756893
+Epoch 209/10000, Prediction Accuracy = 23.332%, Loss = 61.608689880371095
+Epoch: 209, Batch Gradient Norm: 26.490310110599534
+Epoch: 209, Batch Gradient Norm after: 22.360679192594073
+Epoch 210/10000, Prediction Accuracy = 23.332%, Loss = 61.60210266113281
+Epoch: 210, Batch Gradient Norm: 26.50829525554978
+Epoch: 210, Batch Gradient Norm after: 22.36067878589888
+Epoch 211/10000, Prediction Accuracy = 23.332%, Loss = 61.59551086425781
+Epoch: 211, Batch Gradient Norm: 26.525747299330348
+Epoch: 211, Batch Gradient Norm after: 22.360677508792822
+Epoch 212/10000, Prediction Accuracy = 23.332%, Loss = 61.58891296386719
+Epoch: 212, Batch Gradient Norm: 26.544116885897182
+Epoch: 212, Batch Gradient Norm after: 22.360677110539505
+Epoch 213/10000, Prediction Accuracy = 23.332%, Loss = 61.58230895996094
+Epoch: 213, Batch Gradient Norm: 26.56189955668647
+Epoch: 213, Batch Gradient Norm after: 22.360678618395525
+Epoch 214/10000, Prediction Accuracy = 23.332%, Loss = 61.57570343017578
+Epoch: 214, Batch Gradient Norm: 26.579780014811355
+Epoch: 214, Batch Gradient Norm after: 22.360678002179238
+Epoch 215/10000, Prediction Accuracy = 23.332%, Loss = 61.569091796875
+Epoch: 215, Batch Gradient Norm: 26.597425855277663
+Epoch: 215, Batch Gradient Norm after: 22.36067770234987
+Epoch 216/10000, Prediction Accuracy = 23.332%, Loss = 61.56247253417969
+Epoch: 216, Batch Gradient Norm: 26.615341551261942
+Epoch: 216, Batch Gradient Norm after: 22.36067763850612
+Epoch 217/10000, Prediction Accuracy = 23.332%, Loss = 61.555850982666016
+Epoch: 217, Batch Gradient Norm: 26.63326953431464
+Epoch: 217, Batch Gradient Norm after: 22.36067700558677
+Epoch 218/10000, Prediction Accuracy = 23.332%, Loss = 61.54922180175781
+Epoch: 218, Batch Gradient Norm: 26.651649054976733
+Epoch: 218, Batch Gradient Norm after: 22.360677264557093
+Epoch 219/10000, Prediction Accuracy = 23.332%, Loss = 61.542588806152345
+Epoch: 219, Batch Gradient Norm: 26.670351129958025
+Epoch: 219, Batch Gradient Norm after: 22.360677844253814
+Epoch 220/10000, Prediction Accuracy = 23.332%, Loss = 61.5359489440918
+Epoch: 220, Batch Gradient Norm: 26.688609535961046
+Epoch: 220, Batch Gradient Norm after: 22.360678635284895
+Epoch 221/10000, Prediction Accuracy = 23.332%, Loss = 61.52930374145508
+Epoch: 221, Batch Gradient Norm: 26.706648171207995
+Epoch: 221, Batch Gradient Norm after: 22.360677793728108
+Epoch 222/10000, Prediction Accuracy = 23.332%, Loss = 61.5226547241211
+Epoch: 222, Batch Gradient Norm: 26.725625920401406
+Epoch: 222, Batch Gradient Norm after: 22.360679648031564
+Epoch 223/10000, Prediction Accuracy = 23.332%, Loss = 61.51599960327148
+Epoch: 223, Batch Gradient Norm: 26.743927518013145
+Epoch: 223, Batch Gradient Norm after: 22.36067947790535
+Epoch 224/10000, Prediction Accuracy = 23.332%, Loss = 61.50933685302734
+Epoch: 224, Batch Gradient Norm: 26.76187887415065
+Epoch: 224, Batch Gradient Norm after: 22.36067858120777
+Epoch 225/10000, Prediction Accuracy = 23.332%, Loss = 61.50267028808594
+Epoch: 225, Batch Gradient Norm: 26.780403530466504
+Epoch: 225, Batch Gradient Norm after: 22.360678140296557
+Epoch 226/10000, Prediction Accuracy = 23.332%, Loss = 61.49599761962891
+Epoch: 226, Batch Gradient Norm: 26.799307252538892
+Epoch: 226, Batch Gradient Norm after: 22.36067888602872
+Epoch 227/10000, Prediction Accuracy = 23.332%, Loss = 61.489321899414065
+Epoch: 227, Batch Gradient Norm: 26.817788126961695
+Epoch: 227, Batch Gradient Norm after: 22.360678964093616
+Epoch 228/10000, Prediction Accuracy = 23.332%, Loss = 61.48263778686523
+Epoch: 228, Batch Gradient Norm: 26.83630267473006
+Epoch: 228, Batch Gradient Norm after: 22.360677679608564
+Epoch 229/10000, Prediction Accuracy = 23.332%, Loss = 61.47595062255859
+Epoch: 229, Batch Gradient Norm: 26.855026175679125
+Epoch: 229, Batch Gradient Norm after: 22.360678641219042
+Epoch 230/10000, Prediction Accuracy = 23.332%, Loss = 61.46925582885742
+Epoch: 230, Batch Gradient Norm: 26.87403781777626
+Epoch: 230, Batch Gradient Norm after: 22.36067986786429
+Epoch 231/10000, Prediction Accuracy = 23.332%, Loss = 61.46255798339844
+Epoch: 231, Batch Gradient Norm: 26.893216580956413
+Epoch: 231, Batch Gradient Norm after: 22.360679557147904
+Epoch 232/10000, Prediction Accuracy = 23.332%, Loss = 61.45585250854492
+Epoch: 232, Batch Gradient Norm: 26.91238039727071
+Epoch: 232, Batch Gradient Norm after: 22.36067809336142
+Epoch 233/10000, Prediction Accuracy = 23.332%, Loss = 61.44914093017578
+Epoch: 233, Batch Gradient Norm: 26.931719930408004
+Epoch: 233, Batch Gradient Norm after: 22.360680855575712
+Epoch 234/10000, Prediction Accuracy = 23.332%, Loss = 61.44242401123047
+Epoch: 234, Batch Gradient Norm: 26.951057839727408
+Epoch: 234, Batch Gradient Norm after: 22.3606783279666
+Epoch 235/10000, Prediction Accuracy = 23.332%, Loss = 61.43569793701172
+Epoch: 235, Batch Gradient Norm: 26.970484303035892
+Epoch: 235, Batch Gradient Norm after: 22.360677962375426
+Epoch 236/10000, Prediction Accuracy = 23.332%, Loss = 61.42897338867188
+Epoch: 236, Batch Gradient Norm: 26.98984488426091
+Epoch: 236, Batch Gradient Norm after: 22.360679713363112
+Epoch 237/10000, Prediction Accuracy = 23.332%, Loss = 61.422237396240234
+Traceback (most recent call last):
+  File "/Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/PPO/bert_marl/mode20-dqn/classify_rsmProp2.py", line 154, in <module>
+    loss.backward()
+  File "/Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/bertsekas-marl/spider/lib/python3.11/site-packages/torch/_tensor.py", line 487, in backward
+    torch.autograd.backward(
+  File "/Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/bertsekas-marl/spider/lib/python3.11/site-packages/torch/autograd/__init__.py", line 200, in backward
+    Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+KeyboardInterrupt

@@ -1,0 +1,1057 @@
+Started Training.
+Found device: cpu.
+0.3920212686061859
+Episode 0: Reward is -50.0, with steps 25 exeTime14.180377006530762
+Episode 1: Reward is -26.0, with steps 13 exeTime4.32592511177063
+Episode 2: Reward is -30.0, with steps 15 exeTime6.797290086746216
+Episode 3: Reward is -38.0, with steps 19 exeTime7.8519980907440186
+Episode 4: Reward is -80.0, with steps 40 exeTime16.532050132751465
+Episode 5: Reward is -72.0, with steps 36 exeTime11.767322778701782
+Episode 6: Reward is -30.0, with steps 15 exeTime4.169636964797974
+Episode 7: Reward is -38.0, with steps 19 exeTime7.9553868770599365
+Episode 8: Reward is -76.0, with steps 38 exeTime16.54834270477295
+Episode 9: Reward is -62.0, with steps 31 exeTime18.07565712928772
+Checpoint passed
+Starting Evaluations with 0'th training epoch
+Episode 0: Reward is -30.0, with steps 15 exeTime7.452547073364258
+Episode 1: Reward is -48.0, with steps 24 exeTime10.259032249450684
+Episode 2: Reward is -52.0, with steps 26 exeTime8.01520586013794
+Episode 3: Reward is -38.0, with steps 19 exeTime7.361619234085083
+Episode 4: Reward is -68.0, with steps 34 exeTime14.30997896194458
+Episode 5: Reward is -16.0, with steps 8 exeTime3.7558610439300537
+Episode 6: Reward is -72.0, with steps 36 exeTime11.870028018951416
+Episode 7: Reward is -92.0, with steps 46 exeTime18.58084201812744
+Episode 8: Reward is -36.0, with steps 18 exeTime5.1830761432647705
+Episode 9: Reward is -48.0, with steps 24 exeTime9.03029990196228
+Checpoint passed
+0.2727741705519812
+Episode 0: Reward is -56.0, with steps 28 exeTime12.241469860076904
+Episode 1: Reward is -26.0, with steps 13 exeTime4.090616226196289
+Episode 2: Reward is -116.0, with steps 58 exeTime27.63984727859497
+Episode 3: Reward is -22.0, with steps 11 exeTime3.9282689094543457
+Episode 4: Reward is -70.0, with steps 35 exeTime13.486797094345093
+Episode 5: Reward is -46.0, with steps 23 exeTime12.521176815032959
+Episode 6: Reward is -12.0, with steps 6 exeTime2.4400761127471924
+Episode 7: Reward is -40.0, with steps 20 exeTime6.907052040100098
+Episode 8: Reward is -8.0, with steps 4 exeTime1.2472429275512695
+Episode 9: Reward is -26.0, with steps 13 exeTime3.1988260746002197
+Checpoint passed
+0.2439546457358769
+Episode 0: Reward is -28.0, with steps 14 exeTime5.242866039276123
+Episode 1: Reward is -20.0, with steps 10 exeTime4.167344808578491
+Episode 2: Reward is -42.0, with steps 21 exeTime10.777871131896973
+Episode 3: Reward is -28.0, with steps 14 exeTime5.21307110786438
+Episode 4: Reward is -52.0, with steps 26 exeTime10.32729983329773
+Episode 5: Reward is -44.0, with steps 22 exeTime11.179017782211304
+Episode 6: Reward is -18.0, with steps 9 exeTime2.7269527912139893
+Episode 7: Reward is -18.0, with steps 9 exeTime3.224835157394409
+Episode 8: Reward is -18.0, with steps 9 exeTime3.7641210556030273
+Episode 9: Reward is -30.0, with steps 15 exeTime6.944576978683472
+Checpoint passed
+0.2310180983373097
+Episode 0: Reward is -156.0, with steps 78 exeTime34.46830916404724
+Episode 1: Reward is -46.0, with steps 23 exeTime9.247735977172852
+Episode 2: Reward is -30.0, with steps 15 exeTime4.286319971084595
+Episode 3: Reward is -34.0, with steps 17 exeTime5.3756263256073
+Episode 4: Reward is -44.0, with steps 22 exeTime9.970515966415405
+Episode 5: Reward is -58.0, with steps 29 exeTime12.89420223236084
+Episode 6: Reward is -34.0, with steps 17 exeTime7.910219192504883
+Episode 7: Reward is -16.0, with steps 8 exeTime2.5980331897735596
+Episode 8: Reward is -26.0, with steps 13 exeTime4.454655885696411
+Episode 9: Reward is -16.0, with steps 8 exeTime3.7206270694732666
+Checpoint passed
+0.22336203072752273
+Episode 0: Reward is -44.0, with steps 22 exeTime10.394515991210938
+Episode 1: Reward is -26.0, with steps 13 exeTime3.556474208831787
+Episode 2: Reward is -24.0, with steps 12 exeTime4.8766138553619385
+Episode 3: Reward is -80.0, with steps 40 exeTime16.379585027694702
+Episode 4: Reward is -26.0, with steps 13 exeTime5.792834043502808
+Episode 5: Reward is -4.0, with steps 2 exeTime0.6603491306304932
+Episode 6: Reward is -40.0, with steps 20 exeTime7.633498907089233
+Episode 7: Reward is -62.0, with steps 31 exeTime11.894043207168579
+Episode 8: Reward is -42.0, with steps 21 exeTime6.882882118225098
+Episode 9: Reward is -16.0, with steps 8 exeTime2.2762129306793213
+Checpoint passed
+0.21877905939306533
+Episode 0: Reward is -44.0, with steps 22 exeTime6.857666969299316
+Episode 1: Reward is -30.0, with steps 15 exeTime4.56592321395874
+Episode 2: Reward is -28.0, with steps 14 exeTime6.4564619064331055
+Episode 3: Reward is -20.0, with steps 10 exeTime4.59699273109436
+Episode 4: Reward is -70.0, with steps 35 exeTime17.367913961410522
+Episode 5: Reward is -44.0, with steps 22 exeTime9.033118963241577
+Episode 6: Reward is -22.0, with steps 11 exeTime4.341447114944458
+Episode 7: Reward is -46.0, with steps 23 exeTime10.230154037475586
+Episode 8: Reward is -62.0, with steps 31 exeTime13.156267166137695
+Episode 9: Reward is -46.0, with steps 23 exeTime8.709243774414062
+Checpoint passed
+0.21538469195365906
+Episode 0: Reward is -14.0, with steps 7 exeTime2.1569418907165527
+Episode 1: Reward is -28.0, with steps 14 exeTime5.691738128662109
+Episode 2: Reward is -14.0, with steps 7 exeTime2.8056020736694336
+Episode 3: Reward is -22.0, with steps 11 exeTime3.69754695892334
+Episode 4: Reward is -58.0, with steps 29 exeTime10.0608971118927
+Episode 5: Reward is -42.0, with steps 21 exeTime7.734065294265747
+Episode 6: Reward is -64.0, with steps 32 exeTime12.992033958435059
+Episode 7: Reward is -58.0, with steps 29 exeTime14.028867959976196
+Episode 8: Reward is -64.0, with steps 32 exeTime14.828489065170288
+Episode 9: Reward is -40.0, with steps 20 exeTime6.726649045944214
+Checpoint passed
+0.21372124552726746
+Episode 0: Reward is -72.0, with steps 36 exeTime10.86716628074646
+Episode 1: Reward is -50.0, with steps 25 exeTime12.751148223876953
+Episode 2: Reward is -30.0, with steps 15 exeTime6.015228748321533
+Episode 3: Reward is -16.0, with steps 8 exeTime3.140300989151001
+Episode 4: Reward is -42.0, with steps 21 exeTime9.365003824234009
+Episode 5: Reward is -38.0, with steps 19 exeTime5.3396501541137695
+Episode 6: Reward is -40.0, with steps 20 exeTime8.605723857879639
+Episode 7: Reward is -58.0, with steps 29 exeTime13.585715055465698
+Episode 8: Reward is -62.0, with steps 31 exeTime14.130094051361084
+Episode 9: Reward is -28.0, with steps 14 exeTime5.522883653640747
+Checpoint passed
+0.2123641073703766
+Episode 0: Reward is -40.0, with steps 20 exeTime4.892832040786743
+Episode 1: Reward is -38.0, with steps 19 exeTime6.6611950397491455
+Episode 2: Reward is -38.0, with steps 19 exeTime7.005038738250732
+Episode 3: Reward is -26.0, with steps 13 exeTime5.227162837982178
+Episode 4: Reward is -68.0, with steps 34 exeTime13.380821943283081
+Episode 5: Reward is -28.0, with steps 14 exeTime7.239815950393677
+Episode 6: Reward is -92.0, with steps 46 exeTime17.549028873443604
+Episode 7: Reward is -36.0, with steps 18 exeTime5.751666784286499
+Episode 8: Reward is -42.0, with steps 21 exeTime10.320538997650146
+Episode 9: Reward is -32.0, with steps 16 exeTime7.040642023086548
+Checpoint passed
+0.2109707977090563
+Episode 0: Reward is -32.0, with steps 16 exeTime4.8901731967926025
+Episode 1: Reward is -46.0, with steps 23 exeTime9.772298812866211
+Episode 2: Reward is -20.0, with steps 10 exeTime3.2392330169677734
+Episode 3: Reward is -8.0, with steps 4 exeTime1.009267807006836
+Episode 4: Reward is -18.0, with steps 9 exeTime3.132063865661621
+Episode 5: Reward is -44.0, with steps 22 exeTime7.373016119003296
+Episode 6: Reward is -62.0, with steps 31 exeTime13.119663000106812
+Episode 7: Reward is -56.0, with steps 28 exeTime11.884398937225342
+Episode 8: Reward is -40.0, with steps 20 exeTime10.722557067871094
+Episode 9: Reward is -24.0, with steps 12 exeTime3.4756810665130615
+Checpoint passed
+0.21026845276355743
+Episode 0: Reward is -34.0, with steps 17 exeTime6.7538161277771
+Episode 1: Reward is -42.0, with steps 21 exeTime7.659585952758789
+Episode 2: Reward is -18.0, with steps 9 exeTime3.9392409324645996
+Episode 3: Reward is -50.0, with steps 25 exeTime9.305438041687012
+Episode 4: Reward is -70.0, with steps 35 exeTime14.539368867874146
+Episode 5: Reward is -38.0, with steps 19 exeTime7.614063024520874
+Episode 6: Reward is -30.0, with steps 15 exeTime7.642795085906982
+Episode 7: Reward is -46.0, with steps 23 exeTime8.791574954986572
+Episode 8: Reward is -16.0, with steps 8 exeTime2.810981035232544
+Episode 9: Reward is -24.0, with steps 12 exeTime4.484823703765869
+Checpoint passed
+0.20934952369758061
+Episode 0: Reward is -64.0, with steps 32 exeTime14.104926109313965
+Episode 1: Reward is -28.0, with steps 14 exeTime5.1735899448394775
+Episode 2: Reward is -64.0, with steps 32 exeTime14.225043773651123
+Episode 3: Reward is -48.0, with steps 24 exeTime5.751173973083496
+Episode 4: Reward is -30.0, with steps 15 exeTime6.666037321090698
+Episode 5: Reward is -92.0, with steps 46 exeTime19.11432909965515
+Episode 6: Reward is -16.0, with steps 8 exeTime3.0752508640289307
+Episode 7: Reward is -74.0, with steps 37 exeTime12.661043882369995
+Episode 8: Reward is -16.0, with steps 8 exeTime3.5559868812561035
+Episode 9: Reward is -28.0, with steps 14 exeTime4.122096061706543
+Checpoint passed
+0.2091546654701233
+Episode 0: Reward is -26.0, with steps 13 exeTime6.638798713684082
+Episode 1: Reward is -36.0, with steps 18 exeTime7.917834043502808
+Episode 2: Reward is -36.0, with steps 18 exeTime6.3361570835113525
+Episode 3: Reward is -84.0, with steps 42 exeTime16.77645707130432
+Episode 4: Reward is -28.0, with steps 14 exeTime6.453254222869873
+Episode 5: Reward is -16.0, with steps 8 exeTime2.588656187057495
+Episode 6: Reward is -10.0, with steps 5 exeTime2.0258469581604004
+Episode 7: Reward is -38.0, with steps 19 exeTime9.41370701789856
+Episode 8: Reward is -42.0, with steps 21 exeTime8.230278730392456
+Episode 9: Reward is -34.0, with steps 17 exeTime7.003631114959717
+Checpoint passed
+0.2085003001349313
+Episode 0: Reward is -18.0, with steps 9 exeTime4.443805932998657
+Episode 1: Reward is -42.0, with steps 21 exeTime10.719911813735962
+Episode 2: Reward is -12.0, with steps 6 exeTime2.7030189037323
+Episode 3: Reward is -16.0, with steps 8 exeTime2.815777063369751
+Episode 4: Reward is -24.0, with steps 12 exeTime5.352174997329712
+Episode 5: Reward is -16.0, with steps 8 exeTime2.652904987335205
+Episode 6: Reward is -42.0, with steps 21 exeTime7.235972881317139
+Episode 7: Reward is -28.0, with steps 14 exeTime4.881811857223511
+Episode 8: Reward is -42.0, with steps 21 exeTime9.647598266601562
+Episode 9: Reward is -24.0, with steps 12 exeTime2.7409908771514893
+Checpoint passed
+0.20863329086984908
+Episode 0: Reward is -20.0, with steps 10 exeTime3.813969850540161
+Episode 1: Reward is -70.0, with steps 35 exeTime21.09623432159424
+Episode 2: Reward is -22.0, with steps 11 exeTime2.888495922088623
+Episode 3: Reward is -24.0, with steps 12 exeTime5.4331841468811035
+Episode 4: Reward is -32.0, with steps 16 exeTime8.299160718917847
+Episode 5: Reward is -56.0, with steps 28 exeTime11.629449844360352
+Episode 6: Reward is -16.0, with steps 8 exeTime4.346224784851074
+Episode 7: Reward is -14.0, with steps 7 exeTime2.8023858070373535
+Episode 8: Reward is -26.0, with steps 13 exeTime6.685944080352783
+Episode 9: Reward is -52.0, with steps 26 exeTime10.689694881439209
+Checpoint passed
+0.20844589173793793
+Episode 0: Reward is -30.0, with steps 15 exeTime6.045496940612793
+Episode 1: Reward is -98.0, with steps 49 exeTime19.382947206497192
+Episode 2: Reward is -14.0, with steps 7 exeTime2.4641060829162598
+Episode 3: Reward is -40.0, with steps 20 exeTime8.653398990631104
+Episode 4: Reward is -80.0, with steps 40 exeTime12.478645086288452
+Episode 5: Reward is -22.0, with steps 11 exeTime3.623481035232544
+Episode 6: Reward is -52.0, with steps 26 exeTime11.060415983200073
+Episode 7: Reward is -38.0, with steps 19 exeTime9.813569068908691
+Episode 8: Reward is -42.0, with steps 21 exeTime9.192856073379517
+Episode 9: Reward is -54.0, with steps 27 exeTime11.169221878051758
+Checpoint passed
+0.20764014976365225
+Episode 0: Reward is -40.0, with steps 20 exeTime8.533868074417114
+Episode 1: Reward is -50.0, with steps 25 exeTime7.765197992324829
+Episode 2: Reward is -62.0, with steps 31 exeTime12.730315208435059
+Episode 3: Reward is -22.0, with steps 11 exeTime5.21411919593811
+Episode 4: Reward is -54.0, with steps 27 exeTime6.739426851272583
+Episode 5: Reward is -22.0, with steps 11 exeTime5.049200057983398
+Episode 6: Reward is -32.0, with steps 16 exeTime8.156377077102661
+Episode 7: Reward is -50.0, with steps 25 exeTime10.43740701675415
+Episode 8: Reward is -82.0, with steps 41 exeTime15.323449850082397
+Episode 9: Reward is -64.0, with steps 32 exeTime12.712340116500854
+Checpoint passed
+0.20719593550477708
+Episode 0: Reward is -54.0, with steps 27 exeTime12.745153903961182
+Episode 1: Reward is -34.0, with steps 17 exeTime7.632859945297241
+Episode 2: Reward is -48.0, with steps 24 exeTime12.481069803237915
+Episode 3: Reward is -20.0, with steps 10 exeTime3.3274550437927246
+Episode 4: Reward is -60.0, with steps 30 exeTime15.217115879058838
+Episode 5: Reward is -38.0, with steps 19 exeTime9.13735580444336
+Episode 6: Reward is -62.0, with steps 31 exeTime14.55347990989685
+Episode 7: Reward is -54.0, with steps 27 exeTime11.38455080986023
+Episode 8: Reward is -74.0, with steps 37 exeTime12.949502944946289
+Episode 9: Reward is -44.0, with steps 22 exeTime8.773382902145386
+Checpoint passed
+0.20683158934116364
+Episode 0: Reward is -32.0, with steps 16 exeTime4.741163015365601
+Episode 1: Reward is -10.0, with steps 5 exeTime1.6834819316864014
+Episode 2: Reward is -6.0, with steps 3 exeTime1.200653076171875
+Episode 3: Reward is -80.0, with steps 40 exeTime16.107383012771606
+Episode 4: Reward is -68.0, with steps 34 exeTime14.086114883422852
+Episode 5: Reward is -34.0, with steps 17 exeTime8.437597274780273
+Episode 6: Reward is -30.0, with steps 15 exeTime6.03220009803772
+Episode 7: Reward is -38.0, with steps 19 exeTime6.2815961837768555
+Episode 8: Reward is -18.0, with steps 9 exeTime3.5208377838134766
+Episode 9: Reward is -54.0, with steps 27 exeTime11.5661940574646
+Checpoint passed
+0.206615720476423
+Episode 0: Reward is -44.0, with steps 22 exeTime9.218817949295044
+Episode 1: Reward is -22.0, with steps 11 exeTime2.430161714553833
+Episode 2: Reward is -58.0, with steps 29 exeTime13.955846309661865
+Episode 3: Reward is -28.0, with steps 14 exeTime6.026061773300171
+Episode 4: Reward is -28.0, with steps 14 exeTime5.349671125411987
+Episode 5: Reward is -26.0, with steps 13 exeTime5.292692184448242
+Episode 6: Reward is -48.0, with steps 24 exeTime12.208557844161987
+Episode 7: Reward is -22.0, with steps 11 exeTime4.331955194473267
+Episode 8: Reward is -36.0, with steps 18 exeTime7.471567869186401
+Episode 9: Reward is -34.0, with steps 17 exeTime5.857255935668945
+Checpoint passed
+0.20683095710618155
+Episode 0: Reward is -14.0, with steps 7 exeTime2.608426809310913
+Episode 1: Reward is -28.0, with steps 14 exeTime5.788340091705322
+Episode 2: Reward is -26.0, with steps 13 exeTime4.068552017211914
+Episode 3: Reward is -56.0, with steps 28 exeTime12.68142580986023
+Episode 4: Reward is -12.0, with steps 6 exeTime2.0536420345306396
+Episode 5: Reward is -52.0, with steps 26 exeTime12.50180697441101
+Episode 6: Reward is -42.0, with steps 21 exeTime11.536107063293457
+Episode 7: Reward is -22.0, with steps 11 exeTime2.842371940612793
+Episode 8: Reward is -36.0, with steps 18 exeTime6.185946941375732
+Episode 9: Reward is -30.0, with steps 15 exeTime6.599683046340942
+Checpoint passed
+0.2059922409909112
+Episode 0: Reward is -16.0, with steps 8 exeTime2.7399587631225586
+Episode 1: Reward is -96.0, with steps 48 exeTime16.47548198699951
+Episode 2: Reward is -20.0, with steps 10 exeTime3.714787006378174
+Episode 3: Reward is -30.0, with steps 15 exeTime5.481777191162109
+Episode 4: Reward is -74.0, with steps 37 exeTime18.903491020202637
+Episode 5: Reward is -64.0, with steps 32 exeTime11.104079723358154
+Episode 6: Reward is -40.0, with steps 20 exeTime9.462120294570923
+Episode 7: Reward is -50.0, with steps 25 exeTime10.416543960571289
+Episode 8: Reward is -54.0, with steps 27 exeTime13.23228406906128
+Episode 9: Reward is -92.0, with steps 46 exeTime16.312938928604126
+Checpoint passed
+0.20602573028632573
+Episode 0: Reward is -22.0, with steps 11 exeTime4.505016088485718
+Episode 1: Reward is -18.0, with steps 9 exeTime3.4029130935668945
+Episode 2: Reward is -18.0, with steps 9 exeTime4.592638969421387
+Episode 3: Reward is -12.0, with steps 6 exeTime2.4615349769592285
+Episode 4: Reward is -36.0, with steps 18 exeTime7.468780040740967
+Episode 5: Reward is -22.0, with steps 11 exeTime3.6409060955047607
+Episode 6: Reward is -46.0, with steps 23 exeTime9.395930290222168
+Episode 7: Reward is -40.0, with steps 20 exeTime6.438884973526001
+Episode 8: Reward is -46.0, with steps 23 exeTime9.543667078018188
+Episode 9: Reward is -18.0, with steps 9 exeTime3.0254950523376465
+Checpoint passed
+0.20557680513177598
+Episode 0: Reward is -56.0, with steps 28 exeTime12.23163104057312
+Episode 1: Reward is -84.0, with steps 42 exeTime19.792311191558838
+Episode 2: Reward is -26.0, with steps 13 exeTime7.424944877624512
+Episode 3: Reward is -34.0, with steps 17 exeTime6.417073011398315
+Episode 4: Reward is -38.0, with steps 19 exeTime8.617045879364014
+Episode 5: Reward is -16.0, with steps 8 exeTime2.644796848297119
+Episode 6: Reward is -46.0, with steps 23 exeTime12.290733814239502
+Episode 7: Reward is -90.0, with steps 45 exeTime22.081787824630737
+Episode 8: Reward is -24.0, with steps 12 exeTime3.48569393157959
+Episode 9: Reward is -16.0, with steps 8 exeTime3.76723313331604
+Checpoint passed
+0.20532290850366866
+Episode 0: Reward is -24.0, with steps 12 exeTime4.571864128112793
+Episode 1: Reward is -134.0, with steps 67 exeTime20.159580945968628
+Episode 2: Reward is -18.0, with steps 9 exeTime2.965834856033325
+Episode 3: Reward is -32.0, with steps 16 exeTime5.822433948516846
+Episode 4: Reward is -38.0, with steps 19 exeTime7.973418951034546
+Episode 5: Reward is -24.0, with steps 12 exeTime4.036874055862427
+Episode 6: Reward is -26.0, with steps 13 exeTime5.738362789154053
+Episode 7: Reward is -62.0, with steps 31 exeTime11.221274137496948
+Episode 8: Reward is -94.0, with steps 47 exeTime21.99170207977295
+Episode 9: Reward is -62.0, with steps 31 exeTime12.161503076553345
+Checpoint passed
+0.20470217721802847
+Episode 0: Reward is -20.0, with steps 10 exeTime2.821070909500122
+Episode 1: Reward is -34.0, with steps 17 exeTime6.130040884017944
+Episode 2: Reward is -36.0, with steps 18 exeTime7.8393871784210205
+Episode 3: Reward is -30.0, with steps 15 exeTime6.335278749465942
+Episode 4: Reward is -36.0, with steps 18 exeTime7.90470290184021
+Episode 5: Reward is -32.0, with steps 16 exeTime6.643916845321655
+Episode 6: Reward is -58.0, with steps 29 exeTime9.646642923355103
+Episode 7: Reward is -8.0, with steps 4 exeTime1.81805419921875
+Episode 8: Reward is -20.0, with steps 10 exeTime5.2885901927948
+Episode 9: Reward is -36.0, with steps 18 exeTime7.901685953140259
+Checpoint passed
+0.20428413578442164
+Episode 0: Reward is -10.0, with steps 5 exeTime1.6508398056030273
+Episode 1: Reward is -56.0, with steps 28 exeTime14.84040117263794
+Episode 2: Reward is -70.0, with steps 35 exeTime17.62362790107727
+Episode 3: Reward is -42.0, with steps 21 exeTime10.019052028656006
+Episode 4: Reward is -34.0, with steps 17 exeTime6.25173282623291
+Episode 5: Reward is -52.0, with steps 26 exeTime11.388824939727783
+Episode 6: Reward is -18.0, with steps 9 exeTime2.9758551120758057
+Episode 7: Reward is -16.0, with steps 8 exeTime2.5509440898895264
+Episode 8: Reward is -36.0, with steps 18 exeTime7.14309287071228
+Episode 9: Reward is -50.0, with steps 25 exeTime13.403565883636475
+Checpoint passed
+0.2046192501272474
+Episode 0: Reward is -22.0, with steps 11 exeTime3.973052978515625
+Episode 1: Reward is -24.0, with steps 12 exeTime4.912309169769287
+Episode 2: Reward is -38.0, with steps 19 exeTime5.669394254684448
+Episode 3: Reward is -18.0, with steps 9 exeTime4.220633029937744
+Episode 4: Reward is -52.0, with steps 26 exeTime13.523951292037964
+Episode 5: Reward is -10.0, with steps 5 exeTime1.8390529155731201
+Episode 6: Reward is -30.0, with steps 15 exeTime7.517874002456665
+Episode 7: Reward is -30.0, with steps 15 exeTime4.60061502456665
+Episode 8: Reward is -36.0, with steps 18 exeTime8.413137197494507
+Episode 9: Reward is -68.0, with steps 34 exeTime14.706116199493408
+Checpoint passed
+0.20451407773154123
+Episode 0: Reward is -52.0, with steps 26 exeTime7.208578109741211
+Episode 1: Reward is -14.0, with steps 7 exeTime2.7440409660339355
+Episode 2: Reward is -50.0, with steps 25 exeTime8.52359914779663
+Episode 3: Reward is -28.0, with steps 14 exeTime3.971730947494507
+Episode 4: Reward is -20.0, with steps 10 exeTime4.140478134155273
+Episode 5: Reward is -24.0, with steps 12 exeTime4.438733816146851
+Episode 6: Reward is -86.0, with steps 43 exeTime16.941571950912476
+Episode 7: Reward is -68.0, with steps 34 exeTime17.460088968276978
+Episode 8: Reward is -20.0, with steps 10 exeTime2.939707040786743
+Episode 9: Reward is -52.0, with steps 26 exeTime10.121653079986572
+Checpoint passed
+0.20424434755529677
+Episode 0: Reward is -40.0, with steps 20 exeTime7.002247333526611
+Episode 1: Reward is -40.0, with steps 20 exeTime8.820889949798584
+Episode 2: Reward is -32.0, with steps 16 exeTime7.78102707862854
+Episode 3: Reward is -60.0, with steps 30 exeTime13.7068350315094
+Episode 4: Reward is -66.0, with steps 33 exeTime13.731757879257202
+Episode 5: Reward is -40.0, with steps 20 exeTime9.807338953018188
+Episode 6: Reward is -36.0, with steps 18 exeTime9.658236026763916
+Episode 7: Reward is -24.0, with steps 12 exeTime5.771726131439209
+Episode 8: Reward is -12.0, with steps 6 exeTime2.3827528953552246
+Episode 9: Reward is -108.0, with steps 54 exeTime18.72349786758423
+Checpoint passed
+0.20404781614031112
+Episode 0: Reward is -42.0, with steps 21 exeTime8.071791172027588
+Episode 1: Reward is -30.0, with steps 15 exeTime6.448478937149048
+Episode 2: Reward is -40.0, with steps 20 exeTime9.17112922668457
+Episode 3: Reward is -70.0, with steps 35 exeTime15.835618734359741
+Episode 4: Reward is -22.0, with steps 11 exeTime4.97808837890625
+Episode 5: Reward is -32.0, with steps 16 exeTime5.1749608516693115
+Episode 6: Reward is -64.0, with steps 32 exeTime14.771697998046875
+Episode 7: Reward is -10.0, with steps 5 exeTime1.5330512523651123
+Episode 8: Reward is -44.0, with steps 22 exeTime8.61717700958252
+Episode 9: Reward is -22.0, with steps 11 exeTime3.124560832977295
+Checpoint passed
+0.2040604225226811
+Episode 0: Reward is -22.0, with steps 11 exeTime4.289917945861816
+Episode 1: Reward is -54.0, with steps 27 exeTime12.023923873901367
+Episode 2: Reward is -26.0, with steps 13 exeTime2.896850109100342
+Episode 3: Reward is -48.0, with steps 24 exeTime9.411489009857178
+Episode 4: Reward is -26.0, with steps 13 exeTime5.983427047729492
+Episode 5: Reward is -28.0, with steps 14 exeTime4.992431163787842
+Episode 6: Reward is -16.0, with steps 8 exeTime2.9475209712982178
+Episode 7: Reward is -28.0, with steps 14 exeTime4.687563180923462
+Episode 8: Reward is -86.0, with steps 43 exeTime20.862529039382935
+Episode 9: Reward is -102.0, with steps 51 exeTime17.445139169692993
+Checpoint passed
+0.20516276359558105
+Episode 0: Reward is -26.0, with steps 13 exeTime5.3325841426849365
+Episode 1: Reward is -66.0, with steps 33 exeTime15.571225881576538
+Episode 2: Reward is -46.0, with steps 23 exeTime9.992608785629272
+Episode 3: Reward is -20.0, with steps 10 exeTime2.998673915863037
+Episode 4: Reward is -26.0, with steps 13 exeTime4.367646932601929
+Episode 5: Reward is -28.0, with steps 14 exeTime4.146943092346191
+Episode 6: Reward is -24.0, with steps 12 exeTime4.817455768585205
+Episode 7: Reward is -28.0, with steps 14 exeTime4.703804969787598
+Episode 8: Reward is -42.0, with steps 21 exeTime8.84829592704773
+Episode 9: Reward is -78.0, with steps 39 exeTime18.120641946792603
+Checpoint passed
+0.20442767015525273
+Episode 0: Reward is -50.0, with steps 25 exeTime11.24367880821228
+Episode 1: Reward is -36.0, with steps 18 exeTime7.950935125350952
+Episode 2: Reward is -18.0, with steps 9 exeTime3.3747758865356445
+Episode 3: Reward is -30.0, with steps 15 exeTime5.784544944763184
+Episode 4: Reward is -22.0, with steps 11 exeTime4.829755783081055
+Episode 5: Reward is -36.0, with steps 18 exeTime10.779026985168457
+Episode 6: Reward is -60.0, with steps 30 exeTime14.694991827011108
+Episode 7: Reward is -60.0, with steps 30 exeTime15.356497049331665
+Episode 8: Reward is -36.0, with steps 18 exeTime9.898921966552734
+Episode 9: Reward is -20.0, with steps 10 exeTime4.194449186325073
+Checpoint passed
+0.20335754539285386
+Episode 0: Reward is -32.0, with steps 16 exeTime8.612402200698853
+Episode 1: Reward is -24.0, with steps 12 exeTime4.867802143096924
+Episode 2: Reward is -54.0, with steps 27 exeTime9.901967763900757
+Episode 3: Reward is -20.0, with steps 10 exeTime3.4725699424743652
+Episode 4: Reward is -42.0, with steps 21 exeTime7.818804979324341
+Episode 5: Reward is -28.0, with steps 14 exeTime7.401515007019043
+Episode 6: Reward is -62.0, with steps 31 exeTime13.93899917602539
+Episode 7: Reward is -62.0, with steps 31 exeTime13.024067878723145
+Episode 8: Reward is -28.0, with steps 14 exeTime6.485453844070435
+Episode 9: Reward is -26.0, with steps 13 exeTime6.420862913131714
+Checpoint passed
+0.20363881119659968
+Episode 0: Reward is -56.0, with steps 28 exeTime16.16376805305481
+Episode 1: Reward is -30.0, with steps 15 exeTime5.101484060287476
+Episode 2: Reward is -18.0, with steps 9 exeTime3.1075987815856934
+Episode 3: Reward is -38.0, with steps 19 exeTime8.570775032043457
+Episode 4: Reward is -28.0, with steps 14 exeTime5.880640029907227
+Episode 5: Reward is -78.0, with steps 39 exeTime17.905454874038696
+Episode 6: Reward is -76.0, with steps 38 exeTime16.12419605255127
+Episode 7: Reward is -40.0, with steps 20 exeTime6.847858190536499
+Episode 8: Reward is -24.0, with steps 12 exeTime5.079176187515259
+Episode 9: Reward is -12.0, with steps 6 exeTime2.2090187072753906
+Checpoint passed
+0.20389575830527715
+Episode 0: Reward is -44.0, with steps 22 exeTime10.369316816329956
+Episode 1: Reward is -22.0, with steps 11 exeTime3.6283369064331055
+Episode 2: Reward is -32.0, with steps 16 exeTime6.144166946411133
+Episode 3: Reward is -14.0, with steps 7 exeTime2.4929869174957275
+Episode 4: Reward is -54.0, with steps 27 exeTime10.39420199394226
+Episode 5: Reward is -46.0, with steps 23 exeTime12.244972944259644
+Episode 6: Reward is -62.0, with steps 31 exeTime10.359577655792236
+Episode 7: Reward is -14.0, with steps 7 exeTime2.8141191005706787
+Episode 8: Reward is -30.0, with steps 15 exeTime6.301424026489258
+Episode 9: Reward is -54.0, with steps 27 exeTime13.47133207321167
+Checpoint passed
+0.20395265093871526
+Episode 0: Reward is -42.0, with steps 21 exeTime8.376543045043945
+Episode 1: Reward is -92.0, with steps 46 exeTime16.920925855636597
+Episode 2: Reward is -36.0, with steps 18 exeTime8.374200820922852
+Episode 3: Reward is -36.0, with steps 18 exeTime5.842206001281738
+Episode 4: Reward is -30.0, with steps 15 exeTime8.271128177642822
+Episode 5: Reward is -22.0, with steps 11 exeTime4.240644693374634
+Episode 6: Reward is -66.0, with steps 33 exeTime10.041538953781128
+Episode 7: Reward is -20.0, with steps 10 exeTime3.382962942123413
+Episode 8: Reward is -18.0, with steps 9 exeTime3.4568381309509277
+Episode 9: Reward is -30.0, with steps 15 exeTime7.363995790481567
+Checpoint passed
+0.20274962484836578
+Episode 0: Reward is -36.0, with steps 18 exeTime5.989030122756958
+Episode 1: Reward is -22.0, with steps 11 exeTime4.129342079162598
+Episode 2: Reward is -46.0, with steps 23 exeTime10.437713861465454
+Episode 3: Reward is -74.0, with steps 37 exeTime14.384921073913574
+Episode 4: Reward is -76.0, with steps 38 exeTime14.838869094848633
+Episode 5: Reward is -22.0, with steps 11 exeTime5.378506183624268
+Episode 6: Reward is -142.0, with steps 71 exeTime27.796583890914917
+Episode 7: Reward is -60.0, with steps 30 exeTime10.635610103607178
+Episode 8: Reward is -36.0, with steps 18 exeTime7.77619194984436
+Episode 9: Reward is -38.0, with steps 19 exeTime6.373064994812012
+Checpoint passed
+0.20336557711873735
+Episode 0: Reward is -20.0, with steps 10 exeTime5.306865215301514
+Episode 1: Reward is -36.0, with steps 18 exeTime7.939672946929932
+Episode 2: Reward is -54.0, with steps 27 exeTime12.932173252105713
+Episode 3: Reward is -36.0, with steps 18 exeTime6.508977890014648
+Episode 4: Reward is -38.0, with steps 19 exeTime5.265429973602295
+Episode 5: Reward is -38.0, with steps 19 exeTime8.023478031158447
+Episode 6: Reward is -42.0, with steps 21 exeTime8.28143572807312
+Episode 7: Reward is -40.0, with steps 20 exeTime7.04432487487793
+Episode 8: Reward is -44.0, with steps 22 exeTime9.228373050689697
+Episode 9: Reward is -62.0, with steps 31 exeTime16.45595407485962
+Checpoint passed
+0.20290124416351318
+Episode 0: Reward is -82.0, with steps 41 exeTime17.082049131393433
+Episode 1: Reward is -44.0, with steps 22 exeTime8.385093927383423
+Episode 2: Reward is -56.0, with steps 28 exeTime8.98744797706604
+Episode 3: Reward is -30.0, with steps 15 exeTime6.210220098495483
+Episode 4: Reward is -82.0, with steps 41 exeTime18.778003931045532
+Episode 5: Reward is -36.0, with steps 18 exeTime9.38595199584961
+Episode 6: Reward is -38.0, with steps 19 exeTime7.2024688720703125
+Episode 7: Reward is -52.0, with steps 26 exeTime11.526262044906616
+Episode 8: Reward is -22.0, with steps 11 exeTime4.967036008834839
+Episode 9: Reward is -40.0, with steps 20 exeTime9.24864912033081
+Checpoint passed
+0.2031151226588658
+Episode 0: Reward is -32.0, with steps 16 exeTime7.458474159240723
+Episode 1: Reward is -28.0, with steps 14 exeTime5.01294469833374
+Episode 2: Reward is -34.0, with steps 17 exeTime6.934107065200806
+Episode 3: Reward is -24.0, with steps 12 exeTime5.910062074661255
+Episode 4: Reward is -70.0, with steps 35 exeTime12.6130690574646
+Episode 5: Reward is -48.0, with steps 24 exeTime7.807667970657349
+Episode 6: Reward is -14.0, with steps 7 exeTime2.8102779388427734
+Episode 7: Reward is -40.0, with steps 20 exeTime10.000795125961304
+Episode 8: Reward is -16.0, with steps 8 exeTime3.1927599906921387
+Episode 9: Reward is -28.0, with steps 14 exeTime4.2793779373168945
+Checpoint passed
+0.20339936017990112
+Episode 0: Reward is -32.0, with steps 16 exeTime8.380455017089844
+Episode 1: Reward is -10.0, with steps 5 exeTime1.6593520641326904
+Episode 2: Reward is -24.0, with steps 12 exeTime6.409584999084473
+Episode 3: Reward is -38.0, with steps 19 exeTime6.501065254211426
+Episode 4: Reward is -44.0, with steps 22 exeTime7.815214157104492
+Episode 5: Reward is -10.0, with steps 5 exeTime2.193118095397949
+Episode 6: Reward is -50.0, with steps 25 exeTime13.653796195983887
+Episode 7: Reward is -22.0, with steps 11 exeTime3.507871150970459
+Episode 8: Reward is -70.0, with steps 35 exeTime15.320733070373535
+Episode 9: Reward is -70.0, with steps 35 exeTime12.315016269683838
+Checpoint passed
+0.20357967700277055
+Episode 0: Reward is -46.0, with steps 23 exeTime9.935707807540894
+Episode 1: Reward is -32.0, with steps 16 exeTime6.919824123382568
+Episode 2: Reward is -14.0, with steps 7 exeTime2.4270758628845215
+Episode 3: Reward is -96.0, with steps 48 exeTime25.0740749835968
+Episode 4: Reward is -24.0, with steps 12 exeTime7.463515996932983
+Episode 5: Reward is -38.0, with steps 19 exeTime6.335783958435059
+Episode 6: Reward is -28.0, with steps 14 exeTime5.490715980529785
+Episode 7: Reward is -56.0, with steps 28 exeTime15.487663745880127
+Episode 8: Reward is -26.0, with steps 13 exeTime5.191365957260132
+Episode 9: Reward is -12.0, with steps 6 exeTime2.432079792022705
+Checpoint passed
+0.20307921937533788
+Episode 0: Reward is -18.0, with steps 9 exeTime5.111349105834961
+Episode 1: Reward is -30.0, with steps 15 exeTime7.044505834579468
+Episode 2: Reward is -90.0, with steps 45 exeTime17.402689218521118
+Episode 3: Reward is -84.0, with steps 42 exeTime16.61291790008545
+Episode 4: Reward is -54.0, with steps 27 exeTime10.7624990940094
+Episode 5: Reward is -46.0, with steps 23 exeTime8.743969202041626
+Episode 6: Reward is -82.0, with steps 41 exeTime18.192378759384155
+Episode 7: Reward is -28.0, with steps 14 exeTime5.8199920654296875
+Episode 8: Reward is -50.0, with steps 25 exeTime13.963166236877441
+Episode 9: Reward is -16.0, with steps 8 exeTime1.9959158897399902
+Checpoint passed
+0.2028119819504874
+Episode 0: Reward is -108.0, with steps 54 exeTime16.431334257125854
+Episode 1: Reward is -26.0, with steps 13 exeTime3.5862479209899902
+Episode 2: Reward is -12.0, with steps 6 exeTime2.0076868534088135
+Episode 3: Reward is -34.0, with steps 17 exeTime5.887619256973267
+Episode 4: Reward is -46.0, with steps 23 exeTime8.353084087371826
+Episode 5: Reward is -50.0, with steps 25 exeTime7.422109127044678
+Episode 6: Reward is -38.0, with steps 19 exeTime9.108090162277222
+Episode 7: Reward is -16.0, with steps 8 exeTime3.1398119926452637
+Episode 8: Reward is -16.0, with steps 8 exeTime2.727414846420288
+Episode 9: Reward is -16.0, with steps 8 exeTime2.466156005859375
+Checpoint passed
+0.2027925146477563
+Episode 0: Reward is -20.0, with steps 10 exeTime3.4139950275421143
+Episode 1: Reward is -42.0, with steps 21 exeTime7.8860979080200195
+Episode 2: Reward is -26.0, with steps 13 exeTime4.106576204299927
+Episode 3: Reward is -42.0, with steps 21 exeTime8.40605640411377
+Episode 4: Reward is -48.0, with steps 24 exeTime9.130085945129395
+Episode 5: Reward is -30.0, with steps 15 exeTime6.59788703918457
+Episode 6: Reward is -46.0, with steps 23 exeTime8.186697959899902
+Episode 7: Reward is -20.0, with steps 10 exeTime3.9740560054779053
+Episode 8: Reward is -28.0, with steps 14 exeTime4.3087098598480225
+Episode 9: Reward is -52.0, with steps 26 exeTime7.923500061035156
+Checpoint passed
+0.20235579354422434
+Episode 0: Reward is -50.0, with steps 25 exeTime8.815970182418823
+Episode 1: Reward is -32.0, with steps 16 exeTime7.075074195861816
+Episode 2: Reward is -44.0, with steps 22 exeTime10.427695035934448
+Episode 3: Reward is -28.0, with steps 14 exeTime6.020080089569092
+Episode 4: Reward is -54.0, with steps 27 exeTime10.199324131011963
+Episode 5: Reward is -26.0, with steps 13 exeTime4.224048137664795
+Episode 6: Reward is -16.0, with steps 8 exeTime4.4322509765625
+Episode 7: Reward is -6.0, with steps 3 exeTime1.2116289138793945
+Episode 8: Reward is -58.0, with steps 29 exeTime9.569245100021362
+Episode 9: Reward is -46.0, with steps 23 exeTime10.779745101928711
+Checpoint passed
+0.2016009156193052
+Episode 0: Reward is -14.0, with steps 7 exeTime2.5858631134033203
+Episode 1: Reward is -38.0, with steps 19 exeTime11.21002197265625
+Episode 2: Reward is -32.0, with steps 16 exeTime11.02705693244934
+Episode 3: Reward is -26.0, with steps 13 exeTime6.519305229187012
+Episode 4: Reward is -58.0, with steps 29 exeTime13.775044918060303
+Episode 5: Reward is -64.0, with steps 32 exeTime18.640244007110596
+Episode 6: Reward is -26.0, with steps 13 exeTime7.48662805557251
+Episode 7: Reward is -14.0, with steps 7 exeTime3.072939157485962
+Episode 8: Reward is -32.0, with steps 16 exeTime9.784857749938965
+Episode 9: Reward is -30.0, with steps 15 exeTime7.705904722213745
+Checpoint passed
+0.2020215711423329
+Episode 0: Reward is -20.0, with steps 10 exeTime5.60361385345459
+Episode 1: Reward is -18.0, with steps 9 exeTime4.8597424030303955
+Episode 2: Reward is -28.0, with steps 14 exeTime6.574094295501709
+Episode 3: Reward is -20.0, with steps 10 exeTime6.921043157577515
+Episode 4: Reward is -16.0, with steps 8 exeTime4.013811111450195
+Episode 5: Reward is -44.0, with steps 22 exeTime11.56814980506897
+Episode 6: Reward is -24.0, with steps 12 exeTime9.595530986785889
+Episode 7: Reward is -4.0, with steps 2 exeTime0.8699860572814941
+Episode 8: Reward is -16.0, with steps 8 exeTime3.0570759773254395
+Episode 9: Reward is -44.0, with steps 22 exeTime11.229361057281494
+Checpoint passed
+0.2022314348391124
+Episode 0: Reward is -42.0, with steps 21 exeTime8.893030881881714
+Episode 1: Reward is -44.0, with steps 22 exeTime13.727758169174194
+Episode 2: Reward is -24.0, with steps 12 exeTime7.3406500816345215
+Episode 3: Reward is -18.0, with steps 9 exeTime5.616302013397217
+Episode 4: Reward is -22.0, with steps 11 exeTime3.712095022201538
+Episode 5: Reward is -54.0, with steps 27 exeTime10.901167154312134
+Episode 6: Reward is -68.0, with steps 34 exeTime24.744874954223633
+Episode 7: Reward is -98.0, with steps 49 exeTime30.003633975982666
+Episode 8: Reward is -14.0, with steps 7 exeTime3.4967041015625
+Episode 9: Reward is -40.0, with steps 20 exeTime14.807758092880249
+Checpoint passed
+0.20242764055728912
+Episode 0: Reward is -40.0, with steps 20 exeTime10.639019012451172
+Episode 1: Reward is -32.0, with steps 16 exeTime7.347307205200195
+Episode 2: Reward is -12.0, with steps 6 exeTime4.30561900138855
+Episode 3: Reward is -80.0, with steps 40 exeTime26.606640815734863
+Episode 4: Reward is -8.0, with steps 4 exeTime1.9400017261505127
+Episode 5: Reward is -22.0, with steps 11 exeTime3.909688711166382
+Episode 6: Reward is -24.0, with steps 12 exeTime5.534253120422363
+Episode 7: Reward is -28.0, with steps 14 exeTime6.326240062713623
+Episode 8: Reward is -76.0, with steps 38 exeTime20.836971759796143
+Episode 9: Reward is -104.0, with steps 52 exeTime41.89942407608032
+Checpoint passed
+0.20278913634163992
+Episode 0: Reward is -68.0, with steps 34 exeTime19.331583976745605
+Episode 1: Reward is -18.0, with steps 9 exeTime4.093585968017578
+Episode 2: Reward is -44.0, with steps 22 exeTime12.006048917770386
+Episode 3: Reward is -50.0, with steps 25 exeTime12.275402307510376
+Episode 4: Reward is -60.0, with steps 30 exeTime16.134672164916992
+Episode 5: Reward is -50.0, with steps 25 exeTime16.274435997009277
+Episode 6: Reward is -18.0, with steps 9 exeTime4.486711025238037
+Episode 7: Reward is -44.0, with steps 22 exeTime14.791980028152466
+Episode 8: Reward is -26.0, with steps 13 exeTime7.173720121383667
+Episode 9: Reward is -32.0, with steps 16 exeTime7.494935750961304
+Checpoint passed
+0.20256635333810533
+Episode 0: Reward is -40.0, with steps 20 exeTime11.05316686630249
+Episode 1: Reward is -34.0, with steps 17 exeTime8.74484896659851
+Episode 2: Reward is -30.0, with steps 15 exeTime10.735728979110718
+Episode 3: Reward is -18.0, with steps 9 exeTime3.5062079429626465
+Episode 4: Reward is -26.0, with steps 13 exeTime8.173334121704102
+Episode 5: Reward is -48.0, with steps 24 exeTime14.270211696624756
+Episode 6: Reward is -18.0, with steps 9 exeTime4.510607719421387
+Episode 7: Reward is -24.0, with steps 12 exeTime5.906487941741943
+Episode 8: Reward is -32.0, with steps 16 exeTime9.340383052825928
+Episode 9: Reward is -68.0, with steps 34 exeTime19.108981132507324
+Checpoint passed
+0.2010763564280101
+Episode 0: Reward is -40.0, with steps 20 exeTime11.2896409034729
+Episode 1: Reward is -94.0, with steps 47 exeTime30.241276025772095
+Episode 2: Reward is -52.0, with steps 26 exeTime14.342329025268555
+Episode 3: Reward is -28.0, with steps 14 exeTime7.850507736206055
+Episode 4: Reward is -44.0, with steps 22 exeTime12.291758060455322
+Episode 5: Reward is -90.0, with steps 45 exeTime18.196693897247314
+Episode 6: Reward is -48.0, with steps 24 exeTime16.08430004119873
+Episode 7: Reward is -38.0, with steps 19 exeTime12.735332012176514
+Episode 8: Reward is -68.0, with steps 34 exeTime20.918778657913208
+Episode 9: Reward is -38.0, with steps 19 exeTime16.397684812545776
+Checpoint passed
+0.20121265096323832
+Episode 0: Reward is -16.0, with steps 8 exeTime4.138225078582764
+Episode 1: Reward is -20.0, with steps 10 exeTime6.686718225479126
+Episode 2: Reward is -38.0, with steps 19 exeTime10.9532470703125
+Episode 3: Reward is -40.0, with steps 20 exeTime10.58006477355957
+Episode 4: Reward is -44.0, with steps 22 exeTime15.200740098953247
+Episode 5: Reward is -38.0, with steps 19 exeTime10.907381057739258
+Episode 6: Reward is -38.0, with steps 19 exeTime12.696930170059204
+Episode 7: Reward is -22.0, with steps 11 exeTime4.461018800735474
+Episode 8: Reward is -32.0, with steps 16 exeTime7.774646043777466
+Episode 9: Reward is -80.0, with steps 40 exeTime16.79959225654602
+Checpoint passed
+0.20179980993270874
+Episode 0: Reward is -34.0, with steps 17 exeTime8.87228798866272
+Episode 1: Reward is -38.0, with steps 19 exeTime9.533177852630615
+Episode 2: Reward is -84.0, with steps 42 exeTime29.149835109710693
+Episode 3: Reward is -16.0, with steps 8 exeTime3.304999828338623
+Episode 4: Reward is -74.0, with steps 37 exeTime24.478835105895996
+Episode 5: Reward is -30.0, with steps 15 exeTime7.498131036758423
+Episode 6: Reward is -28.0, with steps 14 exeTime12.386116981506348
+Episode 7: Reward is -62.0, with steps 31 exeTime26.712324857711792
+Episode 8: Reward is -50.0, with steps 25 exeTime15.496438026428223
+Episode 9: Reward is -24.0, with steps 12 exeTime11.545244932174683
+Checpoint passed
+0.2014909471784319
+Episode 0: Reward is -68.0, with steps 34 exeTime19.132474184036255
+Episode 1: Reward is -68.0, with steps 34 exeTime28.927876949310303
+Episode 2: Reward is -32.0, with steps 16 exeTime9.36360502243042
+Episode 3: Reward is -20.0, with steps 10 exeTime5.9756999015808105
+Episode 4: Reward is -156.0, with steps 78 exeTime46.12748694419861
+Episode 5: Reward is -40.0, with steps 20 exeTime9.631706953048706
+Episode 6: Reward is -34.0, with steps 17 exeTime11.341623067855835
+Episode 7: Reward is -70.0, with steps 35 exeTime22.837696075439453
+Episode 8: Reward is -60.0, with steps 30 exeTime17.335509061813354
+Episode 9: Reward is -40.0, with steps 20 exeTime10.76515793800354
+Checpoint passed
+0.20124804973602295
+Episode 0: Reward is -68.0, with steps 34 exeTime17.865194082260132
+Episode 1: Reward is -56.0, with steps 28 exeTime14.951262950897217
+Episode 2: Reward is -42.0, with steps 21 exeTime11.997994661331177
+Episode 3: Reward is -32.0, with steps 16 exeTime12.927634239196777
+Episode 4: Reward is -32.0, with steps 16 exeTime12.506545066833496
+Episode 5: Reward is -28.0, with steps 14 exeTime8.93640398979187
+Episode 6: Reward is -36.0, with steps 18 exeTime8.744858264923096
+Episode 7: Reward is -52.0, with steps 26 exeTime17.33515214920044
+Episode 8: Reward is -28.0, with steps 14 exeTime6.897080183029175
+Episode 9: Reward is -52.0, with steps 26 exeTime14.172428131103516
+Checpoint passed
+0.20074938663414546
+Episode 0: Reward is -22.0, with steps 11 exeTime4.65394926071167
+Episode 1: Reward is -20.0, with steps 10 exeTime4.2414939403533936
+Episode 2: Reward is -44.0, with steps 22 exeTime14.502991914749146
+Episode 3: Reward is -12.0, with steps 6 exeTime2.696491003036499
+Episode 4: Reward is -52.0, with steps 26 exeTime12.558871030807495
+Episode 5: Reward is -30.0, with steps 15 exeTime10.864996194839478
+Episode 6: Reward is -28.0, with steps 14 exeTime7.924182176589966
+Episode 7: Reward is -58.0, with steps 29 exeTime17.338505029678345
+Episode 8: Reward is -52.0, with steps 26 exeTime16.80174207687378
+Episode 9: Reward is -66.0, with steps 33 exeTime17.694255113601685
+Checpoint passed
+0.20023928582668304
+Episode 0: Reward is -36.0, with steps 18 exeTime11.71326494216919
+Episode 1: Reward is -44.0, with steps 22 exeTime12.510534048080444
+Episode 2: Reward is -50.0, with steps 25 exeTime16.05047607421875
+Episode 3: Reward is -30.0, with steps 15 exeTime7.313380002975464
+Episode 4: Reward is -16.0, with steps 8 exeTime3.9872162342071533
+Episode 5: Reward is -38.0, with steps 19 exeTime10.374252080917358
+Episode 6: Reward is -36.0, with steps 18 exeTime15.350524187088013
+Episode 7: Reward is -14.0, with steps 7 exeTime4.3298070430755615
+Episode 8: Reward is -50.0, with steps 25 exeTime18.04566192626953
+Episode 9: Reward is -52.0, with steps 26 exeTime17.84917902946472
+Checpoint passed
+0.20050652112279618
+Episode 0: Reward is -34.0, with steps 17 exeTime7.301666975021362
+Episode 1: Reward is -20.0, with steps 10 exeTime6.31969428062439
+Episode 2: Reward is -64.0, with steps 32 exeTime20.728718996047974
+Episode 3: Reward is -24.0, with steps 12 exeTime6.904529809951782
+Episode 4: Reward is -94.0, with steps 47 exeTime23.286008834838867
+Episode 5: Reward is -54.0, with steps 27 exeTime18.353940963745117
+Episode 6: Reward is -24.0, with steps 12 exeTime6.8620288372039795
+Episode 7: Reward is -34.0, with steps 17 exeTime9.773613929748535
+Episode 8: Reward is -24.0, with steps 12 exeTime8.45033597946167
+Episode 9: Reward is -46.0, with steps 23 exeTime18.775795936584473
+Checpoint passed
+0.200923923935209
+Episode 0: Reward is -64.0, with steps 32 exeTime23.57125687599182
+Episode 1: Reward is -44.0, with steps 22 exeTime11.525384187698364
+Episode 2: Reward is -52.0, with steps 26 exeTime13.740689754486084
+Episode 3: Reward is -10.0, with steps 5 exeTime2.204890251159668
+Episode 4: Reward is -8.0, with steps 4 exeTime2.194150924682617
+Episode 5: Reward is -60.0, with steps 30 exeTime19.29654288291931
+Episode 6: Reward is -34.0, with steps 17 exeTime10.608307838439941
+Episode 7: Reward is -38.0, with steps 19 exeTime11.269341945648193
+Episode 8: Reward is -42.0, with steps 21 exeTime13.422500133514404
+Episode 9: Reward is -48.0, with steps 24 exeTime11.464018821716309
+Checpoint passed
+0.1999895806823458
+Episode 0: Reward is -46.0, with steps 23 exeTime13.943273067474365
+Episode 1: Reward is -50.0, with steps 25 exeTime16.323092937469482
+Episode 2: Reward is -26.0, with steps 13 exeTime9.500494241714478
+Episode 3: Reward is -54.0, with steps 27 exeTime15.052335739135742
+Episode 4: Reward is -96.0, with steps 48 exeTime29.148113012313843
+Episode 5: Reward is -26.0, with steps 13 exeTime7.613685131072998
+Episode 6: Reward is -152.0, with steps 76 exeTime50.75070261955261
+Episode 7: Reward is -16.0, with steps 8 exeTime3.8853237628936768
+Episode 8: Reward is -60.0, with steps 30 exeTime20.174038887023926
+Episode 9: Reward is -26.0, with steps 13 exeTime8.396219253540039
+Checpoint passed
+0.19997318514755794
+Episode 0: Reward is -38.0, with steps 19 exeTime9.198271989822388
+Episode 1: Reward is -64.0, with steps 32 exeTime13.777657747268677
+Episode 2: Reward is -34.0, with steps 17 exeTime10.788523197174072
+Episode 3: Reward is -42.0, with steps 21 exeTime11.220570087432861
+Episode 4: Reward is -50.0, with steps 25 exeTime12.251594066619873
+Episode 5: Reward is -20.0, with steps 10 exeTime4.8211681842803955
+Episode 6: Reward is -48.0, with steps 24 exeTime9.409832000732422
+Episode 7: Reward is -38.0, with steps 19 exeTime9.232357740402222
+Episode 8: Reward is -56.0, with steps 28 exeTime12.268486261367798
+Episode 9: Reward is -26.0, with steps 13 exeTime6.591556072235107
+Checpoint passed
+0.19982595316001348
+Episode 0: Reward is -36.0, with steps 18 exeTime9.761346101760864
+Episode 1: Reward is -48.0, with steps 24 exeTime14.996363878250122
+Episode 2: Reward is -66.0, with steps 33 exeTime18.582357168197632
+Episode 3: Reward is -36.0, with steps 18 exeTime11.763277292251587
+Episode 4: Reward is -4.0, with steps 2 exeTime1.0609428882598877
+Episode 5: Reward is -58.0, with steps 29 exeTime15.174819946289062
+Episode 6: Reward is -22.0, with steps 11 exeTime7.059766054153442
+Episode 7: Reward is -70.0, with steps 35 exeTime17.241062879562378
+Episode 8: Reward is -44.0, with steps 22 exeTime18.11015796661377
+Episode 9: Reward is -48.0, with steps 24 exeTime10.358205080032349
+Checpoint passed
+0.1997139028140477
+Episode 0: Reward is -26.0, with steps 13 exeTime6.06757116317749
+Episode 1: Reward is -20.0, with steps 10 exeTime4.366382837295532
+Episode 2: Reward is -92.0, with steps 46 exeTime26.1757550239563
+Episode 3: Reward is -30.0, with steps 15 exeTime6.009076833724976
+Episode 4: Reward is -38.0, with steps 19 exeTime16.139376878738403
+Episode 5: Reward is -22.0, with steps 11 exeTime6.1841819286346436
+Episode 6: Reward is -16.0, with steps 8 exeTime3.7863311767578125
+Episode 7: Reward is -46.0, with steps 23 exeTime16.440931797027588
+Episode 8: Reward is -18.0, with steps 9 exeTime5.347554922103882
+Episode 9: Reward is -70.0, with steps 35 exeTime17.17818808555603
+Checpoint passed
+0.19971843489578792
+Episode 0: Reward is -54.0, with steps 27 exeTime12.538402080535889
+Episode 1: Reward is -42.0, with steps 21 exeTime14.237485647201538
+Episode 2: Reward is -26.0, with steps 13 exeTime7.2319111824035645
+Episode 3: Reward is -18.0, with steps 9 exeTime4.347577810287476
+Episode 4: Reward is -52.0, with steps 26 exeTime19.301079988479614
+Episode 5: Reward is -18.0, with steps 9 exeTime6.555530071258545
+Episode 6: Reward is -38.0, with steps 19 exeTime11.93318796157837
+Episode 7: Reward is -50.0, with steps 25 exeTime12.730998992919922
+Episode 8: Reward is -60.0, with steps 30 exeTime19.472081899642944
+Episode 9: Reward is -44.0, with steps 22 exeTime17.012683629989624
+Checpoint passed
+0.19977569367204392
+Episode 0: Reward is -54.0, with steps 27 exeTime19.37589693069458
+Episode 1: Reward is -22.0, with steps 11 exeTime4.669787168502808
+Episode 2: Reward is -86.0, with steps 43 exeTime20.27919101715088
+Episode 3: Reward is -60.0, with steps 30 exeTime16.4928240776062
+Episode 4: Reward is -50.0, with steps 25 exeTime17.947399854660034
+Episode 5: Reward is -72.0, with steps 36 exeTime27.870996952056885
+Episode 6: Reward is -34.0, with steps 17 exeTime12.169715881347656
+Episode 7: Reward is -64.0, with steps 32 exeTime12.434504985809326
+Episode 8: Reward is -20.0, with steps 10 exeTime4.818041801452637
+Episode 9: Reward is -30.0, with steps 15 exeTime7.628220796585083
+Checpoint passed
+0.19987088441848755
+Episode 0: Reward is -40.0, with steps 20 exeTime13.783377170562744
+Episode 1: Reward is -112.0, with steps 56 exeTime38.19902300834656
+Episode 2: Reward is -38.0, with steps 19 exeTime10.17116379737854
+Episode 3: Reward is -84.0, with steps 42 exeTime19.28646993637085
+Episode 4: Reward is -18.0, with steps 9 exeTime3.7928240299224854
+Episode 5: Reward is -62.0, with steps 31 exeTime18.072746992111206
+Episode 6: Reward is -14.0, with steps 7 exeTime3.9727039337158203
+Episode 7: Reward is -24.0, with steps 12 exeTime8.00291109085083
+Episode 8: Reward is -36.0, with steps 18 exeTime17.011237859725952
+Episode 9: Reward is -4.0, with steps 2 exeTime0.8011198043823242
+Checpoint passed
+0.1987685880490712
+Episode 0: Reward is -68.0, with steps 34 exeTime25.942418098449707
+Episode 1: Reward is -106.0, with steps 53 exeTime35.51789116859436
+Episode 2: Reward is -12.0, with steps 6 exeTime3.6759979724884033
+Episode 3: Reward is -62.0, with steps 31 exeTime23.403146982192993
+Episode 4: Reward is -64.0, with steps 32 exeTime22.276247024536133
+Episode 5: Reward is -60.0, with steps 30 exeTime21.65160870552063
+Episode 6: Reward is -34.0, with steps 17 exeTime9.907651901245117
+Episode 7: Reward is -86.0, with steps 43 exeTime20.89968204498291
+Episode 8: Reward is -50.0, with steps 25 exeTime20.05941891670227
+Episode 9: Reward is -32.0, with steps 16 exeTime10.924859762191772
+Checpoint passed
+0.19849025777408055
+Episode 0: Reward is -44.0, with steps 22 exeTime13.715228796005249
+Episode 1: Reward is -18.0, with steps 9 exeTime4.997900724411011
+Episode 2: Reward is -14.0, with steps 7 exeTime3.3615307807922363
+Episode 3: Reward is -42.0, with steps 21 exeTime14.286870956420898
+Episode 4: Reward is -26.0, with steps 13 exeTime8.171113967895508
+Episode 5: Reward is -22.0, with steps 11 exeTime4.974772930145264
+Episode 6: Reward is -16.0, with steps 8 exeTime3.235351085662842
+Episode 7: Reward is -42.0, with steps 21 exeTime14.081212997436523
+Episode 8: Reward is -42.0, with steps 21 exeTime8.335608005523682
+Episode 9: Reward is -52.0, with steps 26 exeTime10.335990905761719
+Checpoint passed
+0.19858503980296
+Episode 0: Reward is -60.0, with steps 30 exeTime15.868675231933594
+Episode 1: Reward is -42.0, with steps 21 exeTime10.193244218826294
+Episode 2: Reward is -38.0, with steps 19 exeTime13.768349885940552
+Episode 3: Reward is -46.0, with steps 23 exeTime11.023746967315674
+Episode 4: Reward is -58.0, with steps 29 exeTime21.39425802230835
+Episode 5: Reward is -44.0, with steps 22 exeTime9.005803108215332
+Episode 6: Reward is -28.0, with steps 14 exeTime8.851072072982788
+Episode 7: Reward is -80.0, with steps 40 exeTime29.027377128601074
+Episode 8: Reward is -24.0, with steps 12 exeTime8.63971495628357
+Episode 9: Reward is -50.0, with steps 25 exeTime14.228152990341187
+Checpoint passed
+0.19798076791422708
+Episode 0: Reward is -34.0, with steps 17 exeTime10.178589105606079
+Episode 1: Reward is -12.0, with steps 6 exeTime4.489613056182861
+Episode 2: Reward is -54.0, with steps 27 exeTime14.673399925231934
+Episode 3: Reward is -30.0, with steps 15 exeTime9.5974280834198
+Episode 4: Reward is -26.0, with steps 13 exeTime5.7415611743927
+Episode 5: Reward is -34.0, with steps 17 exeTime11.575563907623291
+Episode 6: Reward is -42.0, with steps 21 exeTime11.773130893707275
+Episode 7: Reward is -70.0, with steps 35 exeTime16.219393014907837
+Episode 8: Reward is -16.0, with steps 8 exeTime6.440914869308472
+Episode 9: Reward is -32.0, with steps 16 exeTime8.942153930664062
+Checpoint passed
+0.19800386258534022
+Episode 0: Reward is -32.0, with steps 16 exeTime9.261451959609985
+Episode 1: Reward is -18.0, with steps 9 exeTime5.097537040710449
+Episode 2: Reward is -52.0, with steps 26 exeTime12.0762460231781
+Episode 3: Reward is -78.0, with steps 39 exeTime22.22540807723999
+Episode 4: Reward is -52.0, with steps 26 exeTime15.480823040008545
+Episode 5: Reward is -82.0, with steps 41 exeTime22.71653699874878
+Episode 6: Reward is -62.0, with steps 31 exeTime24.70505690574646
+Episode 7: Reward is -14.0, with steps 7 exeTime3.964387893676758
+Episode 8: Reward is -88.0, with steps 44 exeTime21.70714020729065
+Episode 9: Reward is -44.0, with steps 22 exeTime15.30400824546814
+Checpoint passed
+0.19759793792452132
+Episode 0: Reward is -12.0, with steps 6 exeTime2.975621223449707
+Episode 1: Reward is -36.0, with steps 18 exeTime9.149257898330688
+Episode 2: Reward is -30.0, with steps 15 exeTime10.199319124221802
+Episode 3: Reward is -28.0, with steps 14 exeTime7.051839113235474
+Episode 4: Reward is -20.0, with steps 10 exeTime5.051860094070435
+Episode 5: Reward is -64.0, with steps 32 exeTime22.91250205039978
+Episode 6: Reward is -44.0, with steps 22 exeTime13.630774021148682
+Episode 7: Reward is -44.0, with steps 22 exeTime15.488993883132935
+Episode 8: Reward is -112.0, with steps 56 exeTime35.74292993545532
+Episode 9: Reward is -38.0, with steps 19 exeTime12.13786506652832
+Checpoint passed
+0.1976407596043178
+Episode 0: Reward is -56.0, with steps 28 exeTime14.563029050827026
+Episode 1: Reward is -46.0, with steps 23 exeTime13.055249214172363
+Episode 2: Reward is -54.0, with steps 27 exeTime16.069411039352417
+Episode 3: Reward is -58.0, with steps 29 exeTime18.123350858688354
+Episode 4: Reward is -28.0, with steps 14 exeTime11.75072693824768
+Episode 5: Reward is -78.0, with steps 39 exeTime16.272293090820312
+Episode 6: Reward is -62.0, with steps 31 exeTime16.348405838012695
+Episode 7: Reward is -154.0, with steps 77 exeTime47.44829988479614
+Episode 8: Reward is -48.0, with steps 24 exeTime14.436954975128174
+Episode 9: Reward is -22.0, with steps 11 exeTime5.96956992149353
+Checpoint passed
+0.1970179740871702
+Episode 0: Reward is -14.0, with steps 7 exeTime4.002310037612915
+Episode 1: Reward is -50.0, with steps 25 exeTime18.286245822906494
+Episode 2: Reward is -28.0, with steps 14 exeTime7.639485120773315
+Episode 3: Reward is -44.0, with steps 22 exeTime14.334846019744873
+Episode 4: Reward is -44.0, with steps 22 exeTime17.85946798324585
+Episode 5: Reward is -16.0, with steps 8 exeTime4.762364864349365
+Episode 6: Reward is -10.0, with steps 5 exeTime2.3646960258483887
+Episode 7: Reward is -38.0, with steps 19 exeTime15.251281976699829
+Episode 8: Reward is -26.0, with steps 13 exeTime7.146377086639404
+Episode 9: Reward is -28.0, with steps 14 exeTime8.894930839538574
+Checpoint passed
+0.1966333772454943
+Episode 0: Reward is -62.0, with steps 31 exeTime17.170711040496826
+Episode 1: Reward is -50.0, with steps 25 exeTime14.847357034683228
+Episode 2: Reward is -34.0, with steps 17 exeTime9.621483087539673
+Episode 3: Reward is -28.0, with steps 14 exeTime7.821722030639648
+Episode 4: Reward is -90.0, with steps 45 exeTime20.568150758743286
+Episode 5: Reward is -40.0, with steps 20 exeTime12.835890054702759
+Episode 6: Reward is -18.0, with steps 9 exeTime5.066979885101318
+Episode 7: Reward is -80.0, with steps 40 exeTime20.655065774917603
+Episode 8: Reward is -20.0, with steps 10 exeTime5.566642999649048
+Episode 9: Reward is -38.0, with steps 19 exeTime13.677299976348877
+Checpoint passed
+0.19654979024614608
+Episode 0: Reward is -62.0, with steps 31 exeTime17.474901914596558
+Episode 1: Reward is -26.0, with steps 13 exeTime6.666208982467651
+Episode 2: Reward is -64.0, with steps 32 exeTime15.837104797363281
+Episode 3: Reward is -42.0, with steps 21 exeTime11.831719160079956
+Episode 4: Reward is -50.0, with steps 25 exeTime11.145235061645508
+Episode 5: Reward is -14.0, with steps 7 exeTime3.9711410999298096
+Episode 6: Reward is -24.0, with steps 12 exeTime7.031850576400757
+Episode 7: Reward is -38.0, with steps 19 exeTime11.70086407661438
+Episode 8: Reward is -88.0, with steps 44 exeTime24.83818507194519
+Episode 9: Reward is -30.0, with steps 15 exeTime9.302304029464722
+Checpoint passed
+0.1961086711713246
+Episode 0: Reward is -48.0, with steps 24 exeTime12.252723932266235
+Episode 1: Reward is -80.0, with steps 40 exeTime25.144410133361816
+Episode 2: Reward is -46.0, with steps 23 exeTime13.805737257003784
+Episode 3: Reward is -22.0, with steps 11 exeTime7.0491321086883545
+Episode 4: Reward is -26.0, with steps 13 exeTime6.060787916183472
+Episode 5: Reward is -18.0, with steps 9 exeTime5.021111011505127
+Episode 6: Reward is -116.0, with steps 58 exeTime34.648207902908325
+Episode 7: Reward is -22.0, with steps 11 exeTime6.286632776260376
+Episode 8: Reward is -34.0, with steps 17 exeTime9.507656812667847
+Episode 9: Reward is -32.0, with steps 16 exeTime7.234800100326538
+Checpoint passed
+0.1956546434334346
+Episode 0: Reward is -16.0, with steps 8 exeTime3.1205708980560303
+Episode 1: Reward is -50.0, with steps 25 exeTime16.930331230163574
+Episode 2: Reward is -36.0, with steps 18 exeTime12.068772077560425
+Episode 3: Reward is -6.0, with steps 3 exeTime1.1774468421936035
+Episode 4: Reward is -38.0, with steps 19 exeTime12.423967123031616
+Episode 5: Reward is -32.0, with steps 16 exeTime10.70176100730896
+Episode 6: Reward is -54.0, with steps 27 exeTime19.51841115951538
+Episode 7: Reward is -40.0, with steps 20 exeTime12.396435022354126
+Episode 8: Reward is -20.0, with steps 10 exeTime4.314773082733154
+Episode 9: Reward is -10.0, with steps 5 exeTime2.424901008605957
+Checpoint passed
+0.1958260408469609
+Episode 0: Reward is -32.0, with steps 16 exeTime10.811452865600586
+Episode 1: Reward is -18.0, with steps 9 exeTime4.340488910675049
+Episode 2: Reward is -32.0, with steps 16 exeTime8.075986862182617
+Episode 3: Reward is -84.0, with steps 42 exeTime33.10852384567261
+Episode 4: Reward is -30.0, with steps 15 exeTime10.135187864303589
+Episode 5: Reward is -26.0, with steps 13 exeTime6.678897857666016
+Episode 6: Reward is -28.0, with steps 14 exeTime8.228391885757446
+Episode 7: Reward is -24.0, with steps 12 exeTime7.6414830684661865
+Episode 8: Reward is -26.0, with steps 13 exeTime6.84525203704834
+Episode 9: Reward is -52.0, with steps 26 exeTime15.505149841308594
+Checpoint passed
+0.19555335172585078
+Episode 0: Reward is -14.0, with steps 7 exeTime4.39451003074646
+Episode 1: Reward is -30.0, with steps 15 exeTime10.261534929275513
+Episode 2: Reward is -42.0, with steps 21 exeTime12.510308742523193
+Episode 3: Reward is -50.0, with steps 25 exeTime15.094008922576904
+Episode 4: Reward is -42.0, with steps 21 exeTime13.473741054534912
+Episode 5: Reward is -68.0, with steps 34 exeTime19.781434774398804
+Episode 6: Reward is -38.0, with steps 19 exeTime11.150185108184814
+Episode 7: Reward is -14.0, with steps 7 exeTime4.1706531047821045
+Episode 8: Reward is -36.0, with steps 18 exeTime13.704870223999023
+Episode 9: Reward is -24.0, with steps 12 exeTime6.706634044647217
+Checpoint passed
+0.19434550830296107
+Episode 0: Reward is -38.0, with steps 19 exeTime12.377367973327637
+Episode 1: Reward is -46.0, with steps 23 exeTime13.931500911712646
+Episode 2: Reward is -48.0, with steps 24 exeTime15.586920976638794
+Episode 3: Reward is -64.0, with steps 32 exeTime13.512815713882446
+Episode 4: Reward is -44.0, with steps 22 exeTime13.076569080352783
+Episode 5: Reward is -42.0, with steps 21 exeTime13.368919134140015
+Traceback (most recent call last):
+  File "/Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/iDQN/bert_5050_mode20/bertsekas-marl/learn_idqn_L1.py", line 378, in <module>
+    net, trainingEvaluations = train_qnetwork(agent_samples, criterion,qnetName)
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/iDQN/bert_5050_mode20/bertsekas-marl/learn_idqn_L1.py", line 338, in train_qnetwork
+    trainingEvaluations[epoch] = runTest(10,epoch,qnetName)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/iDQN/bert_5050_mode20/bertsekas-marl/learn_idqn_L1.py", line 160, in runTest
+    action_id, action_distances = agent.act(obs, prev_actions=prev_actions)
+                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/iDQN/bert_5050_mode20/bertsekas-marl/src/agent_seq_rollout.py", line 69, in act
+    best_action, action_q_values = self.act_with_info(obs, prev_actions)
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/iDQN/bert_5050_mode20/bertsekas-marl/src/agent_seq_rollout.py", line 127, in act_with_info
+    res = self._simulate_action_par(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/iDQN/bert_5050_mode20/bertsekas-marl/src/agent_seq_rollout.py", line 228, in _simulate_action_par
+    sim_best_action = agent.act(sim_obs, prev_actions=sim_prev_actions)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/iDQN/bert_5050_mode20/bertsekas-marl/src/agent_rule_based.py", line 45, in act
+    best_action, action_distances = self.act_with_info(obs)
+                                    ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/iDQN/bert_5050_mode20/bertsekas-marl/src/agent_rule_based.py", line 58, in act_with_info
+    min_indices = np.flatnonzero(arrSortedActDist == min_value)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/bertsekas-marl/spider/lib/python3.11/site-packages/numpy/core/numeric.py", line 611, in _flatnonzero_dispatcher
+    def _flatnonzero_dispatcher(a):
+KeyboardInterrupt

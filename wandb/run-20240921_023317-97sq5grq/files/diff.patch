@@ -1,0 +1,65 @@
+diff --git a/.DS_Store b/.DS_Store
+index 183be08..5888718 100644
+Binary files a/.DS_Store and b/.DS_Store differ
+diff --git a/.gitignore b/.gitignore
+index d0526ed..13a921e 100644
+--- a/.gitignore
++++ b/.gitignore
+@@ -167,3 +167,4 @@ dmypy.json
+ # Files
+ *.mp4
+ *.csv
++*.pt
+diff --git a/ma_gym/envs/predator_prey/predator_prey.py b/ma_gym/envs/predator_prey/predator_prey.py
+index 435324a..e3648eb 100644
+--- a/ma_gym/envs/predator_prey/predator_prey.py
++++ b/ma_gym/envs/predator_prey/predator_prey.py
+@@ -44,13 +44,13 @@ class PredatorPrey(gym.Env):
+     def __init__(
+             self,
+             grid_shape=(10, 10), 
+-            n_agents=2,
++            n_agents=1,
+             n_preys=2,
+             prey_move_probs=(0.2, 0.2, 0.2, 0.2, 0.2),
+             # penalty=1,  # initially -0.5; here we assume no penalty for catching the prey solo
+             step_cost=-1,
+-            prey_capture_reward=0,
+-            max_steps=100):
++            prey_capture_reward=10,
++            max_steps=500):
+         
+         self._grid_shape = grid_shape
+         self.grid_shape = grid_shape
+diff --git a/runRuleBasedAgent.py b/runRuleBasedAgent.py
+index 6001ad4..cfdeccf 100644
+--- a/runRuleBasedAgent.py
++++ b/runRuleBasedAgent.py
+@@ -122,7 +122,7 @@ if __name__ == "__main__":
+             newFrame = add_title_to_frame(env.render(), logDict)
+             frames.append(newFrame)
+ 
+-            # visualize_image(env.render())
++            visualize_image(env.render())
+             m_agents = env.n_agents
+             p_preys = env.n_preys
+             grid_shape = env.grid_shape
+@@ -178,7 +178,8 @@ if __name__ == "__main__":
+                     #     logDict["aQ_1"] = action_distances
+ 
+                     # act_n.append(action_id)
+-
++                import ipdb; ipdb.set_trace()
++            
+                 obs_n, reward_n, done_n, info = env.step(act_n)
+                 # add title to frame
+                 newFrame = add_title_to_frame(env.render(), logDict)
+@@ -187,7 +188,7 @@ if __name__ == "__main__":
+                 epi_steps += 1
+                 steps_num += 1
+ 
+-                # visualize_image(env.render())
++                visualize_image(env.render())
+                 total_reward += np.sum(reward_n)
+ 
+             endTime = time.time()

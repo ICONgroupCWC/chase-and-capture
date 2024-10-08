@@ -1,0 +1,11 @@
+Traceback (most recent call last):
+  File "/Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/bert_50x50 orig/bertsekas-marl/runAutoOffline.py", line 283, in <module>
+    for future in as_completed(outer_futures):
+  File "/Users/athmajanvivekananthan/miniconda3/lib/python3.11/concurrent/futures/_base.py", line 243, in as_completed
+    waiter.event.wait(wait_timeout)
+  File "/Users/athmajanvivekananthan/miniconda3/lib/python3.11/threading.py", line 622, in wait
+    signaled = self._cond.wait(timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/athmajanvivekananthan/miniconda3/lib/python3.11/threading.py", line 320, in wait
+    waiter.acquire()
+KeyboardInterrupt

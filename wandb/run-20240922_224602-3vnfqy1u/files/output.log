@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/PPO/bert_marl/mode20-dqn/dqn.py", line 265, in <module>
+    act_n.append(action.item())
+                 ^^^^^^^^^^^^^
+RuntimeError: a Tensor with 2 elements cannot be converted to Scalar

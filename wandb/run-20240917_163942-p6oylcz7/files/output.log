@@ -1,0 +1,35 @@
+Started Training.
+Found device: cpu.
+1.5501849821635656
+Traceback (most recent call last):
+  File "/Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/bertsekas-marl/spider/lib/python3.11/site-packages/torch/serialization.py", line 354, in _check_seekable
+    f.seek(f.tell())
+    ^^^^^^
+AttributeError: 'NoneType' object has no attribute 'seek'
+During handling of the above exception, another exception occurred:
+Traceback (most recent call last):
+  File "/Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/iDQN/bert_5050_mode20/bertsekas-marl/learn_idqn_CE.py", line 377, in <module>
+    net, trainingEvaluations = train_qnetwork(agent_samples, criterion,qnetName)
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/iDQN/bert_5050_mode20/bertsekas-marl/learn_idqn_CE.py", line 333, in train_qnetwork
+    trainingEvaluations[epoch] = runTest(10,epoch,None)
+                                 ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/iDQN/bert_5050_mode20/bertsekas-marl/learn_idqn_CE.py", line 156, in runTest
+    prev_act = getPrevAction(obs,i,inputQName,env.n_agents,env.n_preys)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/iDQN/bert_5050_mode20/bertsekas-marl/learn_idqn_CE.py", line 113, in getPrevAction
+    net.load_state_dict(torch.load(netModelFile))
+                        ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/bertsekas-marl/spider/lib/python3.11/site-packages/torch/serialization.py", line 791, in load
+    with _open_file_like(f, 'rb') as opened_file:
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/bertsekas-marl/spider/lib/python3.11/site-packages/torch/serialization.py", line 276, in _open_file_like
+    return _open_buffer_reader(name_or_buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/bertsekas-marl/spider/lib/python3.11/site-packages/torch/serialization.py", line 261, in __init__
+    _check_seekable(buffer)
+  File "/Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/bertsekas-marl/spider/lib/python3.11/site-packages/torch/serialization.py", line 357, in _check_seekable
+    raise_err_msg(["seek", "tell"], e)
+  File "/Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/bertsekas-marl/spider/lib/python3.11/site-packages/torch/serialization.py", line 350, in raise_err_msg
+    raise type(e)(msg)
+AttributeError: 'NoneType' object has no attribute 'seek'. You can only torch.load from a file that is seekable. Please pre-load the data into a buffer like io.BytesIO and try to load from it instead.

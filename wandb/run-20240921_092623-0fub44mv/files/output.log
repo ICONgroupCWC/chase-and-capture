@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "/Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/PPO/bert_marl/mode20-dqn/dqn_seq.py", line 272, in <module>
+    action_id, action_distances = agent.act(obs, prev_actions=prev_actions)
+                                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/PPO/bert_marl/mode20-dqn/src/agent_seq_rollout.py", line 69, in act
+    best_action, action_q_values = self.act_with_info(obs, prev_actions)
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/PPO/bert_marl/mode20-dqn/src/agent_seq_rollout.py", line 127, in act_with_info
+    res = self._simulate_action_par(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/PPO/bert_marl/mode20-dqn/src/agent_seq_rollout.py", line 190, in _simulate_action_par
+    first_act_n[i] = prev_actions[i]
+    ~~~~~~~~~~~^^^
+ValueError: only one element tensors can be converted to Python scalars

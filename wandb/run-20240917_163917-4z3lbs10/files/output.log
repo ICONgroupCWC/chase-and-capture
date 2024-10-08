@@ -1,0 +1,10 @@
+Started Training.
+Found device: cpu.
+Traceback (most recent call last):
+  File "/Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/iDQN/bert_5050_mode20/bertsekas-marl/learn_idqn_CE.py", line 377, in <module>
+    net, trainingEvaluations = train_qnetwork(agent_samples, criterion,qnetName)
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/iDQN/bert_5050_mode20/bertsekas-marl/learn_idqn_CE.py", line 310, in train_qnetwork
+    inputs, labels = data[0].to(device), data[1].to(device)
+                                         ^^^^^^^^^^
+AttributeError: 'list' object has no attribute 'to'

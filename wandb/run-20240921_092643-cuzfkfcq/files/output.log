@@ -1,5 +1,0 @@
-Traceback (most recent call last):
-  File "/Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/PPO/bert_marl/mode20-dqn/dqn_seq.py", line 266, in <module>
-    prev_actions[i]  = action.detach().item()
-                       ^^^^^^^^^^^^^^^^^^^^^^
-RuntimeError: a Tensor with 2 elements cannot be converted to Scalar

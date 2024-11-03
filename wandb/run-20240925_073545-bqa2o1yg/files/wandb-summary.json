@@ -1,1 +1,0 @@
-{"loss": 0.647370207309723, "Prediction Accuracy": 60.517999999999994, "Norm before clipping": 19.54174639542019, "Norm after clipping": 19.54174639542019, "_timestamp": 1727246182.107966, "_runtime": 7236.703408002853, "_step": 9999, "_wandb": {"runtime": 7843}}

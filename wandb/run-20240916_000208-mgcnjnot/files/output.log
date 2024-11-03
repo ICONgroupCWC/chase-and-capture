@@ -1,8 +1,0 @@
-Traceback (most recent call last):
-  File "/Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/iDQN/bert_5050_mode15/bertsekas-marl/learn_idqn.py", line 317, in <module>
-    agent_samples = retrieveRandomFromMongo(50000, 1, query=None)
-                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/iDQN/bert_5050_mode15/bertsekas-marl/learn_idqn.py", line 233, in retrieveRandomFromMongo
-    prev_actions = np.array(doc["obs"][-10:][0:5], dtype=np.float32)
-                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-KeyboardInterrupt

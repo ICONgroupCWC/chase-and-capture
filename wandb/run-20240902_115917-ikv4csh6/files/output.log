@@ -1,7 +1,0 @@
-Traceback (most recent call last):
-  File "/Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/bert_50x50 orig/bertsekas-marl/runAutoOffline.py", line 222, in <module>
-    grid_shape = env._grid_shape
-                 ^^^^^^^^^^^^^^^
-  File "/Users/athmajanvivekananthan/WCE/JEPA - MARL/multi-agent/bertsekas-marl/spider/lib/python3.11/site-packages/gym/core.py", line 234, in __getattr__
-    raise AttributeError(
-AttributeError: attempted to get missing private attribute '_grid_shape'

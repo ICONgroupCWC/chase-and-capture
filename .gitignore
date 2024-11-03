@@ -1,0 +1,19 @@
+# Ignore image files
+*.png
+*.jpeg
+*.jpg
+
+# Ignore video files
+*.mp4
+
+# Ignore PyTorch model files
+*.pt
+*.pth
+
+# Ignore JSON files
+*.json
+
+# Ignore specific folders
+wandb/
+spider/
+

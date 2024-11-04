@@ -4,7 +4,7 @@ This repository contains preliminary results for research into scalable and auto
 
 ## Preliminary Results
 
-[![Watch the video](Adaptation.png)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Watch the video](Adaptation.png)](https://www.youtube.com/watch?v=fmS5Ribn8Qo&ab_channel=AthmajanVivekananthan)
 
 
 Initial experiments demonstrate the adaptability of MARL agents in a grid-world environment, where agents collaborate to intercept targets with variable behaviors. These findings lay the groundwork for applying MARL to real-world network challenges, such as dynamic resource allocation and network slicing.

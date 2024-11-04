@@ -16,7 +16,3 @@ Initial experiments demonstrate the adaptability of MARL agents in a grid-world 
 ## Future Work
 
 Building on these preliminary findings, future work will focus on scaling these techniques to handle more complex, realistic environments, integrating continuous action spaces, and optimizing agent communication protocols.
-
----
-
-This README provides a concise overview, including background, research focus, results, and a link to further documentation. Let me know if you want additional details!

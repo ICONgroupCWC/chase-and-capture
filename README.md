@@ -1,4 +1,4 @@
-# Multi-Agent Reinforcement Learning for Scalable Communication Network Challenges
+# Adaptation of Multi-Agent Planning During Changes in the Environment
 
 This repository contains preliminary results for research into scalable and autonomous multi-agent systems to address challenges in communication networks. The project uses **Multi-Agent Reinforcement Learning (MARL)** to explore decentralized, adaptive control mechanisms for networks, enabling advanced orchestration, security, and real-time adaptability. The experiments documented here serve as an early demonstration of MARL’s potential in dynamic environments.
 

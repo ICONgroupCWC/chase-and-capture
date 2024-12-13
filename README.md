@@ -14,3 +14,48 @@ Initial experiments demonstrate the adaptability of MARL agents in a grid-world 
 ## Future Work
 
 Building on these preliminary findings, future work will focus on scaling these techniques to handle more complex, realistic environments, integrating continuous action spaces, and optimizing agent communication protocols.
+
+
+### Steps to Run Experiments
+
+#### 1. **Run Base Policy**
+Use the following script to execute the base policy:
+```bash
+python Uncertainty_X/runRuleBasedAgent.py
+```
+
+#### 2. **Run Sequential Rollout**
+Execute the script for a sequential rollout:
+```bash
+python Uncertainty_X/runSeqRollout.py
+```
+
+#### 3. **Run Standard Multi-Agent Rollout**
+To run a standard multi-agent rollout:
+```bash
+python Uncertainty_X/runStandRollout.py
+```
+
+#### 4. **Learn to Model Others**
+These scripts focus on learning to model the behavior of other agents:
+```bash
+python Uncertainty_X/learnRolloutOffV2.py
+python Uncertainty_X/learnRollout_idqn.py
+python Uncertainty_X/learn_idqn_CE.py
+python Uncertainty_X/learn_idqn_L1.py
+python Uncertainty_X/learn_idqn_mmse.py
+python Uncertainty_X/classify_rmsProp.py
+python Uncertainty_X/classify_kfold.py
+```
+
+#### 5. **Run Autonomous Multi-Agent Rollout**
+To execute the autonomous multi-agent rollout script:
+```bash
+python Uncertainty_X/runAutoOffline.py
+```
+
+#### 6. **Run Cross Settings in Autonomous Multi-Agent Rollout**
+This script handles cross-setting scenarios for autonomous multi-agent rollouts:
+```bash
+python Uncertainty_X/runApproxCross_30.py
+```
